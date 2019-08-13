@@ -1,0 +1,1829 @@
+[
+ {
+   "GameID": "G3",
+   "TeamID": "B4",
+   "PlayerID": 6,
+   "Extra_Information": "SUSPENDED",
+   "Color_Dot": "RED"
+ },
+ {
+   "GameID": "G17",
+   "TeamID": "A1",
+   "PlayerID": 17,
+   "Extra_Information": "ABSENT",
+   "Color_Dot": "White "
+ },
+ {
+   "GameID": "G17",
+   "TeamID": "A1",
+   "PlayerID": 9,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G17",
+   "TeamID": "A3",
+   "PlayerID": 6,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G17",
+   "TeamID": "A3",
+   "PlayerID": 5,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G18",
+   "TeamID": "B1",
+   "PlayerID": 16,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G18",
+   "TeamID": "B3",
+   "PlayerID": 8,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G18",
+   "TeamID": "B3",
+   "PlayerID": 15,
+   "Extra_Information": "INJURED",
+   "Color_Dot": "Purple"
+ },
+ {
+   "GameID": "G19",
+   "TeamID": "A2",
+   "PlayerID": 17,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G20",
+   "TeamID": "B4",
+   "PlayerID": 10,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G20",
+   "TeamID": "B4",
+   "PlayerID": 7,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G20",
+   "TeamID": "B4",
+   "PlayerID": 18,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G20",
+   "TeamID": "B2",
+   "PlayerID": 5,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G20",
+   "TeamID": "B4",
+   "PlayerID": 4,
+   "Extra_Information": "INJURED",
+   "Color_Dot": "Purple"
+ },
+ {
+   "GameID": "G21",
+   "TeamID": "C4",
+   "PlayerID": 8,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G21",
+   "TeamID": "C4",
+   "PlayerID": 20,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G21",
+   "TeamID": "C2",
+   "PlayerID": 7,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G21",
+   "TeamID": "C2",
+   "PlayerID": 16,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G21",
+   "TeamID": "C2",
+   "PlayerID": 19,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G21",
+   "TeamID": "C4",
+   "PlayerID": 7,
+   "Extra_Information": "ABSENT",
+   "Color_Dot": "White"
+ },
+ {
+   "GameID": "G22",
+   "TeamID": "C1",
+   "PlayerID": 12,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G22",
+   "TeamID": "C3",
+   "PlayerID": 13,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G23",
+   "TeamID": "D3",
+   "PlayerID": 7,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G23",
+   "TeamID": "D3",
+   "PlayerID": 11,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G23",
+   "TeamID": "D3",
+   "PlayerID": 16,
+   "Extra_Information": "ABSENT",
+   "Color_Dot": "White "
+ },
+ {
+   "GameID": "G24",
+   "TeamID": "E1",
+   "PlayerID": 5,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G24",
+   "TeamID": "E3",
+   "PlayerID": 20,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G24",
+   "TeamID": "E3",
+   "PlayerID": 15,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G24",
+   "TeamID": "E1",
+   "PlayerID": 14,
+   "Extra_Information": "ABSENT",
+   "Color_Dot": "White "
+ },
+ {
+   "GameID": "G25",
+   "TeamID": "D4",
+   "PlayerID": 5,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G26",
+   "TeamID": "E4",
+   "PlayerID": 6,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G26",
+   "TeamID": "E4",
+   "PlayerID": 8,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G26",
+   "TeamID": "E2",
+   "PlayerID": 2,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G26",
+   "TeamID": "E2",
+   "PlayerID": 11,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G26",
+   "TeamID": "E2",
+   "PlayerID": 22,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G27",
+   "TeamID": "G1",
+   "PlayerID": 5,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G27",
+   "TeamID": "G1",
+   "PlayerID": 7,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G27",
+   "TeamID": "G1",
+   "PlayerID": 15,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G27",
+   "TeamID": "G3",
+   "PlayerID": 22,
+   "Extra_Information": "ABSENT",
+   "Color_Dot": "White "
+ },
+ {
+   "GameID": "G28",
+   "TeamID": "F4",
+   "PlayerID": 11,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G28",
+   "TeamID": "F4",
+   "PlayerID": 9,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G28",
+   "TeamID": "F2",
+   "PlayerID": 15,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G28",
+   "TeamID": "F3",
+   "PlayerID": 16,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G28",
+   "TeamID": "F4",
+   "PlayerID": 6,
+   "Extra_Information": "INJURED",
+   "Color_Dot": "Purple"
+ },
+ {
+   "GameID": "G29",
+   "TeamID": "F1",
+   "PlayerID": 13,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G29",
+   "TeamID": "F1",
+   "PlayerID": 5,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G29",
+   "TeamID": "F3",
+   "PlayerID": 17,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G30",
+   "TeamID": "G4",
+   "PlayerID": 2,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G30",
+   "TeamID": "G2",
+   "PlayerID": 2,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G30",
+   "TeamID": "G2",
+   "PlayerID": 8,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G30",
+   "TeamID": "G2",
+   "PlayerID": 11,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G30",
+   "TeamID": "G2",
+   "PlayerID": 15,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G30",
+   "TeamID": "G2",
+   "PlayerID": 20,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G31",
+   "TeamID": "H4",
+   "PlayerID": 1,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G31",
+   "TeamID": "H2",
+   "PlayerID": 5,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G31",
+   "TeamID": "H2",
+   "PlayerID": 6,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G32",
+   "TeamID": "H1",
+   "PlayerID": 10,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G32",
+   "TeamID": "H3",
+   "PlayerID": 5,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G32",
+   "TeamID": "H3",
+   "PlayerID": 10,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G32",
+   "TeamID": "H3",
+   "PlayerID": 6,
+   "Extra_Information": "SUSPENDED",
+   "Color_Dot": "RED "
+ },
+ {
+   "GameID": "G33",
+   "TeamID": "A1",
+   "PlayerID": 10,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G33",
+   "TeamID": "A1",
+   "PlayerID": 17,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G33",
+   "TeamID": "A1",
+   "PlayerID": 9,
+   "Extra_Information": "ABSENT",
+   "Color_Dot": "White "
+ },
+ {
+   "GameID": "G33",
+   "TeamID": "A4",
+   "PlayerID": 2,
+   "Extra_Information": "INJURED",
+   "Color_Dot": "Purple"
+ },
+ {
+   "GameID": "G34",
+   "TeamID": "A2",
+   "PlayerID": 4,
+   "Extra_Information": "INJURED",
+   "Color_Dot": "Purple"
+ },
+ {
+   "GameID": "G34",
+   "TeamID": "A2",
+   "PlayerID": 5,
+   "Extra_Information": "INJURED",
+   "Color_Dot": "Purple"
+ },
+ {
+   "GameID": "G34",
+   "TeamID": "A2",
+   "PlayerID": 17,
+   "Extra_Information": "ABSENT",
+   "Color_Dot": "White "
+ },
+ {
+   "GameID": "G34",
+   "TeamID": "A3",
+   "PlayerID": 4,
+   "Extra_Information": "INJURED",
+   "Color_Dot": "Purple"
+ },
+ {
+   "GameID": "G35",
+   "TeamID": "B2",
+   "PlayerID": 5,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G35",
+   "TeamID": "B3",
+   "PlayerID": 22,
+   "Extra_Information": "INJURED",
+   "Color_Dot": "Purple"
+ },
+ {
+   "GameID": "G35",
+   "TeamID": "B3",
+   "PlayerID": 15,
+   "Extra_Information": "ABSENT",
+   "Color_Dot": "White "
+ },
+ {
+   "GameID": "G36",
+   "TeamID": "B4",
+   "PlayerID": 9,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G36",
+   "TeamID": "B4",
+   "PlayerID": 11,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G36",
+   "TeamID": "B4",
+   "PlayerID": 18,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G36",
+   "TeamID": "B4",
+   "PlayerID": 7,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G36",
+   "TeamID": "B4",
+   "PlayerID": 10,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G36",
+   "TeamID": "B1",
+   "PlayerID": 23,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G36",
+   "TeamID": "B1",
+   "PlayerID": 16,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G36",
+   "TeamID": "B4",
+   "PlayerID": 4,
+   "Extra_Information": "INJURED",
+   "Color_Dot": "Purple"
+ },
+ {
+   "GameID": "G37",
+   "TeamID": "C2",
+   "PlayerID": 7,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G37",
+   "TeamID": "C2",
+   "PlayerID": 16,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G37",
+   "TeamID": "C2",
+   "PlayerID": 19,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G37",
+   "TeamID": "C3",
+   "PlayerID": 10,
+   "Extra_Information": "ABSENT",
+   "Color_Dot": "White "
+ },
+ {
+   "GameID": "G38",
+   "TeamID": "C4",
+   "PlayerID": 8,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G38",
+   "TeamID": "C4",
+   "PlayerID": 23,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G38",
+   "TeamID": "C4",
+   "PlayerID": 20,
+   "Extra_Information": "SUSPENDED",
+   "Color_Dot": "RED "
+ },
+ {
+   "GameID": "G38",
+   "TeamID": "C1",
+   "PlayerID": 6,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G38",
+   "TeamID": "C1",
+   "PlayerID": 12,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G38",
+   "TeamID": "C1",
+   "PlayerID": 14,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G39",
+   "TeamID": "D4",
+   "PlayerID": 2,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G39",
+   "TeamID": "D4",
+   "PlayerID": 5,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G39",
+   "TeamID": "D1",
+   "PlayerID": 2,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G39",
+   "TeamID": "D1",
+   "PlayerID": 17,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G39",
+   "TeamID": "D1",
+   "PlayerID": 8,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G40",
+   "TeamID": "D3",
+   "PlayerID": 5,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G40",
+   "TeamID": "D3",
+   "PlayerID": 2,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G40",
+   "TeamID": "D3",
+   "PlayerID": 7,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G40",
+   "TeamID": "D3",
+   "PlayerID": 11,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G40",
+   "TeamID": "D3",
+   "PlayerID": 17,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G40",
+   "TeamID": "D3",
+   "PlayerID": 18,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G40",
+   "TeamID": "D3",
+   "PlayerID": 16,
+   "Extra_Information": "ABSENT",
+   "Color_Dot": "White "
+ },
+ {
+   "GameID": "G41",
+   "TeamID": "F4",
+   "PlayerID": 2,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G41",
+   "TeamID": "F4",
+   "PlayerID": 15,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G41",
+   "TeamID": "F4",
+   "PlayerID": 19,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G41",
+   "TeamID": "F4",
+   "PlayerID": 9,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G41",
+   "TeamID": "F4",
+   "PlayerID": 10,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G41",
+   "TeamID": "F4",
+   "PlayerID": 11,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G41",
+   "TeamID": "F1",
+   "PlayerID": 5,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G41",
+   "TeamID": "F1",
+   "PlayerID": 13,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G41",
+   "TeamID": "F1",
+   "PlayerID": 17,
+   "Extra_Information": "SUSPENDED",
+   "Color_Dot": "Red"
+ },
+ {
+   "GameID": "G42",
+   "TeamID": "F2",
+   "PlayerID": 15,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G42",
+   "TeamID": "F2",
+   "PlayerID": 16,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G42",
+   "TeamID": "F3",
+   "PlayerID": 7,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G42",
+   "TeamID": "F3",
+   "PlayerID": 8,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G42",
+   "TeamID": "F3",
+   "PlayerID": 17,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G43",
+   "TeamID": "E4",
+   "PlayerID": 9,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G43",
+   "TeamID": "E4",
+   "PlayerID": 20,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G43",
+   "TeamID": "E4",
+   "PlayerID": 21,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G43",
+   "TeamID": "E4",
+   "PlayerID": 4,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G43",
+   "TeamID": "E4",
+   "PlayerID": 6,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G43",
+   "TeamID": "E4",
+   "PlayerID": 8,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G43",
+   "TeamID": "E1",
+   "PlayerID": 5,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G43",
+   "TeamID": "E1",
+   "PlayerID": 10,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G43",
+   "TeamID": "E1",
+   "PlayerID": 11,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G43",
+   "TeamID": "E1",
+   "PlayerID": 7,
+   "Extra_Information": "ABSENT",
+   "Color_Dot": "White "
+ },
+ {
+   "GameID": "G43",
+   "TeamID": "E1",
+   "PlayerID": 14,
+   "Extra_Information": "ABSENT",
+   "Color_Dot": "White "
+ },
+ {
+   "GameID": "G44",
+   "TeamID": "E2",
+   "PlayerID": 2,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G44",
+   "TeamID": "E2",
+   "PlayerID": 11,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G44",
+   "TeamID": "E2",
+   "PlayerID": 22,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G44",
+   "TeamID": "E2",
+   "PlayerID": 23,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G44",
+   "TeamID": "E2",
+   "PlayerID": 14,
+   "Extra_Information": "ABSENT",
+   "Color_Dot": "White "
+ },
+ {
+   "GameID": "G45",
+   "TeamID": "H4",
+   "PlayerID": 1,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G45",
+   "TeamID": "H4",
+   "PlayerID": 14,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G45",
+   "TeamID": "H4",
+   "PlayerID": 17,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G46",
+   "TeamID": "H2",
+   "PlayerID": 5,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G46",
+   "TeamID": "H2",
+   "PlayerID": 6,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G46",
+   "TeamID": "H2",
+   "PlayerID": 12,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G46",
+   "TeamID": "H2",
+   "PlayerID": 19,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G46",
+   "TeamID": "H2",
+   "PlayerID": 11,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G46",
+   "TeamID": "H3",
+   "PlayerID": 10,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G46",
+   "TeamID": "H3",
+   "PlayerID": 5,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G46",
+   "TeamID": "H3",
+   "PlayerID": 8,
+   "Extra_Information": "ABSENT",
+   "Color_Dot": "White "
+ },
+ {
+   "GameID": "G47",
+   "TeamID": "G2",
+   "PlayerID": 2,
+   "Extra_Information": "SUSPENDED",
+   "Color_Dot": "Red"
+ },
+ {
+   "GameID": "G47",
+   "TeamID": "G2",
+   "PlayerID": 11,
+   "Extra_Information": "SUSPENDED",
+   "Color_Dot": "Red"
+ },
+ {
+   "GameID": "G47",
+   "TeamID": "G2",
+   "PlayerID": 10,
+   "Extra_Information": "INJURED",
+   "Color_Dot": "Purple"
+ },
+ {
+   "GameID": "G47",
+   "TeamID": "G3",
+   "PlayerID": 1,
+   "Extra_Information": "ABSENT",
+   "Color_Dot": "White "
+ },
+ {
+   "GameID": "G47",
+   "TeamID": "G3",
+   "PlayerID": 2,
+   "Extra_Information": "ABSENT",
+   "Color_Dot": "White "
+ },
+ {
+   "GameID": "G47",
+   "TeamID": "G3",
+   "PlayerID": 11,
+   "Extra_Information": "ABSENT",
+   "Color_Dot": "White "
+ },
+ {
+   "GameID": "G47",
+   "TeamID": "G3",
+   "PlayerID": 22,
+   "Extra_Information": "ABSENT",
+   "Color_Dot": "White "
+ },
+ {
+   "GameID": "G48",
+   "TeamID": "G4",
+   "PlayerID": 21,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G48",
+   "TeamID": "G4",
+   "PlayerID": 2,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G48",
+   "TeamID": "G1",
+   "PlayerID": 5,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G48",
+   "TeamID": "G1",
+   "PlayerID": 7,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G48",
+   "TeamID": "G1",
+   "PlayerID": 15,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G49",
+   "TeamID": "A4",
+   "PlayerID": 6,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G49",
+   "TeamID": "B1",
+   "PlayerID": 5,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G49",
+   "TeamID": "B1",
+   "PlayerID": 7,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G49",
+   "TeamID": "B1",
+   "PlayerID": 23,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G49",
+   "TeamID": "B1",
+   "PlayerID": 16,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G49",
+   "TeamID": "B1",
+   "PlayerID": 20,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G49",
+   "TeamID": "B1",
+   "PlayerID": 21,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G50",
+   "TeamID": "C1",
+   "PlayerID": 6,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G50",
+   "TeamID": "C1",
+   "PlayerID": 14,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G50",
+   "TeamID": "C1",
+   "PlayerID": 12,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G50",
+   "TeamID": "D1",
+   "PlayerID": 2,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G50",
+   "TeamID": "D1",
+   "PlayerID": 7,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G50",
+   "TeamID": "D1",
+   "PlayerID": 10,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G50",
+   "TeamID": "D1",
+   "PlayerID": 14,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G50",
+   "TeamID": "D1",
+   "PlayerID": 17,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G50",
+   "TeamID": "D1",
+   "PlayerID": 8,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G51",
+   "TeamID": "B2",
+   "PlayerID": 5,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G51",
+   "TeamID": "A1",
+   "PlayerID": 17,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G51",
+   "TeamID": "A1",
+   "PlayerID": 8,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G51",
+   "TeamID": "A1",
+   "PlayerID": 10,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G51",
+   "TeamID": "A1",
+   "PlayerID": 23,
+   "Extra_Information": "SUSPENDED",
+   "Color_Dot": "Red"
+ },
+ {
+   "GameID": "G52",
+   "TeamID": "D3",
+   "PlayerID": 2,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G52",
+   "TeamID": "D3",
+   "PlayerID": 7,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G52",
+   "TeamID": "D3",
+   "PlayerID": 11,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G52",
+   "TeamID": "D3",
+   "PlayerID": 17,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G52",
+   "TeamID": "D3",
+   "PlayerID": 18,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G52",
+   "TeamID": "D3",
+   "PlayerID": 5,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G52",
+   "TeamID": "D3",
+   "PlayerID": 13,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G52",
+   "TeamID": "D3",
+   "PlayerID": 20,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G52",
+   "TeamID": "C4",
+   "PlayerID": 8,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G52",
+   "TeamID": "C4",
+   "PlayerID": 13,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G52",
+   "TeamID": "C4",
+   "PlayerID": 23,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G52",
+   "TeamID": "D3",
+   "PlayerID": 16,
+   "Extra_Information": "ABSENT",
+   "Color_Dot": "WHITE"
+ },
+ {
+   "GameID": "G53",
+   "TeamID": "E1",
+   "PlayerID": 5,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G53",
+   "TeamID": "E1",
+   "PlayerID": 10,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G53",
+   "TeamID": "E1",
+   "PlayerID": 11,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G53",
+   "TeamID": "F2",
+   "PlayerID": 16,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G53",
+   "TeamID": "F2",
+   "PlayerID": 23,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G53",
+   "TeamID": "F2",
+   "PlayerID": 7,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G53",
+   "TeamID": "F2",
+   "PlayerID": 15,
+   "Extra_Information": "SUSPENDED",
+   "Color_Dot": "Red"
+ },
+ {
+   "GameID": "G53",
+   "TeamID": "E1",
+   "PlayerID": 7,
+   "Extra_Information": "ABSENT",
+   "Color_Dot": "WHITE"
+ },
+ {
+   "GameID": "G54",
+   "TeamID": "G1",
+   "PlayerID": 5,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G54",
+   "TeamID": "G1",
+   "PlayerID": 7,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G54",
+   "TeamID": "G1",
+   "PlayerID": 15,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G54",
+   "TeamID": "G1",
+   "PlayerID": 17,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G54",
+   "TeamID": "G1",
+   "PlayerID": 23,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G54",
+   "TeamID": "H4",
+   "PlayerID": 1,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G54",
+   "TeamID": "H4",
+   "PlayerID": 14,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G54",
+   "TeamID": "H4",
+   "PlayerID": 17,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G54",
+   "TeamID": "H4",
+   "PlayerID": 20,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G55",
+   "TeamID": "F3",
+   "PlayerID": 2,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G55",
+   "TeamID": "F3",
+   "PlayerID": 8,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G55",
+   "TeamID": "F3",
+   "PlayerID": 17,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G55",
+   "TeamID": "F3",
+   "PlayerID": 7,
+   "Extra_Information": "SUSPENDED",
+   "Color_Dot": "Red"
+ },
+ {
+   "GameID": "G55",
+   "TeamID": "E2",
+   "PlayerID": 11,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G55",
+   "TeamID": "E2",
+   "PlayerID": 23,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G55",
+   "TeamID": "E2",
+   "PlayerID": 17,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G55",
+   "TeamID": "E2",
+   "PlayerID": 2,
+   "Extra_Information": "SUSPENDED",
+   "Color_Dot": "Red"
+ },
+ {
+   "GameID": "G55",
+   "TeamID": "E2",
+   "PlayerID": 22,
+   "Extra_Information": "SUSPENDED",
+   "Color_Dot": "Red"
+ },
+ {
+   "GameID": "G56",
+   "TeamID": "H3",
+   "PlayerID": 5,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G56",
+   "TeamID": "H3",
+   "PlayerID": 17,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G56",
+   "TeamID": "H3",
+   "PlayerID": 10,
+   "Extra_Information": "ABSENT",
+   "Color_Dot": "WHITE"
+ },
+ {
+   "GameID": "G56",
+   "TeamID": "H3",
+   "PlayerID": 19,
+   "Extra_Information": "ABSENT",
+   "Color_Dot": "WHITE"
+ },
+ {
+   "GameID": "G56",
+   "TeamID": "G4",
+   "PlayerID": 2,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G56",
+   "TeamID": "G4",
+   "PlayerID": 21,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G56",
+   "TeamID": "G4",
+   "PlayerID": 17,
+   "Extra_Information": "ABSENT",
+   "Color_Dot": "WHITE"
+ },
+ {
+   "GameID": "G57",
+   "TeamID": "A4",
+   "PlayerID": 6,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G57",
+   "TeamID": "A4",
+   "PlayerID": 21,
+   "Extra_Information": "INJURED",
+   "Color_Dot": "Purple"
+ },
+ {
+   "GameID": "G57",
+   "TeamID": "C1",
+   "PlayerID": 2,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G57",
+   "TeamID": "C1",
+   "PlayerID": 6,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G57",
+   "TeamID": "C1",
+   "PlayerID": 9,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G57",
+   "TeamID": "C1",
+   "PlayerID": 12,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G57",
+   "TeamID": "C1",
+   "PlayerID": 14,
+   "Extra_Information": "SUSPENDED",
+   "Color_Dot": "Red"
+ },
+ {
+   "GameID": "G58",
+   "TeamID": "E1",
+   "PlayerID": 10,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G58",
+   "TeamID": "E1",
+   "PlayerID": 11,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G58",
+   "TeamID": "E1",
+   "PlayerID": 6,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G58",
+   "TeamID": "E1",
+   "PlayerID": 5,
+   "Extra_Information": "SUSPENDED",
+   "Color_Dot": "Red"
+ },
+ {
+   "GameID": "G58",
+   "TeamID": "E1",
+   "PlayerID": 14,
+   "Extra_Information": "ABSENT",
+   "Color_Dot": "WHITE"
+ },
+ {
+   "GameID": "G58",
+   "TeamID": "G1",
+   "PlayerID": 5,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G58",
+   "TeamID": "G1",
+   "PlayerID": 7,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G58",
+   "TeamID": "G1",
+   "PlayerID": 15,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G58",
+   "TeamID": "G1",
+   "PlayerID": 17,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G58",
+   "TeamID": "G1",
+   "PlayerID": 23,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G59",
+   "TeamID": "A1",
+   "PlayerID": 3,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G59",
+   "TeamID": "A1",
+   "PlayerID": 11,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G59",
+   "TeamID": "A1",
+   "PlayerID": 17,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G59",
+   "TeamID": "A1",
+   "PlayerID": 8,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G59",
+   "TeamID": "A1",
+   "PlayerID": 10,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G59",
+   "TeamID": "D3",
+   "PlayerID": 2,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G59",
+   "TeamID": "D3",
+   "PlayerID": 7,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G59",
+   "TeamID": "D3",
+   "PlayerID": 17,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G59",
+   "TeamID": "D3",
+   "PlayerID": 18,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G59",
+   "TeamID": "D3",
+   "PlayerID": 5,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G59",
+   "TeamID": "D3",
+   "PlayerID": 11,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G59",
+   "TeamID": "D3",
+   "PlayerID": 13,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G59",
+   "TeamID": "D3",
+   "PlayerID": 20,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G59",
+   "TeamID": "D3",
+   "PlayerID": 16,
+   "Extra_Information": "ABSENT",
+   "Color_Dot": "WHITE"
+ },
+ {
+   "GameID": "G60",
+   "TeamID": "F3",
+   "PlayerID": 8,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G60",
+   "TeamID": "F3",
+   "PlayerID": 17,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G60",
+   "TeamID": "F3",
+   "PlayerID": 2,
+   "Extra_Information": "SUSPENDED",
+   "Color_Dot": "Red"
+ },
+ {
+   "GameID": "G60",
+   "TeamID": "G4",
+   "PlayerID": 2,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G60",
+   "TeamID": "G4",
+   "PlayerID": 7,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G60",
+   "TeamID": "G4",
+   "PlayerID": 8,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G60",
+   "TeamID": "G4",
+   "PlayerID": 21,
+   "Extra_Information": "MISSES NEXT MATCH IF BOOKED",
+   "Color_Dot": "Yellow"
+ },
+ {
+   "GameID": "G61",
+   "TeamID": "G1",
+   "PlayerID": 15,
+   "Extra_Information": "SUSPENDED",
+   "Color_Dot": "Red"
+ },
+ {
+   "GameID": "G62",
+   "TeamID": "D3",
+   "PlayerID": 16,
+   "Extra_Information": "ABSENT",
+   "Color_Dot": "WHITE"
+ },
+ {
+   "GameID": "G64",
+   "TeamID": "D3",
+   "PlayerID": 16,
+   "Extra_Information": "ABSENT",
+   "Color_Dot": "WHITE"
+ }
+]

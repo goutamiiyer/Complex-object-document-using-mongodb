@@ -1,0 +1,3058 @@
+[
+ {
+   "GameID": "G1",
+   "TeamID": "A1",
+   "Substitute_PlayerID": 6,
+   "Position": "MF",
+   "Replaced_PlayerID": 9,
+   "Time": "24"
+ },
+ {
+   "GameID": "G1",
+   "TeamID": "A1",
+   "Substitute_PlayerID": 7,
+   "Position": "MF",
+   "Replaced_PlayerID": 19,
+   "Time": "64"
+ },
+ {
+   "GameID": "G1",
+   "TeamID": "A1",
+   "Substitute_PlayerID": 22,
+   "Position": "FW",
+   "Replaced_PlayerID": 10,
+   "Time": "70"
+ },
+ {
+   "GameID": "G1",
+   "TeamID": "A2",
+   "Substitute_PlayerID": 19,
+   "Position": "FW",
+   "Replaced_PlayerID": 14,
+   "Time": "64"
+ },
+ {
+   "GameID": "G1",
+   "TeamID": "A2",
+   "Substitute_PlayerID": 9,
+   "Position": "MF",
+   "Replaced_PlayerID": 8,
+   "Time": "72"
+ },
+ {
+   "GameID": "G1",
+   "TeamID": "A2",
+   "Substitute_PlayerID": 20,
+   "Position": "FW",
+   "Replaced_PlayerID": 10,
+   "Time": "85"
+ },
+ {
+   "GameID": "G2",
+   "TeamID": "A3",
+   "Substitute_PlayerID": 5,
+   "Position": "MF",
+   "Replaced_PlayerID": 8,
+   "Time": "50"
+ },
+ {
+   "GameID": "G2",
+   "TeamID": "A3",
+   "Substitute_PlayerID": 11,
+   "Position": "FW",
+   "Replaced_PlayerID": 9,
+   "Time": "63"
+ },
+ {
+   "GameID": "G2",
+   "TeamID": "A3",
+   "Substitute_PlayerID": 14,
+   "Position": "FW",
+   "Replaced_PlayerID": 22,
+   "Time": "82"
+ },
+ {
+   "GameID": "G2",
+   "TeamID": "A4",
+   "Substitute_PlayerID": 5,
+   "Position": "MF",
+   "Replaced_PlayerID": 8,
+   "Time": "58"
+ },
+ {
+   "GameID": "G2",
+   "TeamID": "A4",
+   "Substitute_PlayerID": 7,
+   "Position": "DF",
+   "Replaced_PlayerID": 10,
+   "Time": "59"
+ },
+ {
+   "GameID": "G2",
+   "TeamID": "A4",
+   "Substitute_PlayerID": 14,
+   "Position": "FW",
+   "Replaced_PlayerID": 15,
+   "Time": "87"
+ },
+ {
+   "GameID": "G3",
+   "TeamID": "B3",
+   "Substitute_PlayerID": 21,
+   "Position": "MF",
+   "Replaced_PlayerID": 16,
+   "Time": "76"
+ },
+ {
+   "GameID": "G3",
+   "TeamID": "B3",
+   "Substitute_PlayerID": 20,
+   "Position": "FW",
+   "Replaced_PlayerID": 9,
+   "Time": "77"
+ },
+ {
+   "GameID": "G3",
+   "TeamID": "B3",
+   "Substitute_PlayerID": 4,
+   "Position": "DF",
+   "Replaced_PlayerID": 18,
+   "Time": "82"
+ },
+ {
+   "GameID": "G3",
+   "TeamID": "B4",
+   "Substitute_PlayerID": 17,
+   "Position": "FW",
+   "Replaced_PlayerID": 7,
+   "Time": "68"
+ },
+ {
+   "GameID": "G3",
+   "TeamID": "B4",
+   "Substitute_PlayerID": 19,
+   "Position": "DF",
+   "Replaced_PlayerID": 9,
+   "Time": "81"
+ },
+ {
+   "GameID": "G3",
+   "TeamID": "B4",
+   "Substitute_PlayerID": 14,
+   "Position": "FW",
+   "Replaced_PlayerID": 18,
+   "Time": "85"
+ },
+ {
+   "GameID": "G4",
+   "TeamID": "B1",
+   "Substitute_PlayerID": 10,
+   "Position": "MF",
+   "Replaced_PlayerID": 16,
+   "Time": "68"
+ },
+ {
+   "GameID": "G4",
+   "TeamID": "B1",
+   "Substitute_PlayerID": 20,
+   "Position": "FW",
+   "Replaced_PlayerID": 11,
+   "Time": "69"
+ },
+ {
+   "GameID": "G4",
+   "TeamID": "B1",
+   "Substitute_PlayerID": 9,
+   "Position": "FW",
+   "Replaced_PlayerID": 17,
+   "Time": "80"
+ },
+ {
+   "GameID": "G4",
+   "TeamID": "B2",
+   "Substitute_PlayerID": 10,
+   "Position": "MF",
+   "Replaced_PlayerID": 6,
+   "Time": "70"
+ },
+ {
+   "GameID": "G4",
+   "TeamID": "B2",
+   "Substitute_PlayerID": 17,
+   "Position": "FW",
+   "Replaced_PlayerID": 19,
+   "Time": "77"
+ },
+ {
+   "GameID": "G4",
+   "TeamID": "B2",
+   "Substitute_PlayerID": 11,
+   "Position": "FW",
+   "Replaced_PlayerID": 21,
+   "Time": "86"
+ },
+ {
+   "GameID": "G5",
+   "TeamID": "C1",
+   "Substitute_PlayerID": 9,
+   "Position": "FW",
+   "Replaced_PlayerID": 7,
+   "Time": "70"
+ },
+ {
+   "GameID": "G5",
+   "TeamID": "C1",
+   "Substitute_PlayerID": 18,
+   "Position": "FW",
+   "Replaced_PlayerID": 11,
+   "Time": "70"
+ },
+ {
+   "GameID": "G5",
+   "TeamID": "C1",
+   "Substitute_PlayerID": 14,
+   "Position": "MF",
+   "Replaced_PlayerID": 12,
+   "Time": "78"
+ },
+ {
+   "GameID": "G5",
+   "TeamID": "C2",
+   "Substitute_PlayerID": 9,
+   "Position": "FW",
+   "Replaced_PlayerID": 11,
+   "Time": "64"
+ },
+ {
+   "GameID": "G5",
+   "TeamID": "C2",
+   "Substitute_PlayerID": 22,
+   "Position": "MF",
+   "Replaced_PlayerID": 23,
+   "Time": "72"
+ },
+ {
+   "GameID": "G5",
+   "TeamID": "C2",
+   "Substitute_PlayerID": 17,
+   "Position": "FW",
+   "Replaced_PlayerID": 10,
+   "Time": "84"
+ },
+ {
+   "GameID": "G6",
+   "TeamID": "D1",
+   "Substitute_PlayerID": 7,
+   "Position": "MF",
+   "Replaced_PlayerID": 5,
+   "Time": "54"
+ },
+ {
+   "GameID": "G6",
+   "TeamID": "D1",
+   "Substitute_PlayerID": 22,
+   "Position": "MF",
+   "Replaced_PlayerID": 11,
+   "Time": "75"
+ },
+ {
+   "GameID": "G6",
+   "TeamID": "D1",
+   "Substitute_PlayerID": 9,
+   "Position": "FW",
+   "Replaced_PlayerID": 13,
+   "Time": "84"
+ },
+ {
+   "GameID": "G6",
+   "TeamID": "D2",
+   "Substitute_PlayerID": 19,
+   "Position": "MF",
+   "Replaced_PlayerID": 7,
+   "Time": "63"
+ },
+ {
+   "GameID": "G6",
+   "TeamID": "D2",
+   "Substitute_PlayerID": 23,
+   "Position": "DF",
+   "Replaced_PlayerID": 17,
+   "Time": "76"
+ },
+ {
+   "GameID": "G6",
+   "TeamID": "D2",
+   "Substitute_PlayerID": 9,
+   "Position": "FW",
+   "Replaced_PlayerID": 11,
+   "Time": "89"
+ },
+ {
+   "GameID": "G7",
+   "TeamID": "C3",
+   "Substitute_PlayerID": 9,
+   "Position": "FW",
+   "Replaced_PlayerID": 20,
+   "Time": "62"
+ },
+ {
+   "GameID": "G7",
+   "TeamID": "C3",
+   "Substitute_PlayerID": 11,
+   "Position": "FW",
+   "Replaced_PlayerID": 10,
+   "Time": "85"
+ },
+ {
+   "GameID": "G7",
+   "TeamID": "C3",
+   "Substitute_PlayerID": 23,
+   "Position": "MF",
+   "Replaced_PlayerID": 13,
+   "Time": "87"
+ },
+ {
+   "GameID": "G7",
+   "TeamID": "C4",
+   "Substitute_PlayerID": 19,
+   "Position": "MF",
+   "Replaced_PlayerID": 7,
+   "Time": "35"
+ },
+ {
+   "GameID": "G7",
+   "TeamID": "C4",
+   "Substitute_PlayerID": 11,
+   "Position": "FW",
+   "Replaced_PlayerID": 23,
+   "Time": "67"
+ },
+ {
+   "GameID": "G7",
+   "TeamID": "C4",
+   "Substitute_PlayerID": 13,
+   "Position": "DF",
+   "Replaced_PlayerID": 6,
+   "Time": "81"
+ },
+ {
+   "GameID": "G8",
+   "TeamID": "D3",
+   "Substitute_PlayerID": 11,
+   "Position": "MF",
+   "Replaced_PlayerID": 9,
+   "Time": "60"
+ },
+ {
+   "GameID": "G8",
+   "TeamID": "D3",
+   "Substitute_PlayerID": 8,
+   "Position": "MF",
+   "Replaced_PlayerID": 18,
+   "Time": "78"
+ },
+ {
+   "GameID": "G8",
+   "TeamID": "D3",
+   "Substitute_PlayerID": 20,
+   "Position": "FW",
+   "Replaced_PlayerID": 17,
+   "Time": "86"
+ },
+ {
+   "GameID": "G8",
+   "TeamID": "D4",
+   "Substitute_PlayerID": 7,
+   "Position": "FW",
+   "Replaced_PlayerID": 18,
+   "Time": "62"
+ },
+ {
+   "GameID": "G8",
+   "TeamID": "D4",
+   "Substitute_PlayerID": 14,
+   "Position": "FW",
+   "Replaced_PlayerID": 9,
+   "Time": "72"
+ },
+ {
+   "GameID": "G8",
+   "TeamID": "D4",
+   "Substitute_PlayerID": 13,
+   "Position": "FW",
+   "Replaced_PlayerID": 10,
+   "Time": "88"
+ },
+ {
+   "GameID": "G9",
+   "TeamID": "E3",
+   "Substitute_PlayerID": 7,
+   "Position": "MF",
+   "Replaced_PlayerID": 11,
+   "Time": "60"
+ },
+ {
+   "GameID": "G9",
+   "TeamID": "E3",
+   "Substitute_PlayerID": 12,
+   "Position": "FW",
+   "Replaced_PlayerID": 21,
+   "Time": "66"
+ },
+ {
+   "GameID": "G9",
+   "TeamID": "E3",
+   "Substitute_PlayerID": 9,
+   "Position": "MF",
+   "Replaced_PlayerID": 20,
+   "Time": "73"
+ },
+ {
+   "GameID": "G9",
+   "TeamID": "E4",
+   "Substitute_PlayerID": 17,
+   "Position": "MF",
+   "Replaced_PlayerID": 22,
+   "Time": "70"
+ },
+ {
+   "GameID": "G9",
+   "TeamID": "E4",
+   "Substitute_PlayerID": 2,
+   "Position": "DF",
+   "Replaced_PlayerID": 10,
+   "Time": "83"
+ },
+ {
+   "GameID": "G9",
+   "TeamID": "E4",
+   "Substitute_PlayerID": 8,
+   "Position": "FW",
+   "Replaced_PlayerID": 9,
+   "Time": "90"
+ },
+ {
+   "GameID": "G10",
+   "TeamID": "F1",
+   "Substitute_PlayerID": 11,
+   "Position": "FW",
+   "Replaced_PlayerID": 6,
+   "Time": "60"
+ },
+ {
+   "GameID": "G10",
+   "TeamID": "F1",
+   "Substitute_PlayerID": 23,
+   "Position": "FW",
+   "Replaced_PlayerID": 2,
+   "Time": "79"
+ },
+ {
+   "GameID": "G10",
+   "TeamID": "F1",
+   "Substitute_PlayerID": 20,
+   "Position": "MF",
+   "Replaced_PlayerID": 9,
+   "Time": "86"
+ },
+ {
+   "GameID": "G10",
+   "TeamID": "F2",
+   "Substitute_PlayerID": 21,
+   "Position": "FW",
+   "Replaced_PlayerID": 11,
+   "Time": "58"
+ },
+ {
+   "GameID": "G10",
+   "TeamID": "F2",
+   "Substitute_PlayerID": 9,
+   "Position": "FW",
+   "Replaced_PlayerID": 22,
+   "Time": "66"
+ },
+ {
+   "GameID": "G10",
+   "TeamID": "F2",
+   "Substitute_PlayerID": 4,
+   "Position": "DF",
+   "Replaced_PlayerID": 18,
+   "Time": "74"
+ },
+ {
+   "GameID": "G11",
+   "TeamID": "E1",
+   "Substitute_PlayerID": 17,
+   "Position": "MF",
+   "Replaced_PlayerID": 5,
+   "Time": "60"
+ },
+ {
+   "GameID": "G11",
+   "TeamID": "E1",
+   "Substitute_PlayerID": 8,
+   "Position": "MF",
+   "Replaced_PlayerID": 15,
+   "Time": "67"
+ },
+ {
+   "GameID": "G11",
+   "TeamID": "E1",
+   "Substitute_PlayerID": 20,
+   "Position": "FW",
+   "Replaced_PlayerID": 9,
+   "Time": "79"
+ },
+ {
+   "GameID": "G11",
+   "TeamID": "E2",
+   "Substitute_PlayerID": 17,
+   "Position": "MF",
+   "Replaced_PlayerID": 11,
+   "Time": "71"
+ },
+ {
+   "GameID": "G11",
+   "TeamID": "E2",
+   "Substitute_PlayerID": 7,
+   "Position": "FW",
+   "Replaced_PlayerID": 9,
+   "Time": "80"
+ },
+ {
+   "GameID": "G11",
+   "TeamID": "E2",
+   "Substitute_PlayerID": 6,
+   "Position": "DF",
+   "Replaced_PlayerID": 2,
+   "Time": "87"
+ },
+ {
+   "GameID": "G12",
+   "TeamID": "F3",
+   "Substitute_PlayerID": 13,
+   "Position": "MF",
+   "Replaced_PlayerID": 7,
+   "Time": "81"
+ },
+ {
+   "GameID": "G12",
+   "TeamID": "F3",
+   "Substitute_PlayerID": 15,
+   "Position": "MF",
+   "Replaced_PlayerID": 8,
+   "Time": "71"
+ },
+ {
+   "GameID": "G12",
+   "TeamID": "F3",
+   "Substitute_PlayerID": 22,
+   "Position": "FW",
+   "Replaced_PlayerID": 20,
+   "Time": "77"
+ },
+ {
+   "GameID": "G12",
+   "TeamID": "F4",
+   "Substitute_PlayerID": 12,
+   "Position": "DF",
+   "Replaced_PlayerID": 6,
+   "Time": "28"
+ },
+ {
+   "GameID": "G12",
+   "TeamID": "F4",
+   "Substitute_PlayerID": 15,
+   "Position": "MF",
+   "Replaced_PlayerID": 9,
+   "Time": "66"
+ },
+ {
+   "GameID": "G12",
+   "TeamID": "F4",
+   "Substitute_PlayerID": 10,
+   "Position": "MF",
+   "Replaced_PlayerID": 13,
+   "Time": "73"
+ },
+ {
+   "GameID": "G13",
+   "TeamID": "G1",
+   "Substitute_PlayerID": 19,
+   "Position": "MF",
+   "Replaced_PlayerID": 11,
+   "Time": "74"
+ },
+ {
+   "GameID": "G13",
+   "TeamID": "G1",
+   "Substitute_PlayerID": 16,
+   "Position": "MF",
+   "Replaced_PlayerID": 14,
+   "Time": "83"
+ },
+ {
+   "GameID": "G13",
+   "TeamID": "G1",
+   "Substitute_PlayerID": 22,
+   "Position": "MF",
+   "Replaced_PlayerID": 6,
+   "Time": "90"
+ },
+ {
+   "GameID": "G13",
+   "TeamID": "G2",
+   "Substitute_PlayerID": 9,
+   "Position": "FW",
+   "Replaced_PlayerID": 21,
+   "Time": "63"
+ },
+ {
+   "GameID": "G13",
+   "TeamID": "G2",
+   "Substitute_PlayerID": 10,
+   "Position": "FW",
+   "Replaced_PlayerID": 8,
+   "Time": "63"
+ },
+ {
+   "GameID": "G13",
+   "TeamID": "G2",
+   "Substitute_PlayerID": 18,
+   "Position": "FW",
+   "Replaced_PlayerID": 7,
+   "Time": "73"
+ },
+ {
+   "GameID": "G14",
+   "TeamID": "G3",
+   "Substitute_PlayerID": 1,
+   "Position": "GK",
+   "Replaced_PlayerID": 22,
+   "Time": "10"
+ },
+ {
+   "GameID": "G14",
+   "TeamID": "G3",
+   "Substitute_PlayerID": 19,
+   "Position": "FW",
+   "Replaced_PlayerID": 10,
+   "Time": "85"
+ },
+ {
+   "GameID": "G14",
+   "TeamID": "G3",
+   "Substitute_PlayerID": 14,
+   "Position": "MF",
+   "Replaced_PlayerID": 23,
+   "Time": "74"
+ },
+ {
+   "GameID": "G14",
+   "TeamID": "G4",
+   "Substitute_PlayerID": 4,
+   "Position": "MF",
+   "Replaced_PlayerID": 7,
+   "Time": "90+3"
+ },
+ {
+   "GameID": "G14",
+   "TeamID": "G4",
+   "Substitute_PlayerID": 19,
+   "Position": "FW",
+   "Replaced_PlayerID": 10,
+   "Time": "68"
+ },
+ {
+   "GameID": "G14",
+   "TeamID": "G4",
+   "Substitute_PlayerID": 21,
+   "Position": "MF",
+   "Replaced_PlayerID": 20,
+   "Time": "80"
+ },
+ {
+   "GameID": "G15",
+   "TeamID": "H3",
+   "Substitute_PlayerID": 5,
+   "Position": "MF",
+   "Replaced_PlayerID": 11,
+   "Time": "31"
+ },
+ {
+   "GameID": "G15",
+   "TeamID": "H3",
+   "Substitute_PlayerID": 10,
+   "Position": "MF",
+   "Replaced_PlayerID": 20,
+   "Time": "59"
+ },
+ {
+   "GameID": "G15",
+   "TeamID": "H3",
+   "Substitute_PlayerID": 7,
+   "Position": "FW",
+   "Replaced_PlayerID": 21,
+   "Time": "70"
+ },
+ {
+   "GameID": "G15",
+   "TeamID": "H4",
+   "Substitute_PlayerID": 4,
+   "Position": "MF",
+   "Replaced_PlayerID": 10,
+   "Time": "70"
+ },
+ {
+   "GameID": "G15",
+   "TeamID": "H4",
+   "Substitute_PlayerID": 16,
+   "Position": "MF",
+   "Replaced_PlayerID": 7,
+   "Time": "80"
+ },
+ {
+   "GameID": "G15",
+   "TeamID": "H4",
+   "Substitute_PlayerID": 9,
+   "Position": "FW",
+   "Replaced_PlayerID": 15,
+   "Time": "85"
+ },
+ {
+   "GameID": "G16",
+   "TeamID": "H1",
+   "Substitute_PlayerID": 5,
+   "Position": "DF",
+   "Replaced_PlayerID": 16,
+   "Time": "46"
+ },
+ {
+   "GameID": "G16",
+   "TeamID": "H1",
+   "Substitute_PlayerID": 23,
+   "Position": "FW",
+   "Replaced_PlayerID": 10,
+   "Time": "73"
+ },
+ {
+   "GameID": "G16",
+   "TeamID": "H1",
+   "Substitute_PlayerID": 18,
+   "Position": "DF",
+   "Replaced_PlayerID": 20,
+   "Time": "83"
+ },
+ {
+   "GameID": "G16",
+   "TeamID": "H2",
+   "Substitute_PlayerID": 11,
+   "Position": "MF",
+   "Replaced_PlayerID": 9,
+   "Time": "62"
+ },
+ {
+   "GameID": "G16",
+   "TeamID": "H2",
+   "Substitute_PlayerID": 14,
+   "Position": "FW",
+   "Replaced_PlayerID": 19,
+   "Time": "75"
+ },
+ {
+   "GameID": "G16",
+   "TeamID": "H2",
+   "Substitute_PlayerID": 8,
+   "Position": "MF",
+   "Replaced_PlayerID": 13,
+   "Time": "87"
+ },
+ {
+   "GameID": "G17",
+   "TeamID": "A1",
+   "Substitute_PlayerID": 7,
+   "Position": "MF",
+   "Replaced_PlayerID": 6,
+   "Time": "74"
+ },
+ {
+   "GameID": "G17",
+   "TeamID": "A1",
+   "Substitute_PlayerID": 10,
+   "Position": "FW",
+   "Replaced_PlayerID": 22,
+   "Time": "79"
+ },
+ {
+   "GameID": "G17",
+   "TeamID": "A1",
+   "Substitute_PlayerID": 13,
+   "Position": "DF",
+   "Replaced_PlayerID": 18,
+   "Time": "86"
+ },
+ {
+   "GameID": "G17",
+   "TeamID": "A3",
+   "Substitute_PlayerID": 22,
+   "Position": "FW",
+   "Replaced_PlayerID": 17,
+   "Time": "64"
+ },
+ {
+   "GameID": "G17",
+   "TeamID": "A3",
+   "Substitute_PlayerID": 14,
+   "Position": "FW",
+   "Replaced_PlayerID": 21,
+   "Time": "68"
+ },
+ {
+   "GameID": "G17",
+   "TeamID": "A3",
+   "Substitute_PlayerID": 11,
+   "Position": "FW",
+   "Replaced_PlayerID": 9,
+   "Time": "82"
+ },
+ {
+   "GameID": "G18",
+   "TeamID": "B1",
+   "Substitute_PlayerID": 18,
+   "Position": "FW",
+   "Replaced_PlayerID": 11,
+   "Time": "59"
+ },
+ {
+   "GameID": "G18",
+   "TeamID": "B1",
+   "Substitute_PlayerID": 16,
+   "Position": "MF",
+   "Replaced_PlayerID": 10,
+   "Time": "70"
+ },
+ {
+   "GameID": "G18",
+   "TeamID": "B1",
+   "Substitute_PlayerID": 23,
+   "Position": "MF",
+   "Replaced_PlayerID": 8,
+   "Time": "89"
+ },
+ {
+   "GameID": "G18",
+   "TeamID": "B3",
+   "Substitute_PlayerID": 9,
+   "Position": "FW",
+   "Replaced_PlayerID": 13,
+   "Time": "70"
+ },
+ {
+   "GameID": "G18",
+   "TeamID": "B3",
+   "Substitute_PlayerID": 23,
+   "Position": "MF",
+   "Replaced_PlayerID": 10,
+   "Time": "75"
+ },
+ {
+   "GameID": "G18",
+   "TeamID": "B3",
+   "Substitute_PlayerID": 11,
+   "Position": "MF",
+   "Replaced_PlayerID": 8,
+   "Time": "86"
+ },
+ {
+   "GameID": "G19",
+   "TeamID": "A4",
+   "Substitute_PlayerID": 14,
+   "Position": "MF",
+   "Replaced_PlayerID": 7,
+   "Time": "59"
+ },
+ {
+   "GameID": "G19",
+   "TeamID": "A4",
+   "Substitute_PlayerID": 17,
+   "Position": "MF",
+   "Replaced_PlayerID": 15,
+   "Time": "59"
+ },
+ {
+   "GameID": "G19",
+   "TeamID": "A4",
+   "Substitute_PlayerID": 8,
+   "Position": "MF",
+   "Replaced_PlayerID": 5,
+   "Time": "82"
+ },
+ {
+   "GameID": "G19",
+   "TeamID": "A2",
+   "Substitute_PlayerID": 16,
+   "Position": "MF",
+   "Replaced_PlayerID": 17,
+   "Time": "44"
+ },
+ {
+   "GameID": "G19",
+   "TeamID": "A2",
+   "Substitute_PlayerID": 12,
+   "Position": "MF",
+   "Replaced_PlayerID": 9,
+   "Time": "75"
+ },
+ {
+   "GameID": "G19",
+   "TeamID": "A2",
+   "Substitute_PlayerID": 10,
+   "Position": "FW",
+   "Replaced_PlayerID": 19,
+   "Time": "78"
+ },
+ {
+   "GameID": "G20",
+   "TeamID": "B4",
+   "Substitute_PlayerID": 5,
+   "Position": "DF",
+   "Replaced_PlayerID": 3,
+   "Time": "69"
+ },
+ {
+   "GameID": "G20",
+   "TeamID": "B4",
+   "Substitute_PlayerID": 18,
+   "Position": "FW",
+   "Replaced_PlayerID": 9,
+   "Time": "74"
+ },
+ {
+   "GameID": "G20",
+   "TeamID": "B4",
+   "Substitute_PlayerID": 14,
+   "Position": "FW",
+   "Replaced_PlayerID": 11,
+   "Time": "86"
+ },
+ {
+   "GameID": "G20",
+   "TeamID": "B2",
+   "Substitute_PlayerID": 8,
+   "Position": "MF",
+   "Replaced_PlayerID": 6,
+   "Time": "71"
+ },
+ {
+   "GameID": "G20",
+   "TeamID": "B2",
+   "Substitute_PlayerID": 20,
+   "Position": "MF",
+   "Replaced_PlayerID": 11,
+   "Time": "79"
+ },
+ {
+   "GameID": "G20",
+   "TeamID": "B2",
+   "Substitute_PlayerID": 9,
+   "Position": "FW",
+   "Replaced_PlayerID": 19,
+   "Time": "89"
+ },
+ {
+   "GameID": "G21",
+   "TeamID": "C4",
+   "Substitute_PlayerID": 11,
+   "Position": "FW",
+   "Replaced_PlayerID": 20,
+   "Time": "59"
+ },
+ {
+   "GameID": "G21",
+   "TeamID": "C4",
+   "Substitute_PlayerID": 21,
+   "Position": "FW",
+   "Replaced_PlayerID": 9,
+   "Time": "68"
+ },
+ {
+   "GameID": "G21",
+   "TeamID": "C2",
+   "Substitute_PlayerID": 17,
+   "Position": "FW",
+   "Replaced_PlayerID": 10,
+   "Time": "68"
+ },
+ {
+   "GameID": "G21",
+   "TeamID": "C2",
+   "Substitute_PlayerID": 9,
+   "Position": "FW",
+   "Replaced_PlayerID": 11,
+   "Time": "75"
+ },
+ {
+   "GameID": "G21",
+   "TeamID": "C2",
+   "Substitute_PlayerID": 22,
+   "Position": "MF",
+   "Replaced_PlayerID": 23,
+   "Time": "82"
+ },
+ {
+   "GameID": "G22",
+   "TeamID": "C1",
+   "Substitute_PlayerID": 11,
+   "Position": "FW",
+   "Replaced_PlayerID": 10,
+   "Time": "75"
+ },
+ {
+   "GameID": "G22",
+   "TeamID": "C1",
+   "Substitute_PlayerID": 18,
+   "Position": "FW",
+   "Replaced_PlayerID": 7,
+   "Time": "80"
+ },
+ {
+   "GameID": "G22",
+   "TeamID": "C1",
+   "Substitute_PlayerID": 15,
+   "Position": "MF",
+   "Replaced_PlayerID": 6,
+   "Time": "89"
+ },
+ {
+   "GameID": "G22",
+   "TeamID": "C3",
+   "Substitute_PlayerID": 4,
+   "Position": "DF",
+   "Replaced_PlayerID": 2,
+   "Time": "46"
+ },
+ {
+   "GameID": "G22",
+   "TeamID": "C3",
+   "Substitute_PlayerID": 10,
+   "Position": "FW",
+   "Replaced_PlayerID": 19,
+   "Time": "46"
+ },
+ {
+   "GameID": "G22",
+   "TeamID": "C3",
+   "Substitute_PlayerID": 11,
+   "Position": "FW",
+   "Replaced_PlayerID": 8,
+   "Time": "82"
+ },
+ {
+   "GameID": "G23",
+   "TeamID": "D1",
+   "Substitute_PlayerID": 9,
+   "Position": "FW",
+   "Replaced_PlayerID": 19,
+   "Time": "54"
+ },
+ {
+   "GameID": "G23",
+   "TeamID": "D1",
+   "Substitute_PlayerID": 22,
+   "Position": "MF",
+   "Replaced_PlayerID": 18,
+   "Time": "56"
+ },
+ {
+   "GameID": "G23",
+   "TeamID": "D1",
+   "Substitute_PlayerID": 21,
+   "Position": "FW",
+   "Replaced_PlayerID": 15,
+   "Time": "68"
+ },
+ {
+   "GameID": "G23",
+   "TeamID": "D3",
+   "Substitute_PlayerID": 9,
+   "Position": "FW",
+   "Replaced_PlayerID": 18,
+   "Time": "57"
+ },
+ {
+   "GameID": "G23",
+   "TeamID": "D3",
+   "Substitute_PlayerID": 8,
+   "Position": "MF",
+   "Replaced_PlayerID": 4,
+   "Time": "82"
+ },
+ {
+   "GameID": "G23",
+   "TeamID": "D3",
+   "Substitute_PlayerID": 5,
+   "Position": "DF",
+   "Replaced_PlayerID": 17,
+   "Time": "90+3"
+ },
+ {
+   "GameID": "G24",
+   "TeamID": "E1",
+   "Substitute_PlayerID": 7,
+   "Position": "FW",
+   "Replaced_PlayerID": 19,
+   "Time": "46"
+ },
+ {
+   "GameID": "G24",
+   "TeamID": "E1",
+   "Substitute_PlayerID": 20,
+   "Position": "FW",
+   "Replaced_PlayerID": 15,
+   "Time": "68"
+ },
+ {
+   "GameID": "G24",
+   "TeamID": "E1",
+   "Substitute_PlayerID": 17,
+   "Position": "MF",
+   "Replaced_PlayerID": 9,
+   "Time": "90+3"
+ },
+ {
+   "GameID": "G24",
+   "TeamID": "E3",
+   "Substitute_PlayerID": 7,
+   "Position": "MF",
+   "Replaced_PlayerID": 21,
+   "Time": "54"
+ },
+ {
+   "GameID": "G24",
+   "TeamID": "E3",
+   "Substitute_PlayerID": 15,
+   "Position": "DF",
+   "Replaced_PlayerID": 16,
+   "Time": "75"
+ },
+ {
+   "GameID": "G24",
+   "TeamID": "E3",
+   "Substitute_PlayerID": 17,
+   "Position": "MF",
+   "Replaced_PlayerID": 20,
+   "Time": "83"
+ },
+ {
+   "GameID": "G25",
+   "TeamID": "D4",
+   "Substitute_PlayerID": 21,
+   "Position": "DF",
+   "Replaced_PlayerID": 2,
+   "Time": "46"
+ },
+ {
+   "GameID": "G25",
+   "TeamID": "D4",
+   "Substitute_PlayerID": 9,
+   "Position": "FW",
+   "Replaced_PlayerID": 14,
+   "Time": "85"
+ },
+ {
+   "GameID": "G25",
+   "TeamID": "D4",
+   "Substitute_PlayerID": 18,
+   "Position": "FW",
+   "Replaced_PlayerID": 8,
+   "Time": "90"
+ },
+ {
+   "GameID": "G25",
+   "TeamID": "D2",
+   "Substitute_PlayerID": 5,
+   "Position": "DF",
+   "Replaced_PlayerID": 6,
+   "Time": "65"
+ },
+ {
+   "GameID": "G25",
+   "TeamID": "D2",
+   "Substitute_PlayerID": 9,
+   "Position": "FW",
+   "Replaced_PlayerID": 22,
+   "Time": "71"
+ },
+ {
+   "GameID": "G25",
+   "TeamID": "D2",
+   "Substitute_PlayerID": 23,
+   "Position": "DF",
+   "Replaced_PlayerID": 17,
+   "Time": "87"
+ },
+ {
+   "GameID": "G26",
+   "TeamID": "E4",
+   "Substitute_PlayerID": 22,
+   "Position": "MF",
+   "Replaced_PlayerID": 17,
+   "Time": "64"
+ },
+ {
+   "GameID": "G26",
+   "TeamID": "E4",
+   "Substitute_PlayerID": 18,
+   "Position": "FW",
+   "Replaced_PlayerID": 4,
+   "Time": "81"
+ },
+ {
+   "GameID": "G26",
+   "TeamID": "E2",
+   "Substitute_PlayerID": 18,
+   "Position": "FW",
+   "Replaced_PlayerID": 9,
+   "Time": "46"
+ },
+ {
+   "GameID": "G26",
+   "TeamID": "E2",
+   "Substitute_PlayerID": 7,
+   "Position": "FW",
+   "Replaced_PlayerID": 15,
+   "Time": "73"
+ },
+ {
+   "GameID": "G26",
+   "TeamID": "E2",
+   "Substitute_PlayerID": 19,
+   "Position": "FW",
+   "Replaced_PlayerID": 14,
+   "Time": "90+4"
+ },
+ {
+   "GameID": "G27",
+   "TeamID": "G1",
+   "Substitute_PlayerID": 8,
+   "Position": "MF",
+   "Replaced_PlayerID": 9,
+   "Time": "59"
+ },
+ {
+   "GameID": "G27",
+   "TeamID": "G1",
+   "Substitute_PlayerID": 21,
+   "Position": "FW",
+   "Replaced_PlayerID": 10,
+   "Time": "68"
+ },
+ {
+   "GameID": "G27",
+   "TeamID": "G1",
+   "Substitute_PlayerID": 17,
+   "Position": "MF",
+   "Replaced_PlayerID": 14,
+   "Time": "86"
+ },
+ {
+   "GameID": "G27",
+   "TeamID": "G3",
+   "Substitute_PlayerID": 21,
+   "Position": "DF",
+   "Replaced_PlayerID": 11,
+   "Time": "24"
+ },
+ {
+   "GameID": "G27",
+   "TeamID": "G3",
+   "Substitute_PlayerID": 3,
+   "Position": "DF",
+   "Replaced_PlayerID": 2,
+   "Time": "41"
+ },
+ {
+   "GameID": "G27",
+   "TeamID": "G3",
+   "Substitute_PlayerID": 23,
+   "Position": "FW",
+   "Replaced_PlayerID": 13,
+   "Time": "59"
+ },
+ {
+   "GameID": "G28",
+   "TeamID": "F4",
+   "Substitute_PlayerID": 10,
+   "Position": "MF",
+   "Replaced_PlayerID": 8,
+   "Time": "64"
+ },
+ {
+   "GameID": "G28",
+   "TeamID": "F4",
+   "Substitute_PlayerID": 15,
+   "Position": "MF",
+   "Replaced_PlayerID": 18,
+   "Time": "77"
+ },
+ {
+   "GameID": "G28",
+   "TeamID": "F4",
+   "Substitute_PlayerID": 14,
+   "Position": "DF",
+   "Replaced_PlayerID": 12,
+   "Time": "84"
+ },
+ {
+   "GameID": "G28",
+   "TeamID": "F2",
+   "Substitute_PlayerID": 4,
+   "Position": "DF",
+   "Replaced_PlayerID": 18,
+   "Time": "68"
+ },
+ {
+   "GameID": "G28",
+   "TeamID": "F2",
+   "Substitute_PlayerID": 17,
+   "Position": "MF",
+   "Replaced_PlayerID": 22,
+   "Time": "71"
+ },
+ {
+   "GameID": "G28",
+   "TeamID": "F2",
+   "Substitute_PlayerID": 10,
+   "Position": "MF",
+   "Replaced_PlayerID": 11,
+   "Time": "77"
+ },
+ {
+   "GameID": "G29",
+   "TeamID": "F1",
+   "Substitute_PlayerID": 21,
+   "Position": "MF",
+   "Replaced_PlayerID": 19,
+   "Time": "31"
+ },
+ {
+   "GameID": "G29",
+   "TeamID": "F1",
+   "Substitute_PlayerID": 23,
+   "Position": "FW",
+   "Replaced_PlayerID": 7,
+   "Time": "46"
+ },
+ {
+   "GameID": "G29",
+   "TeamID": "F1",
+   "Substitute_PlayerID": 20,
+   "Position": "MF",
+   "Replaced_PlayerID": 3,
+   "Time": "87"
+ },
+ {
+   "GameID": "G29",
+   "TeamID": "F3",
+   "Substitute_PlayerID": 21,
+   "Position": "MF",
+   "Replaced_PlayerID": 17,
+   "Time": "74"
+ },
+ {
+   "GameID": "G29",
+   "TeamID": "F3",
+   "Substitute_PlayerID": 11,
+   "Position": "FW",
+   "Replaced_PlayerID": 20,
+   "Time": "78"
+ },
+ {
+   "GameID": "G29",
+   "TeamID": "F3",
+   "Substitute_PlayerID": 22,
+   "Position": "FW",
+   "Replaced_PlayerID": 9,
+   "Time": "90"
+ },
+ {
+   "GameID": "G30",
+   "TeamID": "G4",
+   "Substitute_PlayerID": 11,
+   "Position": "FW",
+   "Replaced_PlayerID": 7,
+   "Time": "63"
+ },
+ {
+   "GameID": "G30",
+   "TeamID": "G4",
+   "Substitute_PlayerID": 17,
+   "Position": "DF",
+   "Replaced_PlayerID": 9,
+   "Time": "63"
+ },
+ {
+   "GameID": "G30",
+   "TeamID": "G4",
+   "Substitute_PlayerID": 3,
+   "Position": "DF",
+   "Replaced_PlayerID": 12,
+   "Time": "70"
+ },
+ {
+   "GameID": "G30",
+   "TeamID": "G2",
+   "Substitute_PlayerID": 19,
+   "Position": "MF",
+   "Replaced_PlayerID": 20,
+   "Time": "62"
+ },
+ {
+   "GameID": "G30",
+   "TeamID": "G2",
+   "Substitute_PlayerID": 16,
+   "Position": "FW",
+   "Replaced_PlayerID": 6,
+   "Time": "69"
+ },
+ {
+   "GameID": "G30",
+   "TeamID": "G2",
+   "Substitute_PlayerID": 23,
+   "Position": "DF",
+   "Replaced_PlayerID": 8,
+   "Time": "69"
+ },
+ {
+   "GameID": "G31",
+   "TeamID": "H4",
+   "Substitute_PlayerID": 4,
+   "Position": "MF",
+   "Replaced_PlayerID": 10,
+   "Time": "72"
+ },
+ {
+   "GameID": "G31",
+   "TeamID": "H4",
+   "Substitute_PlayerID": 9,
+   "Position": "FW",
+   "Replaced_PlayerID": 8,
+   "Time": "75"
+ },
+ {
+   "GameID": "G31",
+   "TeamID": "H4",
+   "Substitute_PlayerID": 11,
+   "Position": "MF",
+   "Replaced_PlayerID": 14,
+   "Time": "87"
+ },
+ {
+   "GameID": "G31",
+   "TeamID": "H2",
+   "Substitute_PlayerID": 8,
+   "Position": "MF",
+   "Replaced_PlayerID": 13,
+   "Time": "65"
+ },
+ {
+   "GameID": "G31",
+   "TeamID": "H2",
+   "Substitute_PlayerID": 11,
+   "Position": "MF",
+   "Replaced_PlayerID": 17,
+   "Time": "81"
+ },
+ {
+   "GameID": "G31",
+   "TeamID": "H2",
+   "Substitute_PlayerID": 9,
+   "Position": "FW",
+   "Replaced_PlayerID": 19,
+   "Time": "86"
+ },
+ {
+   "GameID": "G32",
+   "TeamID": "H1",
+   "Substitute_PlayerID": 23,
+   "Position": "MF",
+   "Replaced_PlayerID": 23,
+   "Time": "57"
+ },
+ {
+   "GameID": "G32",
+   "TeamID": "H1",
+   "Substitute_PlayerID": 18,
+   "Position": "FW",
+   "Replaced_PlayerID": 18,
+   "Time": "72"
+ },
+ {
+   "GameID": "G32",
+   "TeamID": "H1",
+   "Substitute_PlayerID": 2,
+   "Position": "DF",
+   "Replaced_PlayerID": 2,
+   "Time": "80"
+ },
+ {
+   "GameID": "G32",
+   "TeamID": "H3",
+   "Substitute_PlayerID": 15,
+   "Position": "MF",
+   "Replaced_PlayerID": 8,
+   "Time": "32"
+ },
+ {
+   "GameID": "G32",
+   "TeamID": "H3",
+   "Substitute_PlayerID": 16,
+   "Position": "MF",
+   "Replaced_PlayerID": 20,
+   "Time": "73"
+ },
+ {
+   "GameID": "G32",
+   "TeamID": "H3",
+   "Substitute_PlayerID": 7,
+   "Position": "FW",
+   "Replaced_PlayerID": 9,
+   "Time": "78"
+ },
+ {
+   "GameID": "G33",
+   "TeamID": "A4",
+   "Substitute_PlayerID": 10,
+   "Position": "FW",
+   "Replaced_PlayerID": 6,
+   "Time": "63"
+ },
+ {
+   "GameID": "G33",
+   "TeamID": "A4",
+   "Substitute_PlayerID": 7,
+   "Position": "MF",
+   "Replaced_PlayerID": 8,
+   "Time": "73"
+ },
+ {
+   "GameID": "G33",
+   "TeamID": "A4",
+   "Substitute_PlayerID": 18,
+   "Position": "FW",
+   "Replaced_PlayerID": 21,
+   "Time": "90+3"
+ },
+ {
+   "GameID": "G33",
+   "TeamID": "A1",
+   "Substitute_PlayerID": 2,
+   "Position": "DF",
+   "Replaced_PlayerID": 6,
+   "Time": "38"
+ },
+ {
+   "GameID": "G33",
+   "TeamID": "A1",
+   "Substitute_PlayerID": 7,
+   "Position": "MF",
+   "Replaced_PlayerID": 8,
+   "Time": "46"
+ },
+ {
+   "GameID": "G33",
+   "TeamID": "A1",
+   "Substitute_PlayerID": 10,
+   "Position": "FW",
+   "Replaced_PlayerID": 15,
+   "Time": "60"
+ },
+ {
+   "GameID": "G34",
+   "TeamID": "A2",
+   "Substitute_PlayerID": 20,
+   "Position": "FW",
+   "Replaced_PlayerID": 9,
+   "Time": "65"
+ },
+ {
+   "GameID": "G34",
+   "TeamID": "A2",
+   "Substitute_PlayerID": 8,
+   "Position": "MF",
+   "Replaced_PlayerID": 19,
+   "Time": "79"
+ },
+ {
+   "GameID": "G34",
+   "TeamID": "A3",
+   "Substitute_PlayerID": 14,
+   "Position": "FW",
+   "Replaced_PlayerID": 9,
+   "Time": "64"
+ },
+ {
+   "GameID": "G34",
+   "TeamID": "A3",
+   "Substitute_PlayerID": 22,
+   "Position": "FW",
+   "Replaced_PlayerID": 19,
+   "Time": "45+7"
+ },
+ {
+   "GameID": "G34",
+   "TeamID": "A3",
+   "Substitute_PlayerID": 11,
+   "Position": "FW",
+   "Replaced_PlayerID": 21,
+   "Time": "81"
+ },
+ {
+   "GameID": "G35",
+   "TeamID": "B2",
+   "Substitute_PlayerID": 17,
+   "Position": "FW",
+   "Replaced_PlayerID": 10,
+   "Time": "74"
+ },
+ {
+   "GameID": "G35",
+   "TeamID": "B2",
+   "Substitute_PlayerID": 20,
+   "Position": "MF",
+   "Replaced_PlayerID": 19,
+   "Time": "74"
+ },
+ {
+   "GameID": "G35",
+   "TeamID": "B2",
+   "Substitute_PlayerID": 9,
+   "Position": "FW",
+   "Replaced_PlayerID": 21,
+   "Time": "84"
+ },
+ {
+   "GameID": "G35",
+   "TeamID": "B3",
+   "Substitute_PlayerID": 11,
+   "Position": "MF",
+   "Replaced_PlayerID": 10,
+   "Time": "63"
+ },
+ {
+   "GameID": "G35",
+   "TeamID": "B3",
+   "Substitute_PlayerID": 19,
+   "Position": "FW",
+   "Replaced_PlayerID": 13,
+   "Time": "72"
+ },
+ {
+   "GameID": "G35",
+   "TeamID": "B3",
+   "Substitute_PlayerID": 20,
+   "Position": "FW",
+   "Replaced_PlayerID": 7,
+   "Time": "85"
+ },
+ {
+   "GameID": "G36",
+   "TeamID": "B4",
+   "Substitute_PlayerID": 5,
+   "Position": "DF",
+   "Replaced_PlayerID": 3,
+   "Time": "56"
+ },
+ {
+   "GameID": "G36",
+   "TeamID": "B4",
+   "Substitute_PlayerID": 14,
+   "Position": "FW",
+   "Replaced_PlayerID": 18,
+   "Time": "70"
+ },
+ {
+   "GameID": "G36",
+   "TeamID": "B4",
+   "Substitute_PlayerID": 10,
+   "Position": "FW",
+   "Replaced_PlayerID": 6,
+   "Time": "76"
+ },
+ {
+   "GameID": "G36",
+   "TeamID": "B1",
+   "Substitute_PlayerID": 11,
+   "Position": "MF",
+   "Replaced_PlayerID": 20,
+   "Time": "70"
+ },
+ {
+   "GameID": "G36",
+   "TeamID": "B1",
+   "Substitute_PlayerID": 8,
+   "Position": "MF",
+   "Replaced_PlayerID": 10,
+   "Time": "84"
+ },
+ {
+   "GameID": "G36",
+   "TeamID": "B1",
+   "Substitute_PlayerID": 17,
+   "Position": "FW",
+   "Replaced_PlayerID": 9,
+   "Time": "90+6"
+ },
+ {
+   "GameID": "G37",
+   "TeamID": "C2",
+   "Substitute_PlayerID": 4,
+   "Position": "FW",
+   "Replaced_PlayerID": 9,
+   "Time": "53"
+ },
+ {
+   "GameID": "G37",
+   "TeamID": "C2",
+   "Substitute_PlayerID": 17,
+   "Position": "FW",
+   "Replaced_PlayerID": 10,
+   "Time": "58"
+ },
+ {
+   "GameID": "G37",
+   "TeamID": "C2",
+   "Substitute_PlayerID": 22,
+   "Position": "MF",
+   "Replaced_PlayerID": 23,
+   "Time": "72"
+ },
+ {
+   "GameID": "G37",
+   "TeamID": "C3",
+   "Substitute_PlayerID": 23,
+   "Position": "MF",
+   "Replaced_PlayerID": 19,
+   "Time": "46"
+ },
+ {
+   "GameID": "G37",
+   "TeamID": "C3",
+   "Substitute_PlayerID": 7,
+   "Position": "MF",
+   "Replaced_PlayerID": 13,
+   "Time": "63"
+ },
+ {
+   "GameID": "G37",
+   "TeamID": "C3",
+   "Substitute_PlayerID": 16,
+   "Position": "MF",
+   "Replaced_PlayerID": 18,
+   "Time": "79"
+ },
+ {
+   "GameID": "G38",
+   "TeamID": "C4",
+   "Substitute_PlayerID": 15,
+   "Position": "FW",
+   "Replaced_PlayerID": 8,
+   "Time": "60"
+ },
+ {
+   "GameID": "G38",
+   "TeamID": "C4",
+   "Substitute_PlayerID": 12,
+   "Position": "FW",
+   "Replaced_PlayerID": 21,
+   "Time": "75"
+ },
+ {
+   "GameID": "G38",
+   "TeamID": "C4",
+   "Substitute_PlayerID": 18,
+   "Position": "MF",
+   "Replaced_PlayerID": 23,
+   "Time": "90+2"
+ },
+ {
+   "GameID": "G38",
+   "TeamID": "C1",
+   "Substitute_PlayerID": 22,
+   "Position": "DF",
+   "Replaced_PlayerID": 21,
+   "Time": "50"
+ },
+ {
+   "GameID": "G38",
+   "TeamID": "C1",
+   "Substitute_PlayerID": 18,
+   "Position": "FW",
+   "Replaced_PlayerID": 7,
+   "Time": "68"
+ },
+ {
+   "GameID": "G38",
+   "TeamID": "C1",
+   "Substitute_PlayerID": 10,
+   "Position": "FW",
+   "Replaced_PlayerID": 11,
+   "Time": "78"
+ },
+ {
+   "GameID": "G39",
+   "TeamID": "D4",
+   "Substitute_PlayerID": 9,
+   "Position": "FW",
+   "Replaced_PlayerID": 14,
+   "Time": "46"
+ },
+ {
+   "GameID": "G39",
+   "TeamID": "D4",
+   "Substitute_PlayerID": 18,
+   "Position": "FW",
+   "Replaced_PlayerID": 22,
+   "Time": "90"
+ },
+ {
+   "GameID": "G39",
+   "TeamID": "D4",
+   "Substitute_PlayerID": 13,
+   "Position": "FW",
+   "Replaced_PlayerID": 7,
+   "Time": "90+2"
+ },
+ {
+   "GameID": "G39",
+   "TeamID": "D1",
+   "Substitute_PlayerID": 22,
+   "Position": "MF",
+   "Replaced_PlayerID": 15,
+   "Time": "61"
+ },
+ {
+   "GameID": "G39",
+   "TeamID": "D1",
+   "Substitute_PlayerID": 13,
+   "Position": "MF",
+   "Replaced_PlayerID": 11,
+   "Time": "72"
+ },
+ {
+   "GameID": "G39",
+   "TeamID": "D1",
+   "Substitute_PlayerID": 19,
+   "Position": "FW",
+   "Replaced_PlayerID": 3,
+   "Time": "80"
+ },
+ {
+   "GameID": "G40",
+   "TeamID": "D2",
+   "Substitute_PlayerID": 9,
+   "Position": "FW",
+   "Replaced_PlayerID": 6,
+   "Time": "70"
+ },
+ {
+   "GameID": "G40",
+   "TeamID": "D2",
+   "Substitute_PlayerID": 4,
+   "Position": "MF",
+   "Replaced_PlayerID": 11,
+   "Time": "85"
+ },
+ {
+   "GameID": "G40",
+   "TeamID": "D2",
+   "Substitute_PlayerID": 21,
+   "Position": "MF",
+   "Replaced_PlayerID": 8,
+   "Time": "90"
+ },
+ {
+   "GameID": "G40",
+   "TeamID": "D3",
+   "Substitute_PlayerID": 14,
+   "Position": "MF",
+   "Replaced_PlayerID": 10,
+   "Time": "65"
+ },
+ {
+   "GameID": "G40",
+   "TeamID": "D3",
+   "Substitute_PlayerID": 6,
+   "Position": "DF",
+   "Replaced_PlayerID": 20,
+   "Time": "70"
+ },
+ {
+   "GameID": "G40",
+   "TeamID": "D3",
+   "Substitute_PlayerID": 7,
+   "Position": "MF",
+   "Replaced_PlayerID": 8,
+   "Time": "81"
+ },
+ {
+   "GameID": "G41",
+   "TeamID": "F4",
+   "Substitute_PlayerID": 11,
+   "Position": "FW",
+   "Replaced_PlayerID": 13,
+   "Time": "56"
+ },
+ {
+   "GameID": "G41",
+   "TeamID": "F4",
+   "Substitute_PlayerID": 8,
+   "Position": "MF",
+   "Replaced_PlayerID": 18,
+   "Time": "69"
+ },
+ {
+   "GameID": "G41",
+   "TeamID": "F4",
+   "Substitute_PlayerID": 22,
+   "Position": "DF",
+   "Replaced_PlayerID": 11,
+   "Time": "79"
+ },
+ {
+   "GameID": "G41",
+   "TeamID": "F1",
+   "Substitute_PlayerID": 23,
+   "Position": "FW",
+   "Replaced_PlayerID": 6,
+   "Time": "58"
+ },
+ {
+   "GameID": "G41",
+   "TeamID": "F1",
+   "Substitute_PlayerID": 13,
+   "Position": "MF",
+   "Replaced_PlayerID": 14,
+   "Time": "63"
+ },
+ {
+   "GameID": "G41",
+   "TeamID": "F1",
+   "Substitute_PlayerID": 20,
+   "Position": "MF",
+   "Replaced_PlayerID": 3,
+   "Time": "78"
+ },
+ {
+   "GameID": "G42",
+   "TeamID": "F2",
+   "Substitute_PlayerID": 8,
+   "Position": "FW",
+   "Replaced_PlayerID": 23,
+   "Time": "65"
+ },
+ {
+   "GameID": "G42",
+   "TeamID": "F2",
+   "Substitute_PlayerID": 17,
+   "Position": "MF",
+   "Replaced_PlayerID": 18,
+   "Time": "75"
+ },
+ {
+   "GameID": "G42",
+   "TeamID": "F2",
+   "Substitute_PlayerID": 19,
+   "Position": "FW",
+   "Replaced_PlayerID": 7,
+   "Time": "89"
+ },
+ {
+   "GameID": "G42",
+   "TeamID": "F3",
+   "Substitute_PlayerID": 13,
+   "Position": "MF",
+   "Replaced_PlayerID": 7,
+   "Time": "57"
+ },
+ {
+   "GameID": "G42",
+   "TeamID": "F3",
+   "Substitute_PlayerID": 22,
+   "Position": "FW",
+   "Replaced_PlayerID": 9,
+   "Time": "68"
+ },
+ {
+   "GameID": "G42",
+   "TeamID": "F3",
+   "Substitute_PlayerID": 15,
+   "Position": "MF",
+   "Replaced_PlayerID": 8,
+   "Time": "80"
+ },
+ {
+   "GameID": "G43",
+   "TeamID": "E4",
+   "Substitute_PlayerID": 7,
+   "Position": "MF",
+   "Replaced_PlayerID": 22,
+   "Time": "75"
+ },
+ {
+   "GameID": "G43",
+   "TeamID": "E4",
+   "Substitute_PlayerID": 18,
+   "Position": "FW",
+   "Replaced_PlayerID": 17,
+   "Time": "82"
+ },
+ {
+   "GameID": "G43",
+   "TeamID": "E4",
+   "Substitute_PlayerID": 19,
+   "Position": "FW",
+   "Replaced_PlayerID": 9,
+   "Time": "85"
+ },
+ {
+   "GameID": "G43",
+   "TeamID": "E1",
+   "Substitute_PlayerID": 6,
+   "Position": "DF",
+   "Replaced_PlayerID": 12,
+   "Time": "10"
+ },
+ {
+   "GameID": "G43",
+   "TeamID": "E1",
+   "Substitute_PlayerID": 17,
+   "Position": "MF",
+   "Replaced_PlayerID": 15,
+   "Time": "66"
+ },
+ {
+   "GameID": "G43",
+   "TeamID": "E1",
+   "Substitute_PlayerID": 8,
+   "Position": "MF",
+   "Replaced_PlayerID": 11,
+   "Time": "80"
+ },
+ {
+   "GameID": "G44",
+   "TeamID": "E2",
+   "Substitute_PlayerID": 17,
+   "Position": "MF",
+   "Replaced_PlayerID": 11,
+   "Time": "60"
+ },
+ {
+   "GameID": "G44",
+   "TeamID": "E2",
+   "Substitute_PlayerID": 19,
+   "Position": "FW",
+   "Replaced_PlayerID": 18,
+   "Time": "69"
+ },
+ {
+   "GameID": "G44",
+   "TeamID": "E2",
+   "Substitute_PlayerID": 6,
+   "Position": "DF",
+   "Replaced_PlayerID": 23,
+   "Time": "81"
+ },
+ {
+   "GameID": "G44",
+   "TeamID": "E3",
+   "Substitute_PlayerID": 13,
+   "Position": "MF",
+   "Replaced_PlayerID": 9,
+   "Time": "81"
+ },
+ {
+   "GameID": "G44",
+   "TeamID": "E3",
+   "Substitute_PlayerID": 14,
+   "Position": "MF",
+   "Replaced_PlayerID": 20,
+   "Time": "90+1"
+ },
+ {
+   "GameID": "G44",
+   "TeamID": "E3",
+   "Substitute_PlayerID": 4,
+   "Position": "DF",
+   "Replaced_PlayerID": 16,
+   "Time": "90+3"
+ },
+ {
+   "GameID": "G45",
+   "TeamID": "H4",
+   "Substitute_PlayerID": 15,
+   "Position": "FW",
+   "Replaced_PlayerID": 9,
+   "Time": "47"
+ },
+ {
+   "GameID": "G45",
+   "TeamID": "H4",
+   "Substitute_PlayerID": 14,
+   "Position": "MF",
+   "Replaced_PlayerID": 11,
+   "Time": "65"
+ },
+ {
+   "GameID": "G45",
+   "TeamID": "H4",
+   "Substitute_PlayerID": 17,
+   "Position": "MF",
+   "Replaced_PlayerID": 13,
+   "Time": "82"
+ },
+ {
+   "GameID": "G45",
+   "TeamID": "H1",
+   "Substitute_PlayerID": 14,
+   "Position": "FW",
+   "Replaced_PlayerID": 19,
+   "Time": "79"
+ },
+ {
+   "GameID": "G45",
+   "TeamID": "H1",
+   "Substitute_PlayerID": 17,
+   "Position": "MF",
+   "Replaced_PlayerID": 21,
+   "Time": "79"
+ },
+ {
+   "GameID": "G46",
+   "TeamID": "H2",
+   "Substitute_PlayerID": 22,
+   "Position": "DF",
+   "Replaced_PlayerID": 12,
+   "Time": "74"
+ },
+ {
+   "GameID": "G46",
+   "TeamID": "H2",
+   "Substitute_PlayerID": 14,
+   "Position": "FW",
+   "Replaced_PlayerID": 20,
+   "Time": "80"
+ },
+ {
+   "GameID": "G46",
+   "TeamID": "H2",
+   "Substitute_PlayerID": 15,
+   "Position": "FW",
+   "Replaced_PlayerID": 19,
+   "Time": "86"
+ },
+ {
+   "GameID": "G46",
+   "TeamID": "H3",
+   "Substitute_PlayerID": 14,
+   "Position": "FW",
+   "Replaced_PlayerID": 10,
+   "Time": "31"
+ },
+ {
+   "GameID": "G46",
+   "TeamID": "H3",
+   "Substitute_PlayerID": 16,
+   "Position": "MF",
+   "Replaced_PlayerID": 15,
+   "Time": "83"
+ },
+ {
+   "GameID": "G46",
+   "TeamID": "H3",
+   "Substitute_PlayerID": 19,
+   "Position": "FW",
+   "Replaced_PlayerID": 9,
+   "Time": "89"
+ },
+ {
+   "GameID": "G47",
+   "TeamID": "G2",
+   "Substitute_PlayerID": 3,
+   "Position": "DF",
+   "Replaced_PlayerID": 9,
+   "Time": "46"
+ },
+ {
+   "GameID": "G47",
+   "TeamID": "G2",
+   "Substitute_PlayerID": 18,
+   "Position": "FW",
+   "Replaced_PlayerID": 5,
+   "Time": "56"
+ },
+ {
+   "GameID": "G47",
+   "TeamID": "G2",
+   "Substitute_PlayerID": 16,
+   "Position": "FW",
+   "Replaced_PlayerID": 19,
+   "Time": "81"
+ },
+ {
+   "GameID": "G47",
+   "TeamID": "G3",
+   "Substitute_PlayerID": 9,
+   "Position": "MF",
+   "Replaced_PlayerID": 13,
+   "Time": "46"
+ },
+ {
+   "GameID": "G47",
+   "TeamID": "G3",
+   "Substitute_PlayerID": 18,
+   "Position": "FW",
+   "Replaced_PlayerID": 10,
+   "Time": "89"
+ },
+ {
+   "GameID": "G47",
+   "TeamID": "G3",
+   "Substitute_PlayerID": 15,
+   "Position": "FW",
+   "Replaced_PlayerID": 23,
+   "Time": "77"
+ },
+ {
+   "GameID": "G48",
+   "TeamID": "G4",
+   "Substitute_PlayerID": 6,
+   "Position": "DF",
+   "Replaced_PlayerID": 5,
+   "Time": "46"
+ },
+ {
+   "GameID": "G48",
+   "TeamID": "G4",
+   "Substitute_PlayerID": 14,
+   "Position": "FW",
+   "Replaced_PlayerID": 22,
+   "Time": "79"
+ },
+ {
+   "GameID": "G48",
+   "TeamID": "G1",
+   "Substitute_PlayerID": 4,
+   "Position": "DF",
+   "Replaced_PlayerID": 3,
+   "Time": "74"
+ },
+ {
+   "GameID": "G48",
+   "TeamID": "G1",
+   "Substitute_PlayerID": 14,
+   "Position": "FW",
+   "Replaced_PlayerID": 18,
+   "Time": "86"
+ },
+ {
+   "GameID": "G49",
+   "TeamID": "A4",
+   "Substitute_PlayerID": 7,
+   "Position": "MF",
+   "Replaced_PlayerID": 6,
+   "Time": "63"
+ },
+ {
+   "GameID": "G49",
+   "TeamID": "A4",
+   "Substitute_PlayerID": 5,
+   "Position": "MF",
+   "Replaced_PlayerID": 8,
+   "Time": "81"
+ },
+ {
+   "GameID": "G49",
+   "TeamID": "A4",
+   "Substitute_PlayerID": 11,
+   "Position": "FW",
+   "Replaced_PlayerID": 21,
+   "Time": "74"
+ },
+ {
+   "GameID": "G49",
+   "TeamID": "B1",
+   "Substitute_PlayerID": 4,
+   "Position": "MF",
+   "Replaced_PlayerID": 10,
+   "Time": "84"
+ },
+ {
+   "GameID": "G49",
+   "TeamID": "B1",
+   "Substitute_PlayerID": 9,
+   "Position": "FW",
+   "Replaced_PlayerID": 17,
+   "Time": "74"
+ },
+ {
+   "GameID": "G49",
+   "TeamID": "B1",
+   "Substitute_PlayerID": 20,
+   "Position": "FW",
+   "Replaced_PlayerID": 23,
+   "Time": "65"
+ },
+ {
+   "GameID": "G50",
+   "TeamID": "C1",
+   "Substitute_PlayerID": 18,
+   "Position": "FW",
+   "Replaced_PlayerID": 7,
+   "Time": "83"
+ },
+ {
+   "GameID": "G50",
+   "TeamID": "C1",
+   "Substitute_PlayerID": 20,
+   "Position": "FW",
+   "Replaced_PlayerID": 10,
+   "Time": "89"
+ },
+ {
+   "GameID": "G50",
+   "TeamID": "C1",
+   "Substitute_PlayerID": 12,
+   "Position": "MF",
+   "Replaced_PlayerID": 14,
+   "Time": "75"
+ },
+ {
+   "GameID": "G50",
+   "TeamID": "D1",
+   "Substitute_PlayerID": 19,
+   "Position": "FW",
+   "Replaced_PlayerID": 15,
+   "Time": "66"
+ },
+ {
+   "GameID": "G50",
+   "TeamID": "D1",
+   "Substitute_PlayerID": 6,
+   "Position": "DF",
+   "Replaced_PlayerID": 16,
+   "Time": "46"
+ },
+ {
+   "GameID": "G50",
+   "TeamID": "D1",
+   "Substitute_PlayerID": 13,
+   "Position": "MF",
+   "Replaced_PlayerID": 22,
+   "Time": "75"
+ },
+ {
+   "GameID": "G51",
+   "TeamID": "B2",
+   "Substitute_PlayerID": 2,
+   "Position": "DF",
+   "Replaced_PlayerID": 4,
+   "Time": "70"
+ },
+ {
+   "GameID": "G51",
+   "TeamID": "B2",
+   "Substitute_PlayerID": 17,
+   "Position": "FW",
+   "Replaced_PlayerID": 19,
+   "Time": "80"
+ },
+ {
+   "GameID": "G51",
+   "TeamID": "B2",
+   "Substitute_PlayerID": 9,
+   "Position": "FW",
+   "Replaced_PlayerID": 20,
+   "Time": "104"
+ },
+ {
+   "GameID": "G51",
+   "TeamID": "B2",
+   "Substitute_PlayerID": 6,
+   "Position": "MF",
+   "Replaced_PlayerID": 21,
+   "Time": "67"
+ },
+ {
+   "GameID": "G51",
+   "TeamID": "A1",
+   "Substitute_PlayerID": 21,
+   "Position": "MF",
+   "Replaced_PlayerID": 7,
+   "Time": "97"
+ },
+ {
+   "GameID": "G51",
+   "TeamID": "A1",
+   "Substitute_PlayerID": 14,
+   "Position": "DF",
+   "Replaced_PlayerID": 18,
+   "Time": "46"
+ },
+ {
+   "GameID": "G51",
+   "TeamID": "A1",
+   "Substitute_PlayerID": 6,
+   "Position": "MF",
+   "Replaced_PlayerID": 19,
+   "Time": "61"
+ },
+ {
+   "GameID": "G51",
+   "TeamID": "A1",
+   "Substitute_PlayerID": 10,
+   "Position": "FW",
+   "Replaced_PlayerID": 22,
+   "Time": "65"
+ },
+ {
+   "GameID": "G52",
+   "TeamID": "D3",
+   "Substitute_PlayerID": 22,
+   "Position": "DF",
+   "Replaced_PlayerID": 3,
+   "Time": "81"
+ },
+ {
+   "GameID": "G52",
+   "TeamID": "D3",
+   "Substitute_PlayerID": 9,
+   "Position": "FW",
+   "Replaced_PlayerID": 4,
+   "Time": "97"
+ },
+ {
+   "GameID": "G52",
+   "TeamID": "D3",
+   "Substitute_PlayerID": 8,
+   "Position": "MF",
+   "Replaced_PlayerID": 11,
+   "Time": "71"
+ },
+ {
+   "GameID": "G52",
+   "TeamID": "D3",
+   "Substitute_PlayerID": 19,
+   "Position": "MF",
+   "Replaced_PlayerID": 17,
+   "Time": "108"
+ },
+ {
+   "GameID": "G52",
+   "TeamID": "C4",
+   "Substitute_PlayerID": 19,
+   "Position": "MF",
+   "Replaced_PlayerID": 6,
+   "Time": "46"
+ },
+ {
+   "GameID": "G52",
+   "TeamID": "C4",
+   "Substitute_PlayerID": 2,
+   "Position": "MF",
+   "Replaced_PlayerID": 8,
+   "Time": "98"
+ },
+ {
+   "GameID": "G52",
+   "TeamID": "C4",
+   "Substitute_PlayerID": 23,
+   "Position": "FW",
+   "Replaced_PlayerID": 11,
+   "Time": "106"
+ },
+ {
+   "GameID": "G52",
+   "TeamID": "C4",
+   "Substitute_PlayerID": 9,
+   "Position": "FW",
+   "Replaced_PlayerID": 21,
+   "Time": "66"
+ },
+ {
+   "GameID": "G53",
+   "TeamID": "E1",
+   "Substitute_PlayerID": 20,
+   "Position": "FW",
+   "Replaced_PlayerID": 11,
+   "Time": "86"
+ },
+ {
+   "GameID": "G53",
+   "TeamID": "E1",
+   "Substitute_PlayerID": 17,
+   "Position": "MF",
+   "Replaced_PlayerID": 15,
+   "Time": "80"
+ },
+ {
+   "GameID": "G53",
+   "TeamID": "E1",
+   "Substitute_PlayerID": 13,
+   "Position": "DF",
+   "Replaced_PlayerID": 19,
+   "Time": "90+1"
+ },
+ {
+   "GameID": "G53",
+   "TeamID": "F2",
+   "Substitute_PlayerID": 7,
+   "Position": "MF",
+   "Replaced_PlayerID": 4,
+   "Time": "46"
+ },
+ {
+   "GameID": "G53",
+   "TeamID": "F2",
+   "Substitute_PlayerID": 9,
+   "Position": "FW",
+   "Replaced_PlayerID": 14,
+   "Time": "60"
+ },
+ {
+   "GameID": "G53",
+   "TeamID": "F2",
+   "Substitute_PlayerID": 6,
+   "Position": "MF",
+   "Replaced_PlayerID": 21,
+   "Time": "55"
+ },
+ {
+   "GameID": "G54",
+   "TeamID": "G1",
+   "Substitute_PlayerID": 8,
+   "Position": "MF",
+   "Replaced_PlayerID": 11,
+   "Time": "65"
+ },
+ {
+   "GameID": "G54",
+   "TeamID": "G1",
+   "Substitute_PlayerID": 22,
+   "Position": "MF",
+   "Replaced_PlayerID": 14,
+   "Time": "65"
+ },
+ {
+   "GameID": "G54",
+   "TeamID": "H4",
+   "Substitute_PlayerID": 4,
+   "Position": "MF",
+   "Replaced_PlayerID": 7,
+   "Time": "81"
+ },
+ {
+   "GameID": "G54",
+   "TeamID": "H4",
+   "Substitute_PlayerID": 16,
+   "Position": "MF",
+   "Replaced_PlayerID": 8,
+   "Time": "81"
+ },
+ {
+   "GameID": "G55",
+   "TeamID": "F3",
+   "Substitute_PlayerID": 5,
+   "Position": "DF",
+   "Replaced_PlayerID": 10,
+   "Time": "82"
+ },
+ {
+   "GameID": "G55",
+   "TeamID": "F3",
+   "Substitute_PlayerID": 16,
+   "Position": "DF",
+   "Replaced_PlayerID": 2,
+   "Time": "82"
+ },
+ {
+   "GameID": "G55",
+   "TeamID": "F3",
+   "Substitute_PlayerID": 22,
+   "Position": "FW",
+   "Replaced_PlayerID": 9,
+   "Time": "90+1"
+ },
+ {
+   "GameID": "G55",
+   "TeamID": "E2",
+   "Substitute_PlayerID": 7,
+   "Position": "FW",
+   "Replaced_PlayerID": 14,
+   "Time": "73"
+ },
+ {
+   "GameID": "G55",
+   "TeamID": "E2",
+   "Substitute_PlayerID": 9,
+   "Position": "FW",
+   "Replaced_PlayerID": 15,
+   "Time": "73"
+ },
+ {
+   "GameID": "G56",
+   "TeamID": "H3",
+   "Substitute_PlayerID": 2,
+   "Position": "DF",
+   "Replaced_PlayerID": 4,
+   "Time": "116"
+ },
+ {
+   "GameID": "G56",
+   "TeamID": "H3",
+   "Substitute_PlayerID": 15,
+   "Position": "MF",
+   "Replaced_PlayerID": 6,
+   "Time": "79"
+ },
+ {
+   "GameID": "G56",
+   "TeamID": "H3",
+   "Substitute_PlayerID": 7,
+   "Position": "FW",
+   "Replaced_PlayerID": 16,
+   "Time": "61"
+ },
+ {
+   "GameID": "G56",
+   "TeamID": "H3",
+   "Substitute_PlayerID": 14,
+   "Position": "FW",
+   "Replaced_PlayerID": 20,
+   "Time": "88"
+ },
+ {
+   "GameID": "G56",
+   "TeamID": "G4",
+   "Substitute_PlayerID": 19,
+   "Position": "FW",
+   "Replaced_PlayerID": 113,
+   "Time": "113"
+ },
+ {
+   "GameID": "G56",
+   "TeamID": "G4",
+   "Substitute_PlayerID": 11,
+   "Position": "FW",
+   "Replaced_PlayerID": 88,
+   "Time": "88"
+ },
+ {
+   "GameID": "G56",
+   "TeamID": "G4",
+   "Substitute_PlayerID": 3,
+   "Position": "DF",
+   "Replaced_PlayerID": 102,
+   "Time": "102"
+ },
+ {
+   "GameID": "G56",
+   "TeamID": "G4",
+   "Substitute_PlayerID": 4,
+   "Position": "MF",
+   "Replaced_PlayerID": 81,
+   "Time": "81"
+ },
+ {
+   "GameID": "G57",
+   "TeamID": "A4",
+   "Substitute_PlayerID": 7,
+   "Position": "MF",
+   "Replaced_PlayerID": 11,
+   "Time": "59"
+ },
+ {
+   "GameID": "G57",
+   "TeamID": "A4",
+   "Substitute_PlayerID": 18,
+   "Position": "FW",
+   "Replaced_PlayerID": 6,
+   "Time": "59"
+ },
+ {
+   "GameID": "G57",
+   "TeamID": "A4",
+   "Substitute_PlayerID": 20,
+   "Position": "FW",
+   "Replaced_PlayerID": 8,
+   "Time": "73"
+ },
+ {
+   "GameID": "G57",
+   "TeamID": "C1",
+   "Substitute_PlayerID": 18,
+   "Position": "FW",
+   "Replaced_PlayerID": 7,
+   "Time": "90+3"
+ },
+ {
+   "GameID": "G57",
+   "TeamID": "C1",
+   "Substitute_PlayerID": 11,
+   "Position": "FW",
+   "Replaced_PlayerID": 10,
+   "Time": "88"
+ },
+ {
+   "GameID": "G57",
+   "TeamID": "C1",
+   "Substitute_PlayerID": 15,
+   "Position": "MF",
+   "Replaced_PlayerID": 12,
+   "Time": "80"
+ },
+ {
+   "GameID": "G58",
+   "TeamID": "E1",
+   "Substitute_PlayerID": 7,
+   "Position": "FW",
+   "Replaced_PlayerID": 9,
+   "Time": "58"
+ },
+ {
+   "GameID": "G58",
+   "TeamID": "E1",
+   "Substitute_PlayerID": 8,
+   "Position": "MF",
+   "Replaced_PlayerID": 15,
+   "Time": "73"
+ },
+ {
+   "GameID": "G58",
+   "TeamID": "E1",
+   "Substitute_PlayerID": 20,
+   "Position": "FW",
+   "Replaced_PlayerID": 19,
+   "Time": "46"
+ },
+ {
+   "GameID": "G58",
+   "TeamID": "G1",
+   "Substitute_PlayerID": 17,
+   "Position": "MF",
+   "Replaced_PlayerID": 9,
+   "Time": "87"
+ },
+ {
+   "GameID": "G58",
+   "TeamID": "G1",
+   "Substitute_PlayerID": 3,
+   "Position": "DF",
+   "Replaced_PlayerID": 22,
+   "Time": "83"
+ },
+ {
+   "GameID": "G59",
+   "TeamID": "A1",
+   "Substitute_PlayerID": 10,
+   "Position": "FW",
+   "Replaced_PlayerID": 6,
+   "Time": "67"
+ },
+ {
+   "GameID": "G59",
+   "TeamID": "A1",
+   "Substitute_PlayerID": 9,
+   "Position": "MF",
+   "Replaced_PlayerID": 17,
+   "Time": "102"
+ },
+ {
+   "GameID": "G59",
+   "TeamID": "A1",
+   "Substitute_PlayerID": 21,
+   "Position": "MF",
+   "Replaced_PlayerID": 19,
+   "Time": "54"
+ },
+ {
+   "GameID": "G59",
+   "TeamID": "A1",
+   "Substitute_PlayerID": 8,
+   "Position": "MF",
+   "Replaced_PlayerID": 22,
+   "Time": "79"
+ },
+ {
+   "GameID": "G59",
+   "TeamID": "D3",
+   "Substitute_PlayerID": 5,
+   "Position": "DF",
+   "Replaced_PlayerID": 2,
+   "Time": "97"
+ },
+ {
+   "GameID": "G59",
+   "TeamID": "D3",
+   "Substitute_PlayerID": 22,
+   "Position": "DF",
+   "Replaced_PlayerID": 3,
+   "Time": "74"
+ },
+ {
+   "GameID": "G59",
+   "TeamID": "D3",
+   "Substitute_PlayerID": 11,
+   "Position": "MF",
+   "Replaced_PlayerID": 4,
+   "Time": "63"
+ },
+ {
+   "GameID": "G59",
+   "TeamID": "D3",
+   "Substitute_PlayerID": 8,
+   "Position": "MF",
+   "Replaced_PlayerID": 9,
+   "Time": "88"
+ },
+ {
+   "GameID": "G60",
+   "TeamID": "F3",
+   "Substitute_PlayerID": 5,
+   "Position": "DF",
+   "Replaced_PlayerID": 20,
+   "Time": "65"
+ },
+ {
+   "GameID": "G60",
+   "TeamID": "F3",
+   "Substitute_PlayerID": 11,
+   "Position": "FW",
+   "Replaced_PlayerID": 10,
+   "Time": "65"
+ },
+ {
+   "GameID": "G60",
+   "TeamID": "F3",
+   "Substitute_PlayerID": 18,
+   "Position": "DF",
+   "Replaced_PlayerID": 16,
+   "Time": "85"
+ },
+ {
+   "GameID": "G60",
+   "TeamID": "G4",
+   "Substitute_PlayerID": 4,
+   "Position": "MF",
+   "Replaced_PlayerID": 8,
+   "Time": "85"
+ },
+ {
+   "GameID": "G60",
+   "TeamID": "G4",
+   "Substitute_PlayerID": 19,
+   "Position": "FW",
+   "Replaced_PlayerID": 10,
+   "Time": "90+1"
+ },
+ {
+   "GameID": "G60",
+   "TeamID": "G4",
+   "Substitute_PlayerID": 17,
+   "Position": "DF",
+   "Replaced_PlayerID": 20,
+   "Time": "77"
+ },
+ {
+   "GameID": "G61",
+   "TeamID": "C1",
+   "Substitute_PlayerID": 15,
+   "Position": "MF",
+   "Replaced_PlayerID": 9,
+   "Time": "85"
+ },
+ {
+   "GameID": "G61",
+   "TeamID": "C1",
+   "Substitute_PlayerID": 12,
+   "Position": "MF",
+   "Replaced_PlayerID": 14,
+   "Time": "86"
+ },
+ {
+   "GameID": "G61",
+   "TeamID": "G1",
+   "Substitute_PlayerID": 11,
+   "Position": "MF",
+   "Replaced_PlayerID": 8,
+   "Time": "80"
+ },
+ {
+   "GameID": "G61",
+   "TeamID": "G1",
+   "Substitute_PlayerID": 14,
+   "Position": "FW",
+   "Replaced_PlayerID": 19,
+   "Time": "60"
+ },
+ {
+   "GameID": "G61",
+   "TeamID": "G1",
+   "Substitute_PlayerID": 21,
+   "Position": "FW",
+   "Replaced_PlayerID": 22,
+   "Time": "90+1"
+ },
+ {
+   "GameID": "G62",
+   "TeamID": "D3",
+   "Substitute_PlayerID": 22,
+   "Position": "DF",
+   "Replaced_PlayerID": 3,
+   "Time": "95"
+ },
+ {
+   "GameID": "G62",
+   "TeamID": "D3",
+   "Substitute_PlayerID": 19,
+   "Position": "MF",
+   "Replaced_PlayerID": 10,
+   "Time": "119"
+ },
+ {
+   "GameID": "G62",
+   "TeamID": "D3",
+   "Substitute_PlayerID": 5,
+   "Position": "DF",
+   "Replaced_PlayerID": 17,
+   "Time": "115"
+ },
+ {
+   "GameID": "G62",
+   "TeamID": "D3",
+   "Substitute_PlayerID": 9,
+   "Position": "FW",
+   "Replaced_PlayerID": 18,
+   "Time": "101"
+ },
+ {
+   "GameID": "G62",
+   "TeamID": "G4",
+   "Substitute_PlayerID": 11,
+   "Position": "FW",
+   "Replaced_PlayerID": 2,
+   "Time": "112"
+ },
+ {
+   "GameID": "G62",
+   "TeamID": "G4",
+   "Substitute_PlayerID": 4,
+   "Position": "MF",
+   "Replaced_PlayerID": 8,
+   "Time": "97"
+ },
+ {
+   "GameID": "G62",
+   "TeamID": "G4",
+   "Substitute_PlayerID": 19,
+   "Position": "FW",
+   "Replaced_PlayerID": 10,
+   "Time": "74"
+ },
+ {
+   "GameID": "G62",
+   "TeamID": "G4",
+   "Substitute_PlayerID": 3,
+   "Position": "DF",
+   "Replaced_PlayerID": 18,
+   "Time": "91"
+ },
+ {
+   "GameID": "G63",
+   "TeamID": "G1",
+   "Substitute_PlayerID": 14,
+   "Position": "FW",
+   "Replaced_PlayerID": 9,
+   "Time": "60"
+ },
+ {
+   "GameID": "G63",
+   "TeamID": "G1",
+   "Substitute_PlayerID": 19,
+   "Position": "MF",
+   "Replaced_PlayerID": 17,
+   "Time": "78"
+ },
+ {
+   "GameID": "G63",
+   "TeamID": "G1",
+   "Substitute_PlayerID": 3,
+   "Position": "DF",
+   "Replaced_PlayerID": 22,
+   "Time": "39"
+ },
+ {
+   "GameID": "G63",
+   "TeamID": "G4",
+   "Substitute_PlayerID": 7,
+   "Position": "MF",
+   "Replaced_PlayerID": 3,
+   "Time": "46"
+ },
+ {
+   "GameID": "G63",
+   "TeamID": "G4",
+   "Substitute_PlayerID": 19,
+   "Position": "FW",
+   "Replaced_PlayerID": 10,
+   "Time": "46"
+ },
+ {
+   "GameID": "G63",
+   "TeamID": "G4",
+   "Substitute_PlayerID": 20,
+   "Position": "MF",
+   "Replaced_PlayerID": 21,
+   "Time": "84"
+ },
+ {
+   "GameID": "G64",
+   "TeamID": "C1",
+   "Substitute_PlayerID": 18,
+   "Position": "FW",
+   "Replaced_PlayerID": 9,
+   "Time": "81"
+ },
+ {
+   "GameID": "G64",
+   "TeamID": "C1",
+   "Substitute_PlayerID": 15,
+   "Position": "MF",
+   "Replaced_PlayerID": 13,
+   "Time": "55"
+ },
+ {
+   "GameID": "G64",
+   "TeamID": "C1",
+   "Substitute_PlayerID": 12,
+   "Position": "MF",
+   "Replaced_PlayerID": 14,
+   "Time": "73"
+ },
+ {
+   "GameID": "G64",
+   "TeamID": "D3",
+   "Substitute_PlayerID": 20,
+   "Position": "FW",
+   "Replaced_PlayerID": 3,
+   "Time": "81"
+ },
+ {
+   "GameID": "G64",
+   "TeamID": "D3",
+   "Substitute_PlayerID": 9,
+   "Position": "FW",
+   "Replaced_PlayerID": 18,
+   "Time": "71"
+ }
+]

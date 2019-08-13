@@ -1,0 +1,642 @@
+[
+ {
+   "GameID": "G1",
+   "Groups": "A",
+   "MatchDate": "2018-06-14",
+   "SID": "S1",
+   "TeamID1": "A1",
+   "TeamID2": "A2",
+   "Team1_Score": 5,
+   "Team2_Score": 0
+ },
+ {
+   "GameID": "G2",
+   "Groups": "A",
+   "MatchDate": "2018-06-15",
+   "SID": "S4",
+   "TeamID1": "A3",
+   "TeamID2": "A4",
+   "Team1_Score": 0,
+   "Team2_Score": 1
+ },
+ {
+   "GameID": "G3",
+   "Groups": "B",
+   "MatchDate": "2018-06-15",
+   "SID": "S2",
+   "TeamID1": "B3",
+   "TeamID2": "B4",
+   "Team1_Score": 0,
+   "Team2_Score": 1
+ },
+ {
+   "GameID": "G4",
+   "Groups": "B",
+   "MatchDate": "2018-06-15",
+   "SID": "S3",
+   "TeamID1": "B1",
+   "TeamID2": "B2",
+   "Team1_Score": 3,
+   "Team2_Score": 3
+ },
+ {
+   "GameID": "G5",
+   "Groups": "C",
+   "MatchDate": "2018-06-16",
+   "SID": "S5",
+   "TeamID1": "C1",
+   "TeamID2": "C2",
+   "Team1_Score": 2,
+   "Team2_Score": 1
+ },
+ {
+   "GameID": "G6",
+   "Groups": "D",
+   "MatchDate": "2018-06-16",
+   "SID": "S11",
+   "TeamID1": "D1",
+   "TeamID2": "D2",
+   "Team1_Score": 1,
+   "Team2_Score": 1
+ },
+ {
+   "GameID": "G7",
+   "Groups": "C",
+   "MatchDate": "2018-06-16",
+   "SID": "S9",
+   "TeamID1": "C3",
+   "TeamID2": "C4",
+   "Team1_Score": 0,
+   "Team2_Score": 1
+ },
+ {
+   "GameID": "G8",
+   "Groups": "D",
+   "MatchDate": "2018-06-16",
+   "SID": "S12",
+   "TeamID1": "D3",
+   "TeamID2": "D4",
+   "Team1_Score": 2,
+   "Team2_Score": 0
+ },
+ {
+   "GameID": "G9",
+   "Groups": "E",
+   "MatchDate": "2018-06-17",
+   "SID": "S8",
+   "TeamID1": "E3",
+   "TeamID2": "E4",
+   "Team1_Score": 0,
+   "Team2_Score": 1
+ },
+ {
+   "GameID": "G10",
+   "Groups": "F",
+   "MatchDate": "2018-06-17",
+   "SID": "S1",
+   "TeamID1": "F1",
+   "TeamID2": "F2",
+   "Team1_Score": 0,
+   "Team2_Score": 1
+ },
+ {
+   "GameID": "G11",
+   "Groups": "E",
+   "MatchDate": "2018-06-17",
+   "SID": "S7",
+   "TeamID1": "E1",
+   "TeamID2": "E2",
+   "Team1_Score": 1,
+   "Team2_Score": 1
+ },
+ {
+   "GameID": "G12",
+   "Groups": "F",
+   "MatchDate": "2018-06-18",
+   "SID": "S6",
+   "TeamID1": "F3",
+   "TeamID2": "F4",
+   "Team1_Score": 1,
+   "Team2_Score": 0
+ },
+ {
+   "GameID": "G13",
+   "Groups": "G",
+   "MatchDate": "2018-06-18",
+   "SID": "S3",
+   "TeamID1": "G1",
+   "TeamID2": "G2",
+   "Team1_Score": 3,
+   "Team2_Score": 0
+ },
+ {
+   "GameID": "G14",
+   "Groups": "G",
+   "MatchDate": "2018-06-18",
+   "SID": "S10",
+   "TeamID1": "G3",
+   "TeamID2": "G4",
+   "Team1_Score": 1,
+   "Team2_Score": 2
+ },
+ {
+   "GameID": "G15",
+   "Groups": "H",
+   "MatchDate": "2018-06-19",
+   "SID": "S9",
+   "TeamID1": "H3",
+   "TeamID2": "H4",
+   "Team1_Score": 1,
+   "Team2_Score": 2
+ },
+ {
+   "GameID": "G16",
+   "Groups": "H",
+   "MatchDate": "2018-06-19",
+   "SID": "S11",
+   "TeamID1": "H1",
+   "TeamID2": "H2",
+   "Team1_Score": 1,
+   "Team2_Score": 2
+ },
+ {
+   "GameID": "G17",
+   "Groups": "A",
+   "MatchDate": "2018-06-19",
+   "SID": "S2",
+   "TeamID1": "A1",
+   "TeamID2": "A3",
+   "Team1_Score": 3,
+   "Team2_Score": 1
+ },
+ {
+   "GameID": "G18",
+   "Groups": "B",
+   "MatchDate": "2018-06-20",
+   "SID": "S1",
+   "TeamID1": "B1",
+   "TeamID2": "B3",
+   "Team1_Score": 1,
+   "Team2_Score": 0
+ },
+ {
+   "GameID": "G19",
+   "Groups": "A",
+   "MatchDate": "2018-06-20",
+   "SID": "S7",
+   "TeamID1": "A4",
+   "TeamID2": "A2",
+   "Team1_Score": 1,
+   "Team2_Score": 0
+ },
+ {
+   "GameID": "G20",
+   "Groups": "B",
+   "MatchDate": "2018-06-20",
+   "SID": "S5",
+   "TeamID1": "B4",
+   "TeamID2": "B2",
+   "Team1_Score": 0,
+   "Team2_Score": 1
+ },
+ {
+   "GameID": "G21",
+   "Groups": "C",
+   "MatchDate": "2018-06-21",
+   "SID": "S8",
+   "TeamID1": "C4",
+   "TeamID2": "C2",
+   "Team1_Score": 1,
+   "Team2_Score": 1
+ },
+ {
+   "GameID": "G22",
+   "Groups": "C",
+   "MatchDate": "2018-06-21",
+   "SID": "S4",
+   "TeamID1": "C1",
+   "TeamID2": "C3",
+   "Team1_Score": 1,
+   "Team2_Score": 0
+ },
+ {
+   "GameID": "G23",
+   "Groups": "D",
+   "MatchDate": "2018-06-21",
+   "SID": "S6",
+   "TeamID1": "D1",
+   "TeamID2": "D3",
+   "Team1_Score": 0,
+   "Team2_Score": 3
+ },
+ {
+   "GameID": "G24",
+   "Groups": "E",
+   "MatchDate": "2018-06-22",
+   "SID": "S2",
+   "TeamID1": "E1",
+   "TeamID2": "E3",
+   "Team1_Score": 2,
+   "Team2_Score": 0
+ },
+ {
+   "GameID": "G25",
+   "Groups": "D",
+   "MatchDate": "2018-06-22",
+   "SID": "S10",
+   "TeamID1": "D4",
+   "TeamID2": "D2",
+   "Team1_Score": 2,
+   "Team2_Score": 0
+ },
+ {
+   "GameID": "G26",
+   "Groups": "E",
+   "MatchDate": "2018-06-22",
+   "SID": "S12",
+   "TeamID1": "E4",
+   "TeamID2": "E2",
+   "Team1_Score": 1,
+   "Team2_Score": 2
+ },
+ {
+   "GameID": "G27",
+   "Groups": "G",
+   "MatchDate": "2018-06-23",
+   "SID": "S11",
+   "TeamID1": "G1",
+   "TeamID2": "G3",
+   "Team1_Score": 5,
+   "Team2_Score": 2
+ },
+ {
+   "GameID": "G28",
+   "Groups": "F",
+   "MatchDate": "2018-06-23",
+   "SID": "S7",
+   "TeamID1": "F4",
+   "TeamID2": "F2",
+   "Team1_Score": 1,
+   "Team2_Score": 2
+ },
+ {
+   "GameID": "G29",
+   "Groups": "F",
+   "MatchDate": "2018-06-23",
+   "SID": "S3",
+   "TeamID1": "F1",
+   "TeamID2": "F3",
+   "Team1_Score": 2,
+   "Team2_Score": 1
+ },
+ {
+   "GameID": "G30",
+   "Groups": "G",
+   "MatchDate": "2018-06-24",
+   "SID": "S6",
+   "TeamID1": "G4",
+   "TeamID2": "G2",
+   "Team1_Score": 6,
+   "Team2_Score": 1
+ },
+ {
+   "GameID": "G31",
+   "Groups": "H",
+   "MatchDate": "2018-06-24",
+   "SID": "S4",
+   "TeamID1": "H4",
+   "TeamID2": "H2",
+   "Team1_Score": 2,
+   "Team2_Score": 2
+ },
+ {
+   "GameID": "G32",
+   "Groups": "H",
+   "MatchDate": "2018-06-24",
+   "SID": "S5",
+   "TeamID1": "H1",
+   "TeamID2": "H3",
+   "Team1_Score": 0,
+   "Team2_Score": 3
+ },
+ {
+   "GameID": "G33",
+   "Groups": "A",
+   "MatchDate": "2018-06-25",
+   "SID": "S8",
+   "TeamID1": "A4",
+   "TeamID2": "A1",
+   "Team1_Score": 3,
+   "Team2_Score": 0
+ },
+ {
+   "GameID": "G34",
+   "Groups": "A",
+   "MatchDate": "2018-06-25",
+   "SID": "S10",
+   "TeamID1": "A2",
+   "TeamID2": "A3",
+   "Team1_Score": 2,
+   "Team2_Score": 1
+ },
+ {
+   "GameID": "G35",
+   "Groups": "B",
+   "MatchDate": "2018-06-25",
+   "SID": "S12",
+   "TeamID1": "B2",
+   "TeamID2": "B3",
+   "Team1_Score": 2,
+   "Team2_Score": 2
+ },
+ {
+   "GameID": "G36",
+   "Groups": "B",
+   "MatchDate": "2018-06-25",
+   "SID": "S9",
+   "TeamID1": "B4",
+   "TeamID2": "B1",
+   "Team1_Score": 1,
+   "Team2_Score": 1
+ },
+ {
+   "GameID": "G37",
+   "Groups": "C",
+   "MatchDate": "2018-06-26",
+   "SID": "S3",
+   "TeamID1": "C2",
+   "TeamID2": "C3",
+   "Team1_Score": 0,
+   "Team2_Score": 2
+ },
+ {
+   "GameID": "G38",
+   "Groups": "C",
+   "MatchDate": "2018-06-26",
+   "SID": "S1",
+   "TeamID1": "C4",
+   "TeamID2": "C1",
+   "Team1_Score": 1,
+   "Team2_Score": 2
+ },
+ {
+   "GameID": "G39",
+   "Groups": "D",
+   "MatchDate": "2018-06-26",
+   "SID": "S2",
+   "TeamID1": "D4",
+   "TeamID2": "D1",
+   "Team1_Score": 1,
+   "Team2_Score": 2
+ },
+ {
+   "GameID": "G40",
+   "Groups": "D",
+   "MatchDate": "2018-06-26",
+   "SID": "S7",
+   "TeamID1": "D2",
+   "TeamID2": "D3",
+   "Team1_Score": 1,
+   "Team2_Score": 2
+ },
+ {
+   "GameID": "G41",
+   "Groups": "F",
+   "MatchDate": "2018-06-27",
+   "SID": "S5",
+   "TeamID1": "F4",
+   "TeamID2": "F1",
+   "Team1_Score": 2,
+   "Team2_Score": 0
+ },
+ {
+   "GameID": "G42",
+   "Groups": "F",
+   "MatchDate": "2018-06-27",
+   "SID": "S4",
+   "TeamID1": "F2",
+   "TeamID2": "F3",
+   "Team1_Score": 0,
+   "Team2_Score": 3
+ },
+ {
+   "GameID": "G43",
+   "Groups": "E",
+   "MatchDate": "2018-06-27",
+   "SID": "S11",
+   "TeamID1": "E4",
+   "TeamID2": "E1",
+   "Team1_Score": 0,
+   "Team2_Score": 2
+ },
+ {
+   "GameID": "G44",
+   "Groups": "E",
+   "MatchDate": "2018-06-27",
+   "SID": "S6",
+   "TeamID1": "E2",
+   "TeamID2": "E3",
+   "Team1_Score": 2,
+   "Team2_Score": 2
+ },
+ {
+   "GameID": "G45",
+   "Groups": "H",
+   "MatchDate": "2018-06-28",
+   "SID": "S10",
+   "TeamID1": "H4",
+   "TeamID2": "H1",
+   "Team1_Score": 1,
+   "Team2_Score": 1
+ },
+ {
+   "GameID": "G46",
+   "Groups": "H",
+   "MatchDate": "2018-06-28",
+   "SID": "S8",
+   "TeamID1": "H2",
+   "TeamID2": "H3",
+   "Team1_Score": 1,
+   "Team2_Score": 0
+ },
+ {
+   "GameID": "G47",
+   "Groups": "G",
+   "MatchDate": "2018-06-28",
+   "SID": "S9",
+   "TeamID1": "G2",
+   "TeamID2": "G3",
+   "Team1_Score": 0,
+   "Team2_Score": 3
+ },
+ {
+   "GameID": "G48",
+   "Groups": "G",
+   "MatchDate": "2018-06-28",
+   "SID": "S12",
+   "TeamID1": "G4",
+   "TeamID2": "G1",
+   "Team1_Score": 2,
+   "Team2_Score": 0
+ },
+ {
+   "GameID": "G50",
+   "Groups": "X",
+   "MatchDate": "2018-06-30",
+   "SID": "S5",
+   "TeamID1": "C1",
+   "TeamID2": "D1",
+   "Team1_Score": 4,
+   "Team2_Score": 3
+ },
+ {
+   "GameID": "G49",
+   "Groups": "X",
+   "MatchDate": "2018-06-30",
+   "SID": "S3",
+   "TeamID1": "A4",
+   "TeamID2": "B1",
+   "Team1_Score": 2,
+   "Team2_Score": 1
+ },
+ {
+   "GameID": "G51",
+   "Groups": "X",
+   "MatchDate": "2018-07-01",
+   "SID": "S1",
+   "TeamID1": "B2",
+   "TeamID2": "A1",
+   "Team1_Score": 1,
+   "Team2_Score": 1
+ },
+ {
+   "GameID": "G52",
+   "Groups": "X",
+   "MatchDate": "2018-07-01",
+   "SID": "S6",
+   "TeamID1": "D3",
+   "TeamID2": "C4",
+   "Team1_Score": 1,
+   "Team2_Score": 1
+ },
+ {
+   "GameID": "G53",
+   "Groups": "X",
+   "MatchDate": "2018-07-02",
+   "SID": "S8",
+   "TeamID1": "E1",
+   "TeamID2": "F2",
+   "Team1_Score": 2,
+   "Team2_Score": 0
+ },
+ {
+   "GameID": "G54",
+   "Groups": "X",
+   "MatchDate": "2018-07-02",
+   "SID": "S7",
+   "TeamID1": "G1",
+   "TeamID2": "H4",
+   "Team1_Score": 3,
+   "Team2_Score": 2
+ },
+ {
+   "GameID": "G55",
+   "Groups": "X",
+   "MatchDate": "2018-07-03",
+   "SID": "S2",
+   "TeamID1": "F3",
+   "TeamID2": "E2",
+   "Team1_Score": 1,
+   "Team2_Score": 0
+ },
+ {
+   "GameID": "G56",
+   "Groups": "X",
+   "MatchDate": "2018-07-03",
+   "SID": "S11",
+   "TeamID1": "H3",
+   "TeamID2": "G4",
+   "Team1_Score": 1,
+   "Team2_Score": 1
+ },
+ {
+   "GameID": "G57",
+   "Groups": "Q",
+   "MatchDate": "2018-07-06",
+   "SID": "S6",
+   "TeamID1": "A4",
+   "TeamID2": "C1",
+   "Team1_Score": 0,
+   "Team2_Score": 2
+ },
+ {
+   "GameID": "G58",
+   "Groups": "Q",
+   "MatchDate": "2018-07-06",
+   "SID": "S5",
+   "TeamID1": "E1",
+   "TeamID2": "G1",
+   "Team1_Score": 1,
+   "Team2_Score": 2
+ },
+ {
+   "GameID": "G59",
+   "Groups": "Q",
+   "MatchDate": "2018-07-07",
+   "SID": "S3",
+   "TeamID1": "A1",
+   "TeamID2": "D3",
+   "Team1_Score": 2,
+   "Team2_Score": 2
+ },
+ {
+   "GameID": "G60",
+   "Groups": "Q",
+   "MatchDate": "2018-07-07",
+   "SID": "S8",
+   "TeamID1": "F3",
+   "TeamID2": "G4",
+   "Team1_Score": 0,
+   "Team2_Score": 2
+ },
+ {
+   "GameID": "G61",
+   "Groups": "S",
+   "MatchDate": "2018-07-10",
+   "SID": "S2",
+   "TeamID1": "C1",
+   "TeamID2": "G1",
+   "Team1_Score": 1,
+   "Team2_Score": 0
+ },
+ {
+   "GameID": "G62",
+   "Groups": "S",
+   "MatchDate": "2018-07-11",
+   "SID": "S1",
+   "TeamID1": "D3",
+   "TeamID2": "G4",
+   "Team1_Score": 2,
+   "Team2_Score": 1
+ },
+ {
+   "GameID": "G63",
+   "Groups": "P",
+   "MatchDate": "2018-07-14",
+   "SID": "S2",
+   "TeamID1": "G1",
+   "TeamID2": "G4",
+   "Team1_Score": 2,
+   "Team2_Score": 0
+ },
+ {
+   "GameID": "G64",
+   "Groups": "L",
+   "MatchDate": "2018-07-15",
+   "SID": "S1",
+   "TeamID1": "C1",
+   "TeamID2": "D3",
+   "Team1_Score": 4,
+   "Team2_Score": 2
+ }
+]

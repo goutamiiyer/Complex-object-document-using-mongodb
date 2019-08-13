@@ -1,0 +1,74 @@
+[
+ {
+   "SID": "S1",
+   "SName": "Luzhniki Stadium",
+   "SCity": "Moscow",
+   "SCapacity": 80000
+ },
+ {
+   "SID": "S2",
+   "SName": "Saint Petersburg Stadium",
+   "SCity": "Saint Petersburg",
+   "SCapacity": 67000
+ },
+ {
+   "SID": "S3",
+   "SName": "Fisht Stadium",
+   "SCity": "Sochi",
+   "SCapacity": 48000
+ },
+ {
+   "SID": "S4",
+   "SName": "Ekaterinburg Arena",
+   "SCity": "Ekaterinburg",
+   "SCapacity": 45000
+ },
+ {
+   "SID": "S5",
+   "SName": "Kazan Arena",
+   "SCity": "Kazan",
+   "SCapacity": 45000
+ },
+ {
+   "SID": "S6",
+   "SName": "Nizhny Novgorod Stadium",
+   "SCity": "Nizhny Novgorod",
+   "SCapacity": 45000
+ },
+ {
+   "SID": "S7",
+   "SName": "Rostov Arena",
+   "SCity": "Rostov-on-Don",
+   "SCapacity": 45000
+ },
+ {
+   "SID": "S8",
+   "SName": "Samara Arena",
+   "SCity": "Samara",
+   "SCapacity": 45000
+ },
+ {
+   "SID": "S9",
+   "SName": "Mordovia Arena",
+   "SCity": "Saransk",
+   "SCapacity": 45000
+ },
+ {
+   "SID": "S10",
+   "SName": "Volgograd Stadium",
+   "SCity": "Volgograd",
+   "SCapacity": 45000
+ },
+ {
+   "SID": "S11",
+   "SName": "Spartak Stadium",
+   "SCity": "Moscow",
+   "SCapacity": 42000
+ },
+ {
+   "SID": "S12",
+   "SName": "Kaliningrad Stadium",
+   "SCity": "Kaliningrad",
+   "SCapacity": 35000
+ }
+]

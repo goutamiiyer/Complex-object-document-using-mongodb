@@ -1,0 +1,1101 @@
+[
+ {
+   "GameID": "G1",
+   "TeamID": "A1",
+   "PlayerID": 8,
+   "Time": "12",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G1",
+   "TeamID": "A1",
+   "PlayerID": 6,
+   "Time": "43",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G1",
+   "TeamID": "A1",
+   "PlayerID": 22,
+   "Time": "71",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G1",
+   "TeamID": "A1",
+   "PlayerID": 6,
+   "Time": "90+1",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G1",
+   "TeamID": "A1",
+   "PlayerID": 17,
+   "Time": "90+4",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G2",
+   "TeamID": "A4",
+   "PlayerID": 2,
+   "Time": "89",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G4",
+   "TeamID": "B1",
+   "PlayerID": 7,
+   "Time": "4",
+   "Penalty": "Y"
+ },
+ {
+   "GameID": "G4",
+   "TeamID": "B1",
+   "PlayerID": 7,
+   "Time": "44",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G4",
+   "TeamID": "B1",
+   "PlayerID": 7,
+   "Time": "88",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G4",
+   "TeamID": "B2",
+   "PlayerID": 19,
+   "Time": "24",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G4",
+   "TeamID": "B2",
+   "PlayerID": 19,
+   "Time": "55",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G4",
+   "TeamID": "B2",
+   "PlayerID": 4,
+   "Time": "58",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G5",
+   "TeamID": "C1",
+   "PlayerID": 7,
+   "Time": "58",
+   "Penalty": "Y"
+ },
+ {
+   "GameID": "G5",
+   "TeamID": "C2",
+   "PlayerID": 15,
+   "Time": "62",
+   "Penalty": "Y"
+ },
+ {
+   "GameID": "G6",
+   "TeamID": "D1",
+   "PlayerID": 19,
+   "Time": "19",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G6",
+   "TeamID": "D2",
+   "PlayerID": 11,
+   "Time": "23",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G7",
+   "TeamID": "C4",
+   "PlayerID": 20,
+   "Time": "59",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G8",
+   "TeamID": "D3",
+   "PlayerID": 10,
+   "Time": "71",
+   "Penalty": "Y"
+ },
+ {
+   "GameID": "G9",
+   "TeamID": "E4",
+   "PlayerID": 11,
+   "Time": "56",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G10",
+   "TeamID": "F2",
+   "PlayerID": 22,
+   "Time": "35",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G11",
+   "TeamID": "E1",
+   "PlayerID": 11,
+   "Time": "20",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G11",
+   "TeamID": "E2",
+   "PlayerID": 14,
+   "Time": "50",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G12",
+   "TeamID": "F3",
+   "PlayerID": 4,
+   "Time": "65",
+   "Penalty": "Y"
+ },
+ {
+   "GameID": "G13",
+   "TeamID": "G1",
+   "PlayerID": 14,
+   "Time": "47",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G13",
+   "TeamID": "G1",
+   "PlayerID": 9,
+   "Time": "69",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G13",
+   "TeamID": "G1",
+   "PlayerID": 9,
+   "Time": "75",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G14",
+   "TeamID": "G3",
+   "PlayerID": 13,
+   "Time": "35",
+   "Penalty": "Y"
+ },
+ {
+   "GameID": "G14",
+   "TeamID": "G4",
+   "PlayerID": 9,
+   "Time": "11",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G14",
+   "TeamID": "G4",
+   "PlayerID": 9,
+   "Time": "90+1",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G15",
+   "TeamID": "H3",
+   "PlayerID": 20,
+   "Time": "39",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G15",
+   "TeamID": "H4",
+   "PlayerID": 10,
+   "Time": "6",
+   "Penalty": "Y"
+ },
+ {
+   "GameID": "G15",
+   "TeamID": "H4",
+   "PlayerID": 15,
+   "Time": "73",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G16",
+   "TeamID": "H1",
+   "PlayerID": 10,
+   "Time": "86",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G16",
+   "TeamID": "H2",
+   "PlayerID": 19,
+   "Time": "60",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G17",
+   "TeamID": "A1",
+   "PlayerID": 6,
+   "Time": "59",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G17",
+   "TeamID": "A1",
+   "PlayerID": 22,
+   "Time": "62",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G17",
+   "TeamID": "A3",
+   "PlayerID": 10,
+   "Time": "73",
+   "Penalty": "Y"
+ },
+ {
+   "GameID": "G18",
+   "TeamID": "B1",
+   "PlayerID": 7,
+   "Time": "4",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G19",
+   "TeamID": "A4",
+   "PlayerID": 9,
+   "Time": "23",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G20",
+   "TeamID": "B2",
+   "PlayerID": 19,
+   "Time": "54",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G21",
+   "TeamID": "C4",
+   "PlayerID": 10,
+   "Time": "7",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G21",
+   "TeamID": "C2",
+   "PlayerID": 15,
+   "Time": "38",
+   "Penalty": "Y"
+ },
+ {
+   "GameID": "G22",
+   "TeamID": "C1",
+   "PlayerID": 10,
+   "Time": "34",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G23",
+   "TeamID": "D3",
+   "PlayerID": 7,
+   "Time": "90+1",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G23",
+   "TeamID": "D3",
+   "PlayerID": 10,
+   "Time": "80",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G23",
+   "TeamID": "D3",
+   "PlayerID": 18,
+   "Time": "53",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G24",
+   "TeamID": "E1",
+   "PlayerID": 10,
+   "Time": "90+1",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G24",
+   "TeamID": "E1",
+   "PlayerID": 11,
+   "Time": "90+7",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G25",
+   "TeamID": "D4",
+   "PlayerID": 7,
+   "Time": "49",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G25",
+   "TeamID": "D4",
+   "PlayerID": 7,
+   "Time": "75",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G26",
+   "TeamID": "E4",
+   "PlayerID": 9,
+   "Time": "5",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G26",
+   "TeamID": "E2",
+   "PlayerID": 10,
+   "Time": "52",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G26",
+   "TeamID": "E2",
+   "PlayerID": 23,
+   "Time": "90",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G27",
+   "TeamID": "G1",
+   "PlayerID": 9,
+   "Time": "16",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G27",
+   "TeamID": "G1",
+   "PlayerID": 9,
+   "Time": "45+3",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G27",
+   "TeamID": "G1",
+   "PlayerID": 10,
+   "Time": "6",
+   "Penalty": "Y"
+ },
+ {
+   "GameID": "G27",
+   "TeamID": "G1",
+   "PlayerID": 10,
+   "Time": "51",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G27",
+   "TeamID": "G1",
+   "PlayerID": 21,
+   "Time": "90",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G27",
+   "TeamID": "G3",
+   "PlayerID": 10,
+   "Time": "90+3",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G27",
+   "TeamID": "G3",
+   "PlayerID": 11,
+   "Time": "18",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G28",
+   "TeamID": "F4",
+   "PlayerID": 7,
+   "Time": "90+3",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G28",
+   "TeamID": "F2",
+   "PlayerID": 11,
+   "Time": "26",
+   "Penalty": "Y"
+ },
+ {
+   "GameID": "G28",
+   "TeamID": "F2",
+   "PlayerID": 14,
+   "Time": "66",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G29",
+   "TeamID": "F1",
+   "PlayerID": 8,
+   "Time": "90+5",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G29",
+   "TeamID": "F1",
+   "PlayerID": 11,
+   "Time": "48",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G29",
+   "TeamID": "F3",
+   "PlayerID": 20,
+   "Time": "32",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G30",
+   "TeamID": "G4",
+   "PlayerID": 5,
+   "Time": "8",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G30",
+   "TeamID": "G4",
+   "PlayerID": 5,
+   "Time": "40",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G30",
+   "TeamID": "G4",
+   "PlayerID": 7,
+   "Time": "36",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G30",
+   "TeamID": "G4",
+   "PlayerID": 9,
+   "Time": "22",
+   "Penalty": "Y"
+ },
+ {
+   "GameID": "G30",
+   "TeamID": "G4",
+   "PlayerID": 9,
+   "Time": "62",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G30",
+   "TeamID": "G4",
+   "PlayerID": 9,
+   "Time": "45+1",
+   "Penalty": "Y"
+ },
+ {
+   "GameID": "G30",
+   "TeamID": "G2",
+   "PlayerID": 23,
+   "Time": "78",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G31",
+   "TeamID": "H4",
+   "PlayerID": 14,
+   "Time": "34",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G31",
+   "TeamID": "H4",
+   "PlayerID": 4,
+   "Time": "78",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G31",
+   "TeamID": "H2",
+   "PlayerID": 10,
+   "Time": "11",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G31",
+   "TeamID": "H2",
+   "PlayerID": 22,
+   "Time": "71",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G32",
+   "TeamID": "H3",
+   "PlayerID": 9,
+   "Time": "70",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G32",
+   "TeamID": "H3",
+   "PlayerID": 11,
+   "Time": "75",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G32",
+   "TeamID": "H3",
+   "PlayerID": 13,
+   "Time": "40",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G33",
+   "TeamID": "A4",
+   "PlayerID": 9,
+   "Time": "10",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G33",
+   "TeamID": "A4",
+   "PlayerID": 21,
+   "Time": "90",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G34",
+   "TeamID": "A2",
+   "PlayerID": 7,
+   "Time": "45+6",
+   "Penalty": "Y"
+ },
+ {
+   "GameID": "G34",
+   "TeamID": "A2",
+   "PlayerID": 18,
+   "Time": "90+5",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G34",
+   "TeamID": "A3",
+   "PlayerID": 10,
+   "Time": "23",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G35",
+   "TeamID": "B2",
+   "PlayerID": 22,
+   "Time": "19",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G35",
+   "TeamID": "B2",
+   "PlayerID": 17,
+   "Time": "90+1",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G35",
+   "TeamID": "B3",
+   "PlayerID": 13,
+   "Time": "14",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G35",
+   "TeamID": "B3",
+   "PlayerID": 19,
+   "Time": "81",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G36",
+   "TeamID": "B4",
+   "PlayerID": 10,
+   "Time": "90+3",
+   "Penalty": "Y"
+ },
+ {
+   "GameID": "G36",
+   "TeamID": "B1",
+   "PlayerID": 20,
+   "Time": "45",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G37",
+   "TeamID": "C3",
+   "PlayerID": 9,
+   "Time": "50",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G37",
+   "TeamID": "C3",
+   "PlayerID": 18,
+   "Time": "18",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G39",
+   "TeamID": "D4",
+   "PlayerID": 11,
+   "Time": "51",
+   "Penalty": "Y"
+ },
+ {
+   "GameID": "G39",
+   "TeamID": "D1",
+   "PlayerID": 10,
+   "Time": "14",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G39",
+   "TeamID": "D1",
+   "PlayerID": 16,
+   "Time": "86",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G40",
+   "TeamID": "D2",
+   "PlayerID": 10,
+   "Time": "76",
+   "Penalty": "Y"
+ },
+ {
+   "GameID": "G40",
+   "TeamID": "D3",
+   "PlayerID": 4,
+   "Time": "90",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G40",
+   "TeamID": "D3",
+   "PlayerID": 19,
+   "Time": "53",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G41",
+   "TeamID": "F4",
+   "PlayerID": 7,
+   "Time": "90+6",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G41",
+   "TeamID": "F4",
+   "PlayerID": 19,
+   "Time": "90+3",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G42",
+   "TeamID": "F3",
+   "PlayerID": 4,
+   "Time": "62",
+   "Penalty": "Y"
+ },
+ {
+   "GameID": "G42",
+   "TeamID": "F3",
+   "PlayerID": 6,
+   "Time": "50",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G43",
+   "TeamID": "E1",
+   "PlayerID": 2,
+   "Time": "68",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G43",
+   "TeamID": "E1",
+   "PlayerID": 15,
+   "Time": "36",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G44",
+   "TeamID": "E2",
+   "PlayerID": 15,
+   "Time": "31",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G44",
+   "TeamID": "E2",
+   "PlayerID": 19,
+   "Time": "88",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G44",
+   "TeamID": "E3",
+   "PlayerID": 19,
+   "Time": "56",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G45",
+   "TeamID": "H1",
+   "PlayerID": 5,
+   "Time": "59",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G46",
+   "TeamID": "H3",
+   "PlayerID": 13,
+   "Time": "74",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G47",
+   "TeamID": "G3",
+   "PlayerID": 8,
+   "Time": "51",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G47",
+   "TeamID": "G3",
+   "PlayerID": 10,
+   "Time": "66",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G48",
+   "TeamID": "G1",
+   "PlayerID": 18,
+   "Time": "51",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G49",
+   "TeamID": "A4",
+   "PlayerID": 21,
+   "Time": "7",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G49",
+   "TeamID": "A4",
+   "PlayerID": 21,
+   "Time": "62",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G49",
+   "TeamID": "B1",
+   "PlayerID": 3,
+   "Time": "55",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G50",
+   "TeamID": "C1",
+   "PlayerID": 2,
+   "Time": "57",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G50",
+   "TeamID": "C1",
+   "PlayerID": 7,
+   "Time": "13",
+   "Penalty": "Y"
+ },
+ {
+   "GameID": "G50",
+   "TeamID": "C1",
+   "PlayerID": 10,
+   "Time": "64",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G50",
+   "TeamID": "C1",
+   "PlayerID": 10,
+   "Time": "68",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G50",
+   "TeamID": "D1",
+   "PlayerID": 2,
+   "Time": "48",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G50",
+   "TeamID": "D1",
+   "PlayerID": 11,
+   "Time": "41",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G50",
+   "TeamID": "D1",
+   "PlayerID": 19,
+   "Time": "90+3",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G51",
+   "TeamID": "A1",
+   "PlayerID": 22,
+   "Time": "41",
+   "Penalty": "Y"
+ },
+ {
+   "GameID": "G52",
+   "TeamID": "D3",
+   "PlayerID": 17,
+   "Time": "4",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G52",
+   "TeamID": "C4",
+   "PlayerID": 13,
+   "Time": "1",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G53",
+   "TeamID": "E1",
+   "PlayerID": 10,
+   "Time": "51",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G53",
+   "TeamID": "E1",
+   "PlayerID": 20,
+   "Time": "88",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G54",
+   "TeamID": "G1",
+   "PlayerID": 5,
+   "Time": "69",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G54",
+   "TeamID": "G1",
+   "PlayerID": 8,
+   "Time": "74",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G54",
+   "TeamID": "G1",
+   "PlayerID": 22,
+   "Time": "90+4",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G54",
+   "TeamID": "H4",
+   "PlayerID": 8,
+   "Time": "48",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G54",
+   "TeamID": "H4",
+   "PlayerID": 14,
+   "Time": "52",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G55",
+   "TeamID": "F3",
+   "PlayerID": 10,
+   "Time": "66",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G56",
+   "TeamID": "H3",
+   "PlayerID": 13,
+   "Time": "90+3",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G56",
+   "TeamID": "G4",
+   "PlayerID": 9,
+   "Time": "57",
+   "Penalty": "Y"
+ },
+ {
+   "GameID": "G57",
+   "TeamID": "C1",
+   "PlayerID": 4,
+   "Time": "40",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G57",
+   "TeamID": "C1",
+   "PlayerID": 7,
+   "Time": "61",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G58",
+   "TeamID": "E1",
+   "PlayerID": 8,
+   "Time": "76",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G58",
+   "TeamID": "G1",
+   "PlayerID": 7,
+   "Time": "31",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G59",
+   "TeamID": "A1",
+   "PlayerID": 2,
+   "Time": "115",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G59",
+   "TeamID": "A1",
+   "PlayerID": 6,
+   "Time": "31",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G59",
+   "TeamID": "D3",
+   "PlayerID": 9,
+   "Time": "39",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G59",
+   "TeamID": "D3",
+   "PlayerID": 21,
+   "Time": "101",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G60",
+   "TeamID": "G4",
+   "PlayerID": 6,
+   "Time": "30",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G60",
+   "TeamID": "G4",
+   "PlayerID": 20,
+   "Time": "59",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G61",
+   "TeamID": "C1",
+   "PlayerID": 5,
+   "Time": "51",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G62",
+   "TeamID": "D3",
+   "PlayerID": 4,
+   "Time": "68",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G62",
+   "TeamID": "D3",
+   "PlayerID": 17,
+   "Time": "109",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G62",
+   "TeamID": "G4",
+   "PlayerID": 12,
+   "Time": "5",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G63",
+   "TeamID": "G1",
+   "PlayerID": 10,
+   "Time": "82",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G63",
+   "TeamID": "G1",
+   "PlayerID": 15,
+   "Time": "4",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G64",
+   "TeamID": "C1",
+   "PlayerID": 6,
+   "Time": "59",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G64",
+   "TeamID": "C1",
+   "PlayerID": 7,
+   "Time": "38",
+   "Penalty": "Y"
+ },
+ {
+   "GameID": "G64",
+   "TeamID": "C1",
+   "PlayerID": 10,
+   "Time": "65",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G64",
+   "TeamID": "D3",
+   "PlayerID": 4,
+   "Time": "28",
+   "Penalty": "N"
+ },
+ {
+   "GameID": "G64",
+   "TeamID": "D3",
+   "PlayerID": 17,
+   "Time": "69",
+   "Penalty": "N"
+ }
+]

@@ -1,0 +1,194 @@
+[
+ {
+   "TeamID": "A1",
+   "Team": "Russia",
+   "Continent": "Europe",
+   "League": "UEFA"
+ },
+ {
+   "TeamID": "A2",
+   "Team": "Saudi Arabia",
+   "Continent": "Asia",
+   "League": "AFC"
+ },
+ {
+   "TeamID": "A3",
+   "Team": "Egypt",
+   "Continent": "Africa",
+   "League": "CAF"
+ },
+ {
+   "TeamID": "A4",
+   "Team": "Uruguay",
+   "Continent": "South America",
+   "League": "CONMEBOL"
+ },
+ {
+   "TeamID": "B1",
+   "Team": "Portugal",
+   "Continent": "Europe",
+   "League": "UEFA"
+ },
+ {
+   "TeamID": "B2",
+   "Team": "Spain",
+   "Continent": "Europe",
+   "League": "UEFA"
+ },
+ {
+   "TeamID": "B3",
+   "Team": "Morocco",
+   "Continent": "Africa",
+   "League": "CAF"
+ },
+ {
+   "TeamID": "B4",
+   "Team": "Iran",
+   "Continent": "Asia",
+   "League": "AFC"
+ },
+ {
+   "TeamID": "C1",
+   "Team": "France",
+   "Continent": "Europe",
+   "League": "UEFA"
+ },
+ {
+   "TeamID": "C2",
+   "Team": "Australia",
+   "Continent": "Australia",
+   "League": "AFC"
+ },
+ {
+   "TeamID": "C3",
+   "Team": "Peru",
+   "Continent": "South America",
+   "League": "CONMEBOL"
+ },
+ {
+   "TeamID": "C4",
+   "Team": "Denmark",
+   "Continent": "Europe",
+   "League": "UEFA"
+ },
+ {
+   "TeamID": "D1",
+   "Team": "Argentina",
+   "Continent": "South America",
+   "League": "CONMEBOL"
+ },
+ {
+   "TeamID": "D2",
+   "Team": "Iceland",
+   "Continent": "Europe",
+   "League": "UEFA"
+ },
+ {
+   "TeamID": "D3",
+   "Team": "Croatia",
+   "Continent": "Europe",
+   "League": "UEFA"
+ },
+ {
+   "TeamID": "D4",
+   "Team": "Nigeria",
+   "Continent": "Africa",
+   "League": "CAF"
+ },
+ {
+   "TeamID": "E1",
+   "Team": "Brazil",
+   "Continent": "South America",
+   "League": "CONMEBOL"
+ },
+ {
+   "TeamID": "E2",
+   "Team": "Switzerland",
+   "Continent": "Europe",
+   "League": "UEFA"
+ },
+ {
+   "TeamID": "E3",
+   "Team": "Costa Rica",
+   "Continent": "Central America",
+   "League": "CONCACAF"
+ },
+ {
+   "TeamID": "E4",
+   "Team": "Serbia",
+   "Continent": "Europe",
+   "League": "UEFA"
+ },
+ {
+   "TeamID": "F1",
+   "Team": "Germany",
+   "Continent": "Europe",
+   "League": "UEFA"
+ },
+ {
+   "TeamID": "F2",
+   "Team": "Mexico",
+   "Continent": "North America",
+   "League": "CONCACAF"
+ },
+ {
+   "TeamID": "F3",
+   "Team": "Sweden",
+   "Continent": "Europe",
+   "League": "UEFA"
+ },
+ {
+   "TeamID": "F4",
+   "Team": "South Korea",
+   "Continent": "Asia",
+   "League": "AFC"
+ },
+ {
+   "TeamID": "G1",
+   "Team": "Belgium",
+   "Continent": "Europe",
+   "League": "UEFA"
+ },
+ {
+   "TeamID": "G2",
+   "Team": "Panama",
+   "Continent": "Carribean",
+   "League": "CONCACAF"
+ },
+ {
+   "TeamID": "G3",
+   "Team": "Tunisia",
+   "Continent": "Africa",
+   "League": "CAF"
+ },
+ {
+   "TeamID": "G4",
+   "Team": "England",
+   "Continent": "Europe",
+   "League": "UEFA"
+ },
+ {
+   "TeamID": "H1",
+   "Team": "Poland",
+   "Continent": "Europe",
+   "League": "UEFA"
+ },
+ {
+   "TeamID": "H2",
+   "Team": "Senegal",
+   "Continent": "Africa",
+   "League": "CAF"
+ },
+ {
+   "TeamID": "H3",
+   "Team": "Colombia",
+   "Continent": "South America",
+   "League": "CONMEBOL"
+ },
+ {
+   "TeamID": "H4",
+   "Team": "Japan",
+   "Continent": "Asia",
+   "League": "AFC"
+ }
+]

@@ -1,0 +1,33 @@
+TeamID,Team,Continent,League
+A1,Russia,Europe,UEFA
+A2,Saudi Arabia,Asia,AFC
+A3,Egypt,Africa,CAF
+A4,Uruguay,South America,CONMEBOL
+B1,Portugal,Europe,UEFA
+B2,Spain,Europe,UEFA
+B3,Morocco,Africa,CAF
+B4,Iran,Asia,AFC
+C1,France,Europe,UEFA
+C2,Australia,Australia,AFC
+C3,Peru,South America,CONMEBOL
+C4,Denmark,Europe,UEFA
+D1,Argentina,South America,CONMEBOL
+D2,Iceland,Europe,UEFA
+D3,Croatia,Europe,UEFA
+D4,Nigeria,Africa,CAF
+E1,Brazil,South America,CONMEBOL
+E2,Switzerland,Europe,UEFA
+E3,Costa Rica,Central America,CONCACAF
+E4,Serbia,Europe,UEFA
+F1,Germany,Europe,UEFA
+F2,Mexico,North America,CONCACAF
+F3,Sweden,Europe,UEFA
+F4,South Korea,Asia,AFC
+G1,Belgium,Europe,UEFA
+G2,Panama,Carribean,CONCACAF
+G3,Tunisia,Africa,CAF
+G4,England,Europe,UEFA
+H1,Poland,Europe,UEFA
+H2,Senegal,Africa,CAF
+H3,Colombia,South America,CONMEBOL
+H4,Japan,Asia,AFC

@@ -1,0 +1,86 @@
+[
+ {
+   "GameID": "G3",
+   "TeamID": "B3",
+   "PlayerID": 20,
+   "Time": "90+5",
+   "For_TeamID": "B4"
+ },
+ {
+   "GameID": "G5",
+   "TeamID": "C2",
+   "PlayerID": 16,
+   "Time": "81",
+   "For_TeamID": "C1"
+ },
+ {
+   "GameID": "G8",
+   "TeamID": "D4",
+   "PlayerID": 8,
+   "Time": "32",
+   "For_TeamID": "D3"
+ },
+ {
+   "GameID": "G16",
+   "TeamID": "H1",
+   "PlayerID": 4,
+   "Time": "37",
+   "For_TeamID": "H2"
+ },
+ {
+   "GameID": "G17",
+   "TeamID": "A3",
+   "PlayerID": 7,
+   "Time": "47",
+   "For_TeamID": "A1"
+ },
+ {
+   "GameID": "G33",
+   "TeamID": "A1",
+   "PlayerID": 6,
+   "Time": "23",
+   "For_TeamID": "A4"
+ },
+ {
+   "GameID": "G42",
+   "TeamID": "F2",
+   "PlayerID": 21,
+   "Time": "74",
+   "For_TeamID": "F3"
+ },
+ {
+   "GameID": "G44",
+   "TeamID": "E2",
+   "PlayerID": 1,
+   "Time": "90+3",
+   "For_TeamID": "E3"
+ },
+ {
+   "GameID": "G47",
+   "TeamID": "G3",
+   "PlayerID": 4,
+   "Time": "33",
+   "For_TeamID": "G2"
+ },
+ {
+   "GameID": "G51",
+   "TeamID": "A1",
+   "PlayerID": 4,
+   "Time": "12",
+   "For_TeamID": "B2"
+ },
+ {
+   "GameID": "G58",
+   "TeamID": "E1",
+   "PlayerID": 17,
+   "Time": "13",
+   "For_TeamID": "G1"
+ },
+ {
+   "GameID": "G64",
+   "TeamID": "D3",
+   "PlayerID": 17,
+   "Time": "18",
+   "For_TeamID": "C1"
+ }
+]

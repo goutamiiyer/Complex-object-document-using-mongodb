@@ -1,0 +1,1577 @@
+[
+ {
+   "GameID": "G1",
+   "TeamID": "A1",
+   "PlayerID": 17,
+   "Color_Card": "Yellow",
+   "Time": "88"
+ },
+ {
+   "GameID": "G1",
+   "TeamID": "A2",
+   "PlayerID": 17,
+   "Color_Card": "Yellow",
+   "Time": "90+3"
+ },
+ {
+   "GameID": "G2",
+   "TeamID": "A3",
+   "PlayerID": 6,
+   "Color_Card": "Yellow",
+   "Time": "90+6"
+ },
+ {
+   "GameID": "G2",
+   "TeamID": "A3",
+   "PlayerID": 5,
+   "Color_Card": "Yellow",
+   "Time": "90+4"
+ },
+ {
+   "GameID": "G3",
+   "TeamID": "B3",
+   "PlayerID": 8,
+   "Color_Card": "Yellow",
+   "Time": "34"
+ },
+ {
+   "GameID": "G3",
+   "TeamID": "B4",
+   "PlayerID": 7,
+   "Color_Card": "Yellow",
+   "Time": "10"
+ },
+ {
+   "GameID": "G3",
+   "TeamID": "B4",
+   "PlayerID": 10,
+   "Color_Card": "Yellow",
+   "Time": "90+2"
+ },
+ {
+   "GameID": "G3",
+   "TeamID": "B4",
+   "PlayerID": 18,
+   "Color_Card": "Yellow",
+   "Time": "47"
+ },
+ {
+   "GameID": "G4",
+   "TeamID": "B1",
+   "PlayerID": 16,
+   "Color_Card": "Yellow",
+   "Time": "28"
+ },
+ {
+   "GameID": "G4",
+   "TeamID": "B2",
+   "PlayerID": 5,
+   "Color_Card": "Yellow",
+   "Time": "17"
+ },
+ {
+   "GameID": "G5",
+   "TeamID": "C1",
+   "PlayerID": 12,
+   "Color_Card": "Yellow",
+   "Time": "76"
+ },
+ {
+   "GameID": "G5",
+   "TeamID": "C2",
+   "PlayerID": 7,
+   "Color_Card": "Yellow",
+   "Time": "13"
+ },
+ {
+   "GameID": "G5",
+   "TeamID": "C2",
+   "PlayerID": 16,
+   "Color_Card": "Yellow",
+   "Time": "87"
+ },
+ {
+   "GameID": "G5",
+   "TeamID": "C2",
+   "PlayerID": 19,
+   "Color_Card": "Yellow",
+   "Time": "57"
+ },
+ {
+   "GameID": "G7",
+   "TeamID": "C3",
+   "PlayerID": 13,
+   "Color_Card": "Yellow",
+   "Time": "38"
+ },
+ {
+   "GameID": "G7",
+   "TeamID": "C4",
+   "PlayerID": 8,
+   "Color_Card": "Yellow",
+   "Time": "86"
+ },
+ {
+   "GameID": "G7",
+   "TeamID": "C4",
+   "PlayerID": 20,
+   "Color_Card": "Yellow",
+   "Time": "90+3"
+ },
+ {
+   "GameID": "G8",
+   "TeamID": "D3",
+   "PlayerID": 7,
+   "Color_Card": "Yellow",
+   "Time": "30"
+ },
+ {
+   "GameID": "G8",
+   "TeamID": "D3",
+   "PlayerID": 11,
+   "Color_Card": "Yellow",
+   "Time": "89"
+ },
+ {
+   "GameID": "G8",
+   "TeamID": "D4",
+   "PlayerID": 5,
+   "Color_Card": "Yellow",
+   "Time": "70"
+ },
+ {
+   "GameID": "G9",
+   "TeamID": "E3",
+   "PlayerID": 15,
+   "Color_Card": "Yellow",
+   "Time": "22"
+ },
+ {
+   "GameID": "G9",
+   "TeamID": "E3",
+   "PlayerID": 20,
+   "Color_Card": "Yellow",
+   "Time": "56"
+ },
+ {
+   "GameID": "G9",
+   "TeamID": "E4",
+   "PlayerID": 6,
+   "Color_Card": "Yellow",
+   "Time": "59"
+ },
+ {
+   "GameID": "G9",
+   "TeamID": "E4",
+   "PlayerID": 8,
+   "Color_Card": "Yellow",
+   "Time": "90"
+ },
+ {
+   "GameID": "G10",
+   "TeamID": "F1",
+   "PlayerID": 5,
+   "Color_Card": "Yellow",
+   "Time": "84"
+ },
+ {
+   "GameID": "G10",
+   "TeamID": "F1",
+   "PlayerID": 13,
+   "Color_Card": "Yellow",
+   "Time": "83"
+ },
+ {
+   "GameID": "G10",
+   "TeamID": "F2",
+   "PlayerID": 15,
+   "Color_Card": "Yellow",
+   "Time": "40"
+ },
+ {
+   "GameID": "G10",
+   "TeamID": "F2",
+   "PlayerID": 16,
+   "Color_Card": "Yellow",
+   "Time": "90"
+ },
+ {
+   "GameID": "G11",
+   "TeamID": "E1",
+   "PlayerID": 5,
+   "Color_Card": "Yellow",
+   "Time": "47"
+ },
+ {
+   "GameID": "G11",
+   "TeamID": "E2",
+   "PlayerID": 2,
+   "Color_Card": "Yellow",
+   "Time": "31"
+ },
+ {
+   "GameID": "G11",
+   "TeamID": "E2",
+   "PlayerID": 11,
+   "Color_Card": "Yellow",
+   "Time": "68"
+ },
+ {
+   "GameID": "G11",
+   "TeamID": "E2",
+   "PlayerID": 22,
+   "Color_Card": "Yellow",
+   "Time": "65"
+ },
+ {
+   "GameID": "G12",
+   "TeamID": "F3",
+   "PlayerID": 17,
+   "Color_Card": "Yellow",
+   "Time": "61"
+ },
+ {
+   "GameID": "G12",
+   "TeamID": "F4",
+   "PlayerID": 9,
+   "Color_Card": "Yellow",
+   "Time": "13"
+ },
+ {
+   "GameID": "G12",
+   "TeamID": "F4",
+   "PlayerID": 11,
+   "Color_Card": "Yellow",
+   "Time": "55"
+ },
+ {
+   "GameID": "G13",
+   "TeamID": "G1",
+   "PlayerID": 5,
+   "Color_Card": "Yellow",
+   "Time": "59"
+ },
+ {
+   "GameID": "G13",
+   "TeamID": "G1",
+   "PlayerID": 7,
+   "Color_Card": "Yellow",
+   "Time": "88"
+ },
+ {
+   "GameID": "G13",
+   "TeamID": "G1",
+   "PlayerID": 15,
+   "Color_Card": "Yellow",
+   "Time": "14"
+ },
+ {
+   "GameID": "G13",
+   "TeamID": "G2",
+   "PlayerID": 2,
+   "Color_Card": "Yellow",
+   "Time": "51"
+ },
+ {
+   "GameID": "G13",
+   "TeamID": "G2",
+   "PlayerID": 8,
+   "Color_Card": "Yellow",
+   "Time": "45+2"
+ },
+ {
+   "GameID": "G13",
+   "TeamID": "G2",
+   "PlayerID": 11,
+   "Color_Card": "Yellow",
+   "Time": "49"
+ },
+ {
+   "GameID": "G13",
+   "TeamID": "G2",
+   "PlayerID": 15,
+   "Color_Card": "Yellow",
+   "Time": "18"
+ },
+ {
+   "GameID": "G13",
+   "TeamID": "G2",
+   "PlayerID": 20,
+   "Color_Card": "Yellow",
+   "Time": "57"
+ },
+ {
+   "GameID": "G14",
+   "TeamID": "G4",
+   "PlayerID": 2,
+   "Color_Card": "Yellow",
+   "Time": "33"
+ },
+ {
+   "GameID": "G15",
+   "TeamID": "H3",
+   "PlayerID": 6,
+   "Color_Card": "RED",
+   "Time": "3"
+ },
+ {
+   "GameID": "G15",
+   "TeamID": "H3",
+   "PlayerID": 5,
+   "Color_Card": "Yellow",
+   "Time": "64"
+ },
+ {
+   "GameID": "G15",
+   "TeamID": "H3",
+   "PlayerID": 10,
+   "Color_Card": "Yellow",
+   "Time": "86"
+ },
+ {
+   "GameID": "G15",
+   "TeamID": "H4",
+   "PlayerID": 1,
+   "Color_Card": "Yellow",
+   "Time": "90+4"
+ },
+ {
+   "GameID": "G16",
+   "TeamID": "H1",
+   "PlayerID": 10,
+   "Color_Card": "Yellow",
+   "Time": "12"
+ },
+ {
+   "GameID": "G14",
+   "TeamID": "H2",
+   "PlayerID": 5,
+   "Color_Card": "Yellow",
+   "Time": "72"
+ },
+ {
+   "GameID": "G16",
+   "TeamID": "H2",
+   "PlayerID": 6,
+   "Color_Card": "Yellow",
+   "Time": "49"
+ },
+ {
+   "GameID": "G17",
+   "TeamID": "A1",
+   "PlayerID": 10,
+   "Color_Card": "Yellow",
+   "Time": "84"
+ },
+ {
+   "GameID": "G17",
+   "TeamID": "A3",
+   "PlayerID": 21,
+   "Color_Card": "Yellow",
+   "Time": "57"
+ },
+ {
+   "GameID": "G18",
+   "TeamID": "B1",
+   "PlayerID": 23,
+   "Color_Card": "Yellow",
+   "Time": "90+2"
+ },
+ {
+   "GameID": "G18",
+   "TeamID": "B3",
+   "PlayerID": 5,
+   "Color_Card": "Yellow",
+   "Time": "40"
+ },
+ {
+   "GameID": "G20",
+   "TeamID": "B4",
+   "PlayerID": 9,
+   "Color_Card": "Yellow",
+   "Time": "90+2"
+ },
+ {
+   "GameID": "G20",
+   "TeamID": "B4",
+   "PlayerID": 11,
+   "Color_Card": "Yellow",
+   "Time": "79"
+ },
+ {
+   "GameID": "G21",
+   "TeamID": "C4",
+   "PlayerID": 20,
+   "Color_Card": "Yellow",
+   "Time": "37"
+ },
+ {
+   "GameID": "G21",
+   "TeamID": "C4",
+   "PlayerID": 23,
+   "Color_Card": "Yellow",
+   "Time": "84"
+ },
+ {
+   "GameID": "G22",
+   "TeamID": "C1",
+   "PlayerID": 6,
+   "Color_Card": "Yellow",
+   "Time": "86"
+ },
+ {
+   "GameID": "G22",
+   "TeamID": "C1",
+   "PlayerID": 14,
+   "Color_Card": "Yellow",
+   "Time": "16"
+ },
+ {
+   "GameID": "G22",
+   "TeamID": "C3",
+   "PlayerID": 9,
+   "Color_Card": "Yellow",
+   "Time": "23"
+ },
+ {
+   "GameID": "G22",
+   "TeamID": "C3",
+   "PlayerID": 23,
+   "Color_Card": "Yellow",
+   "Time": "81"
+ },
+ {
+   "GameID": "G23",
+   "TeamID": "D1",
+   "PlayerID": 2,
+   "Color_Card": "Yellow",
+   "Time": "51"
+ },
+ {
+   "GameID": "G23",
+   "TeamID": "D1",
+   "PlayerID": 8,
+   "Color_Card": "Yellow",
+   "Time": "87"
+ },
+ {
+   "GameID": "G23",
+   "TeamID": "D1",
+   "PlayerID": 17,
+   "Color_Card": "Yellow",
+   "Time": "85"
+ },
+ {
+   "GameID": "G23",
+   "TeamID": "D3",
+   "PlayerID": 2,
+   "Color_Card": "Yellow",
+   "Time": "67"
+ },
+ {
+   "GameID": "G23",
+   "TeamID": "D3",
+   "PlayerID": 17,
+   "Color_Card": "Yellow",
+   "Time": "58"
+ },
+ {
+   "GameID": "G23",
+   "TeamID": "D3",
+   "PlayerID": 18,
+   "Color_Card": "Yellow",
+   "Time": "39"
+ },
+ {
+   "GameID": "G23",
+   "TeamID": "D3",
+   "PlayerID": 5,
+   "Color_Card": "Yellow",
+   "Time": "90+4"
+ },
+ {
+   "GameID": "G24",
+   "TeamID": "E1",
+   "PlayerID": 10,
+   "Color_Card": "Yellow",
+   "Time": "81"
+ },
+ {
+   "GameID": "G24",
+   "TeamID": "E1",
+   "PlayerID": 11,
+   "Color_Card": "Yellow",
+   "Time": "81"
+ },
+ {
+   "GameID": "G24",
+   "TeamID": "E3",
+   "PlayerID": 2,
+   "Color_Card": "Yellow",
+   "Time": "84"
+ },
+ {
+   "GameID": "G25",
+   "TeamID": "D4",
+   "PlayerID": 2,
+   "Color_Card": "Yellow",
+   "Time": "44"
+ },
+ {
+   "GameID": "G26",
+   "TeamID": "E4",
+   "PlayerID": 4,
+   "Color_Card": "Yellow",
+   "Time": "39"
+ },
+ {
+   "GameID": "G26",
+   "TeamID": "E4",
+   "PlayerID": 9,
+   "Color_Card": "Yellow",
+   "Time": "87"
+ },
+ {
+   "GameID": "G26",
+   "TeamID": "E4",
+   "PlayerID": 20,
+   "Color_Card": "Yellow",
+   "Time": "34"
+ },
+ {
+   "GameID": "G26",
+   "TeamID": "E4",
+   "PlayerID": 21,
+   "Color_Card": "Yellow",
+   "Time": "45+2"
+ },
+ {
+   "GameID": "G26",
+   "TeamID": "E2",
+   "PlayerID": 23,
+   "Color_Card": "Yellow",
+   "Time": "90+1"
+ },
+ {
+   "GameID": "G27",
+   "TeamID": "G3",
+   "PlayerID": 13,
+   "Color_Card": "Yellow",
+   "Time": "14"
+ },
+ {
+   "GameID": "G28",
+   "TeamID": "F4",
+   "PlayerID": 2,
+   "Color_Card": "Yellow",
+   "Time": "63"
+ },
+ {
+   "GameID": "G28",
+   "TeamID": "F4",
+   "PlayerID": 19,
+   "Color_Card": "Yellow",
+   "Time": "58"
+ },
+ {
+   "GameID": "G28",
+   "TeamID": "F4",
+   "PlayerID": 10,
+   "Color_Card": "Yellow",
+   "Time": "72"
+ },
+ {
+   "GameID": "G28",
+   "TeamID": "F4",
+   "PlayerID": 15,
+   "Color_Card": "Yellow",
+   "Time": "80"
+ },
+ {
+   "GameID": "G29",
+   "TeamID": "F1",
+   "PlayerID": 17,
+   "Color_Card": "Yellow",
+   "Time": "71"
+ },
+ {
+   "GameID": "G29",
+   "TeamID": "F1",
+   "PlayerID": 17,
+   "Color_Card": "Yellow -> Red",
+   "Time": "82"
+ },
+ {
+   "GameID": "G29",
+   "TeamID": "F3",
+   "PlayerID": 7,
+   "Color_Card": "Yellow",
+   "Time": "90+7"
+ },
+ {
+   "GameID": "G29",
+   "TeamID": "F3",
+   "PlayerID": 8,
+   "Color_Card": "Yellow",
+   "Time": "52"
+ },
+ {
+   "GameID": "G30",
+   "TeamID": "G4",
+   "PlayerID": 21,
+   "Color_Card": "Yellow",
+   "Time": "24"
+ },
+ {
+   "GameID": "G30",
+   "TeamID": "G2",
+   "PlayerID": 2,
+   "Color_Card": "Yellow",
+   "Time": "72"
+ },
+ {
+   "GameID": "G30",
+   "TeamID": "G3",
+   "PlayerID": 4,
+   "Color_Card": "Yellow",
+   "Time": "44"
+ },
+ {
+   "GameID": "G30",
+   "TeamID": "G4",
+   "PlayerID": 11,
+   "Color_Card": "Yellow",
+   "Time": "10"
+ },
+ {
+   "GameID": "G31",
+   "TeamID": "H4",
+   "PlayerID": 14,
+   "Color_Card": "Yellow",
+   "Time": "68"
+ },
+ {
+   "GameID": "G31",
+   "TeamID": "H4",
+   "PlayerID": 17,
+   "Color_Card": "Yellow",
+   "Time": "90+4"
+ },
+ {
+   "GameID": "G31",
+   "TeamID": "H2",
+   "PlayerID": 12,
+   "Color_Card": "Yellow",
+   "Time": "90"
+ },
+ {
+   "GameID": "G31",
+   "TeamID": "H2",
+   "PlayerID": 19,
+   "Color_Card": "Yellow",
+   "Time": "59"
+ },
+ {
+   "GameID": "G31",
+   "TeamID": "H2",
+   "PlayerID": 11,
+   "Color_Card": "Yellow",
+   "Time": "90+1"
+ },
+ {
+   "GameID": "G32",
+   "TeamID": "H1",
+   "PlayerID": 5,
+   "Color_Card": "Yellow",
+   "Time": "61"
+ },
+ {
+   "GameID": "G32",
+   "TeamID": "H1",
+   "PlayerID": 6,
+   "Color_Card": "Yellow",
+   "Time": "85"
+ },
+ {
+   "GameID": "G33",
+   "TeamID": "A4",
+   "PlayerID": 6,
+   "Color_Card": "Yellow",
+   "Time": "59"
+ },
+ {
+   "GameID": "G33",
+   "TeamID": "A1",
+   "PlayerID": 8,
+   "Color_Card": "Yellow",
+   "Time": "9"
+ },
+ {
+   "GameID": "G33",
+   "TeamID": "A1",
+   "PlayerID": 23,
+   "Color_Card": "Yellow",
+   "Time": "27"
+ },
+ {
+   "GameID": "G33",
+   "TeamID": "A1",
+   "PlayerID": 23,
+   "Color_Card": "Yellow -> Red",
+   "Time": "36"
+ },
+ {
+   "GameID": "G34",
+   "TeamID": "A3",
+   "PlayerID": 2,
+   "Color_Card": "Yellow",
+   "Time": "45+5"
+ },
+ {
+   "GameID": "G34",
+   "TeamID": "A3",
+   "PlayerID": 7,
+   "Color_Card": "Yellow",
+   "Time": "86"
+ },
+ {
+   "GameID": "G35",
+   "TeamID": "B3",
+   "PlayerID": 12,
+   "Color_Card": "Yellow",
+   "Time": "85"
+ },
+ {
+   "GameID": "G35",
+   "TeamID": "B3",
+   "PlayerID": 2,
+   "Color_Card": "Yellow",
+   "Time": "90+3"
+ },
+ {
+   "GameID": "G35",
+   "TeamID": "B3",
+   "PlayerID": 4,
+   "Color_Card": "Yellow",
+   "Time": "31"
+ },
+ {
+   "GameID": "G35",
+   "TeamID": "B3",
+   "PlayerID": 8,
+   "Color_Card": "Yellow",
+   "Time": "21"
+ },
+ {
+   "GameID": "G35",
+   "TeamID": "B3",
+   "PlayerID": 14,
+   "Color_Card": "Yellow",
+   "Time": "31"
+ },
+ {
+   "GameID": "G35",
+   "TeamID": "B3",
+   "PlayerID": 16,
+   "Color_Card": "Yellow",
+   "Time": "29"
+ },
+ {
+   "GameID": "G36",
+   "TeamID": "B4",
+   "PlayerID": 3,
+   "Color_Card": "Yellow",
+   "Time": "52"
+ },
+ {
+   "GameID": "G36",
+   "TeamID": "B4",
+   "PlayerID": 20,
+   "Color_Card": "Yellow",
+   "Time": "54"
+ },
+ {
+   "GameID": "G36",
+   "TeamID": "B1",
+   "PlayerID": 5,
+   "Color_Card": "Yellow",
+   "Time": "33"
+ },
+ {
+   "GameID": "G36",
+   "TeamID": "B1",
+   "PlayerID": 7,
+   "Color_Card": "Yellow",
+   "Time": "83"
+ },
+ {
+   "GameID": "G36",
+   "TeamID": "B1",
+   "PlayerID": 20,
+   "Color_Card": "Yellow",
+   "Time": "64"
+ },
+ {
+   "GameID": "G36",
+   "TeamID": "B1",
+   "PlayerID": 21,
+   "Color_Card": "Yellow",
+   "Time": "90+8"
+ },
+ {
+   "GameID": "G37",
+   "TeamID": "C2",
+   "PlayerID": 5,
+   "Color_Card": "Yellow",
+   "Time": "88"
+ },
+ {
+   "GameID": "G37",
+   "TeamID": "C2",
+   "PlayerID": 15,
+   "Color_Card": "Yellow",
+   "Time": "10"
+ },
+ {
+   "GameID": "G37",
+   "TeamID": "C2",
+   "PlayerID": 23,
+   "Color_Card": "Yellow",
+   "Time": "66"
+ },
+ {
+   "GameID": "G37",
+   "TeamID": "C2",
+   "PlayerID": 17,
+   "Color_Card": "Yellow",
+   "Time": "60"
+ },
+ {
+   "GameID": "G37",
+   "TeamID": "C3",
+   "PlayerID": 19,
+   "Color_Card": "Yellow",
+   "Time": "45"
+ },
+ {
+   "GameID": "G37",
+   "TeamID": "C3",
+   "PlayerID": 7,
+   "Color_Card": "Yellow",
+   "Time": "79"
+ },
+ {
+   "GameID": "G38",
+   "TeamID": "C4",
+   "PlayerID": 13,
+   "Color_Card": "Yellow",
+   "Time": "45+3"
+ },
+ {
+   "GameID": "G39",
+   "TeamID": "D4",
+   "PlayerID": 6,
+   "Color_Card": "Yellow",
+   "Time": "32"
+ },
+ {
+   "GameID": "G39",
+   "TeamID": "D4",
+   "PlayerID": 10,
+   "Color_Card": "Yellow",
+   "Time": "90+1"
+ },
+ {
+   "GameID": "G39",
+   "TeamID": "D1",
+   "PlayerID": 7,
+   "Color_Card": "Yellow",
+   "Time": "64"
+ },
+ {
+   "GameID": "G39",
+   "TeamID": "D1",
+   "PlayerID": 10,
+   "Color_Card": "Yellow",
+   "Time": "90+4"
+ },
+ {
+   "GameID": "G39",
+   "TeamID": "D1",
+   "PlayerID": 14,
+   "Color_Card": "Yellow",
+   "Time": "49"
+ },
+ {
+   "GameID": "G40",
+   "TeamID": "D2",
+   "PlayerID": 2,
+   "Color_Card": "Yellow",
+   "Time": "84"
+ },
+ {
+   "GameID": "G40",
+   "TeamID": "D2",
+   "PlayerID": 11,
+   "Color_Card": "Yellow",
+   "Time": "64"
+ },
+ {
+   "GameID": "G40",
+   "TeamID": "D2",
+   "PlayerID": 20,
+   "Color_Card": "Yellow",
+   "Time": "59"
+ },
+ {
+   "GameID": "G40",
+   "TeamID": "D3",
+   "PlayerID": 13,
+   "Color_Card": "Yellow",
+   "Time": "83"
+ },
+ {
+   "GameID": "G40",
+   "TeamID": "D3",
+   "PlayerID": 20,
+   "Color_Card": "Yellow",
+   "Time": "14"
+ },
+ {
+   "GameID": "G41",
+   "TeamID": "F4",
+   "PlayerID": 7,
+   "Color_Card": "Yellow",
+   "Time": "65"
+ },
+ {
+   "GameID": "G41",
+   "TeamID": "F4",
+   "PlayerID": 15,
+   "Color_Card": "Yellow",
+   "Time": "9"
+ },
+ {
+   "GameID": "G41",
+   "TeamID": "F4",
+   "PlayerID": 17,
+   "Color_Card": "Yellow",
+   "Time": "23"
+ },
+ {
+   "GameID": "G41",
+   "TeamID": "F4",
+   "PlayerID": 18,
+   "Color_Card": "Yellow",
+   "Time": "48"
+ },
+ {
+   "GameID": "G42",
+   "TeamID": "F2",
+   "PlayerID": 7,
+   "Color_Card": "Yellow",
+   "Time": "86"
+ },
+ {
+   "GameID": "G42",
+   "TeamID": "F2",
+   "PlayerID": 15,
+   "Color_Card": "Yellow",
+   "Time": "61"
+ },
+ {
+   "GameID": "G42",
+   "TeamID": "F2",
+   "PlayerID": 23,
+   "Color_Card": "Yellow",
+   "Time": "1"
+ },
+ {
+   "GameID": "G42",
+   "TeamID": "F3",
+   "PlayerID": 2,
+   "Color_Card": "Yellow",
+   "Time": "88"
+ },
+ {
+   "GameID": "G42",
+   "TeamID": "F3",
+   "PlayerID": 7,
+   "Color_Card": "Yellow",
+   "Time": "26"
+ },
+ {
+   "GameID": "G43",
+   "TeamID": "E4",
+   "PlayerID": 9,
+   "Color_Card": "Yellow",
+   "Time": "70"
+ },
+ {
+   "GameID": "G43",
+   "TeamID": "E4",
+   "PlayerID": 21,
+   "Color_Card": "Yellow",
+   "Time": "48"
+ },
+ {
+   "GameID": "G43",
+   "TeamID": "E4",
+   "PlayerID": 22,
+   "Color_Card": "Yellow",
+   "Time": "33"
+ },
+ {
+   "GameID": "G44",
+   "TeamID": "E2",
+   "PlayerID": 2,
+   "Color_Card": "Yellow",
+   "Time": "37"
+ },
+ {
+   "GameID": "G44",
+   "TeamID": "E2",
+   "PlayerID": 22,
+   "Color_Card": "Yellow",
+   "Time": "83"
+ },
+ {
+   "GameID": "G44",
+   "TeamID": "E2",
+   "PlayerID": 17,
+   "Color_Card": "Yellow",
+   "Time": "75"
+ },
+ {
+   "GameID": "G44",
+   "TeamID": "E3",
+   "PlayerID": 12,
+   "Color_Card": "Yellow",
+   "Time": "29"
+ },
+ {
+   "GameID": "G44",
+   "TeamID": "E3",
+   "PlayerID": 16,
+   "Color_Card": "Yellow",
+   "Time": "11"
+ },
+ {
+   "GameID": "G44",
+   "TeamID": "E3",
+   "PlayerID": 19,
+   "Color_Card": "Yellow",
+   "Time": "89"
+ },
+ {
+   "GameID": "G45",
+   "TeamID": "H4",
+   "PlayerID": 20,
+   "Color_Card": "Yellow",
+   "Time": "66"
+ },
+ {
+   "GameID": "G46",
+   "TeamID": "H2",
+   "PlayerID": 19,
+   "Color_Card": "Yellow",
+   "Time": "51"
+ },
+ {
+   "GameID": "G46",
+   "TeamID": "H3",
+   "PlayerID": 17,
+   "Color_Card": "Yellow",
+   "Time": "45"
+ },
+ {
+   "GameID": "G47",
+   "TeamID": "G2",
+   "PlayerID": 6,
+   "Color_Card": "Yellow",
+   "Time": "80"
+ },
+ {
+   "GameID": "G47",
+   "TeamID": "G2",
+   "PlayerID": 19,
+   "Color_Card": "Yellow",
+   "Time": "78"
+ },
+ {
+   "GameID": "G47",
+   "TeamID": "G2",
+   "PlayerID": 18,
+   "Color_Card": "Yellow",
+   "Time": "90+6"
+ },
+ {
+   "GameID": "G47",
+   "TeamID": "G3",
+   "PlayerID": 13,
+   "Color_Card": "Yellow",
+   "Time": "44"
+ },
+ {
+   "GameID": "G47",
+   "TeamID": "G3",
+   "PlayerID": 20,
+   "Color_Card": "Yellow",
+   "Time": "90+3"
+ },
+ {
+   "GameID": "G47",
+   "TeamID": "G3",
+   "PlayerID": 9,
+   "Color_Card": "Yellow",
+   "Time": "71"
+ },
+ {
+   "GameID": "G48",
+   "TeamID": "G1",
+   "PlayerID": 17,
+   "Color_Card": "Yellow",
+   "Time": "19"
+ },
+ {
+   "GameID": "G48",
+   "TeamID": "G1",
+   "PlayerID": 23,
+   "Color_Card": "Yellow",
+   "Time": "33"
+ },
+ {
+   "GameID": "G49",
+   "TeamID": "B1",
+   "PlayerID": 7,
+   "Color_Card": "Yellow",
+   "Time": "90+3"
+ },
+ {
+   "GameID": "G50",
+   "TeamID": "C1",
+   "PlayerID": 2,
+   "Color_Card": "Yellow",
+   "Time": "73"
+ },
+ {
+   "GameID": "G50",
+   "TeamID": "C1",
+   "PlayerID": 9,
+   "Color_Card": "Yellow",
+   "Time": "90+3"
+ },
+ {
+   "GameID": "G50",
+   "TeamID": "C1",
+   "PlayerID": 14,
+   "Color_Card": "Yellow",
+   "Time": "72"
+ },
+ {
+   "GameID": "G50",
+   "TeamID": "D1",
+   "PlayerID": 3,
+   "Color_Card": "Yellow",
+   "Time": "19"
+ },
+ {
+   "GameID": "G50",
+   "TeamID": "D1",
+   "PlayerID": 7,
+   "Color_Card": "Yellow",
+   "Time": "50"
+ },
+ {
+   "GameID": "G50",
+   "TeamID": "D1",
+   "PlayerID": 14,
+   "Color_Card": "Yellow",
+   "Time": "43"
+ },
+ {
+   "GameID": "G50",
+   "TeamID": "D1",
+   "PlayerID": 16,
+   "Color_Card": "Yellow",
+   "Time": "11"
+ },
+ {
+   "GameID": "G50",
+   "TeamID": "D1",
+   "PlayerID": 17,
+   "Color_Card": "Yellow",
+   "Time": "90+3"
+ },
+ {
+   "GameID": "G51",
+   "TeamID": "B2",
+   "PlayerID": 3,
+   "Color_Card": "Yellow",
+   "Time": "40"
+ },
+ {
+   "GameID": "G51",
+   "TeamID": "A1",
+   "PlayerID": 3,
+   "Color_Card": "Yellow",
+   "Time": "54"
+ },
+ {
+   "GameID": "G51",
+   "TeamID": "A1",
+   "PlayerID": 11,
+   "Color_Card": "Yellow",
+   "Time": "71"
+ },
+ {
+   "GameID": "G52",
+   "TeamID": "C4",
+   "PlayerID": 13,
+   "Color_Card": "Yellow",
+   "Time": "115"
+ },
+ {
+   "GameID": "G53",
+   "TeamID": "E1",
+   "PlayerID": 5,
+   "Color_Card": "Yellow",
+   "Time": "59"
+ },
+ {
+   "GameID": "G53",
+   "TeamID": "E1",
+   "PlayerID": 6,
+   "Color_Card": "Yellow",
+   "Time": "43"
+ },
+ {
+   "GameID": "G53",
+   "TeamID": "F2",
+   "PlayerID": 3,
+   "Color_Card": "Yellow",
+   "Time": "77"
+ },
+ {
+   "GameID": "G53",
+   "TeamID": "F2",
+   "PlayerID": 16,
+   "Color_Card": "Yellow",
+   "Time": "55"
+ },
+ {
+   "GameID": "G53",
+   "TeamID": "F2",
+   "PlayerID": 18,
+   "Color_Card": "Yellow",
+   "Time": "90+2"
+ },
+ {
+   "GameID": "G53",
+   "TeamID": "F2",
+   "PlayerID": 21,
+   "Color_Card": "Yellow",
+   "Time": "38"
+ },
+ {
+   "GameID": "G54",
+   "TeamID": "H4",
+   "PlayerID": 7,
+   "Color_Card": "Yellow",
+   "Time": "40"
+ },
+ {
+   "GameID": "G55",
+   "TeamID": "F3",
+   "PlayerID": 2,
+   "Color_Card": "Yellow",
+   "Time": "31"
+ },
+ {
+   "GameID": "G55",
+   "TeamID": "E2",
+   "PlayerID": 10,
+   "Color_Card": "Yellow",
+   "Time": "68"
+ },
+ {
+   "GameID": "G55",
+   "TeamID": "E2",
+   "PlayerID": 11,
+   "Color_Card": "Yellow",
+   "Time": "61"
+ },
+ {
+   "GameID": "G55",
+   "TeamID": "E2",
+   "PlayerID": 6,
+   "Color_Card": "Red",
+   "Time": "90+4"
+ },
+ {
+   "GameID": "G56",
+   "TeamID": "H3",
+   "PlayerID": 4,
+   "Color_Card": "Yellow",
+   "Time": "52"
+ },
+ {
+   "GameID": "G56",
+   "TeamID": "H3",
+   "PlayerID": 5,
+   "Color_Card": "Yellow",
+   "Time": "41"
+ },
+ {
+   "GameID": "G56",
+   "TeamID": "H3",
+   "PlayerID": 6,
+   "Color_Card": "Yellow",
+   "Time": "54"
+ },
+ {
+   "GameID": "G56",
+   "TeamID": "H3",
+   "PlayerID": 9,
+   "Color_Card": "Yellow",
+   "Time": "63"
+ },
+ {
+   "GameID": "G56",
+   "TeamID": "H3",
+   "PlayerID": 11,
+   "Color_Card": "Yellow",
+   "Time": "118"
+ },
+ {
+   "GameID": "G56",
+   "TeamID": "H3",
+   "PlayerID": 7,
+   "Color_Card": "Yellow",
+   "Time": "64"
+ },
+ {
+   "GameID": "G56",
+   "TeamID": "G4",
+   "PlayerID": 7,
+   "Color_Card": "Yellow",
+   "Time": "69"
+ },
+ {
+   "GameID": "G56",
+   "TeamID": "G4",
+   "PlayerID": 8,
+   "Color_Card": "Yellow",
+   "Time": "56"
+ },
+ {
+   "GameID": "G57",
+   "TeamID": "A4",
+   "PlayerID": 6,
+   "Color_Card": "Yellow",
+   "Time": "38"
+ },
+ {
+   "GameID": "G57",
+   "TeamID": "A4",
+   "PlayerID": 7,
+   "Color_Card": "Yellow",
+   "Time": "69"
+ },
+ {
+   "GameID": "G57",
+   "TeamID": "C1",
+   "PlayerID": 10,
+   "Color_Card": "Yellow",
+   "Time": "69"
+ },
+ {
+   "GameID": "G57",
+   "TeamID": "C1",
+   "PlayerID": 21,
+   "Color_Card": "Yellow",
+   "Time": "33"
+ },
+ {
+   "GameID": "G58",
+   "TeamID": "E1",
+   "PlayerID": 17,
+   "Color_Card": "Yellow",
+   "Time": "85"
+ },
+ {
+   "GameID": "G58",
+   "TeamID": "E1",
+   "PlayerID": 22,
+   "Color_Card": "Yellow",
+   "Time": "90"
+ },
+ {
+   "GameID": "G58",
+   "TeamID": "G1",
+   "PlayerID": 2,
+   "Color_Card": "Yellow",
+   "Time": "47"
+ },
+ {
+   "GameID": "G58",
+   "TeamID": "G1",
+   "PlayerID": 15,
+   "Color_Card": "Yellow",
+   "Time": "71"
+ },
+ {
+   "GameID": "G59",
+   "TeamID": "A1",
+   "PlayerID": 8,
+   "Color_Card": "Yellow",
+   "Time": "109"
+ },
+ {
+   "GameID": "G59",
+   "TeamID": "D3",
+   "PlayerID": 3,
+   "Color_Card": "Yellow",
+   "Time": "38"
+ },
+ {
+   "GameID": "G59",
+   "TeamID": "D3",
+   "PlayerID": 6,
+   "Color_Card": "Yellow",
+   "Time": "35"
+ },
+ {
+   "GameID": "G59",
+   "TeamID": "D3",
+   "PlayerID": 21,
+   "Color_Card": "Yellow",
+   "Time": "101"
+ },
+ {
+   "GameID": "G59",
+   "TeamID": "D3",
+   "PlayerID": 22,
+   "Color_Card": "Yellow",
+   "Time": "114"
+ },
+ {
+   "GameID": "G60",
+   "TeamID": "F3",
+   "PlayerID": 7,
+   "Color_Card": "Yellow",
+   "Time": "90+4"
+ },
+ {
+   "GameID": "G60",
+   "TeamID": "F3",
+   "PlayerID": 11,
+   "Color_Card": "Yellow",
+   "Time": "87"
+ },
+ {
+   "GameID": "G60",
+   "TeamID": "G4",
+   "PlayerID": 6,
+   "Color_Card": "Yellow",
+   "Time": "87"
+ },
+ {
+   "GameID": "G61",
+   "TeamID": "C1",
+   "PlayerID": 10,
+   "Color_Card": "Yellow",
+   "Time": "90+3"
+ },
+ {
+   "GameID": "G61",
+   "TeamID": "C1",
+   "PlayerID": 13,
+   "Color_Card": "Yellow",
+   "Time": "87"
+ },
+ {
+   "GameID": "G61",
+   "TeamID": "G1",
+   "PlayerID": 2,
+   "Color_Card": "Yellow",
+   "Time": "71"
+ },
+ {
+   "GameID": "G61",
+   "TeamID": "G1",
+   "PlayerID": 5,
+   "Color_Card": "Yellow",
+   "Time": "90+4"
+ },
+ {
+   "GameID": "G61",
+   "TeamID": "G1",
+   "PlayerID": 10,
+   "Color_Card": "Yellow",
+   "Time": "63"
+ },
+ {
+   "GameID": "G62",
+   "TeamID": "D3",
+   "PlayerID": 17,
+   "Color_Card": "Yellow",
+   "Time": "48"
+ },
+ {
+   "GameID": "G62",
+   "TeamID": "D3",
+   "PlayerID": 18,
+   "Color_Card": "Yellow",
+   "Time": "96"
+ },
+ {
+   "GameID": "G62",
+   "TeamID": "G4",
+   "PlayerID": 2,
+   "Color_Card": "Yellow",
+   "Time": "54"
+ },
+ {
+   "GameID": "G63",
+   "TeamID": "G1",
+   "PlayerID": 6,
+   "Color_Card": "Yellow",
+   "Time": "90+3"
+ },
+ {
+   "GameID": "G63",
+   "TeamID": "G4",
+   "PlayerID": 5,
+   "Color_Card": "Yellow",
+   "Time": "52"
+ },
+ {
+   "GameID": "G63",
+   "TeamID": "G4",
+   "PlayerID": 6,
+   "Color_Card": "Yellow",
+   "Time": "76"
+ },
+ {
+   "GameID": "G64",
+   "TeamID": "C1",
+   "PlayerID": 13,
+   "Color_Card": "Yellow",
+   "Time": "27"
+ },
+ {
+   "GameID": "G64",
+   "TeamID": "C1",
+   "PlayerID": 21,
+   "Color_Card": "Yellow",
+   "Time": "41"
+ },
+ {
+   "GameID": "G64",
+   "TeamID": "D3",
+   "PlayerID": 2,
+   "Color_Card": "Yellow",
+   "Time": "90+2"
+ }
+]

@@ -1,0 +1,341 @@
+tasklist /FI "IMAGENAME eq mongod.exe"
+============================================================
+mongod
+mongoimport --db test --collection testcollection --type csv --file "C:\Users\deepa\Desktop\DB2\Project 2\FIFA dataset\world-cup-goals.csv" --headerline
+mongo
+show dbs
+use test
+show collections
+db.testcollection.findOne()
+db.testcollection.find()
+db.testcollection.find().pretty()
+============================================================
+cd "C:\Program Files\MongoDB\Server\4.0\bin\mongod.exe"
+mongoimport --db worldcup --collection cards --type csv --file "C:\Users\deepa\Desktop\DB2\Project 2\FIFA dataset\world-cup-cards.csv" --headerline
+mongoimport --db worldcup --collection extras --type csv --file "C:\Users\deepa\Desktop\DB2\Project 2\FIFA dataset\world-cup-extras.csv" --headerline
+mongoimport --db worldcup --collection goals --type csv --file "C:\Users\deepa\Desktop\DB2\Project 2\FIFA dataset\world-cup-goals.csv" --headerline
+mongoimport --db worldcup --collection own_goals --type csv --file "C:\Users\deepa\Desktop\DB2\Project 2\FIFA dataset\world-cup-own-goals.csv" --headerline
+mongoimport --db worldcup --collection player --type csv --file "C:\Users\deepa\Desktop\DB2\Project 2\FIFA dataset\world-cup-rosters.csv" --headerline
+mongoimport --db worldcup --collection game --type csv --file "C:\Users\deepa\Desktop\DB2\Project 2\FIFA dataset\world-cup-schedule-results.csv" --headerline
+mongoimport --db worldcup --collection stadium --type csv --file "C:\Users\deepa\Desktop\DB2\Project 2\FIFA dataset\world-cup-stadiums.csv" --headerline
+mongoimport --db worldcup --collection starting_lineup --type csv --file "C:\Users\deepa\Desktop\DB2\Project 2\FIFA dataset\world-cup-starting-lineups.csv" --headerline
+mongoimport --db worldcup --collection substitution --type csv --file "C:\Users\deepa\Desktop\DB2\Project 2\FIFA dataset\world-cup-substitutes.csv" --headerline
+mongoimport --db worldcup --collection team --type csv --file "C:\Users\deepa\Desktop\DB2\Project 2\FIFA dataset\world-cup-teams.csv" --headerline
+=============================================================
+
+1) Team Scores
+Game and Stadium Document
+db.game.aggregate([
+  { "$lookup": 
+    {
+    "from": "stadium",
+    "localField": "SID",
+    "foreignField": "SID",
+    "as": "GameStadium"
+    }
+  },
+  { "$unwind": "$GameStadium" },
+  { 
+	$project: 
+	{
+	 _id: 0,
+	 GameID: 1,
+	 MatchDate: 1,
+	 "GameStadium.SName": 1,
+	 "GameStadium.SCity": 1,
+	 TeamID1: 1,
+	 TeamID2: 1,
+	 Team1_Score: 1,
+	 Team2_Score: 1
+    }
+  },	
+  {$out: "GameStadium"}
+])
+
+
+Team1, Game and Stadium Document
+
+db.team.aggregate([
+  { "$lookup": 
+    {
+    "from": "GameStadium",
+    "localField": "TeamID",
+    "foreignField": "TeamID1",
+    "as": "Team1GameStadium"
+    }
+  },
+  { 
+	$project: 
+	{
+	 _id: 0,
+     Team: 1,
+	 TeamID: 1,
+	 "Team1GameStadium.GameID": 1,
+	 "Team1GameStadium.MatchDate": 1,
+	 "Team1GameStadium.TeamID1": 1,
+	 "Team1GameStadium.TeamID2": 1,
+	 "Team1GameStadium.Team1_Score": 1,
+	 "Team1GameStadium.Team2_Score": 1,
+	 "Team1GameStadium.GameStadium.SName": 1,
+	 "Team1GameStadium.GameStadium.SCity": 1,
+	}
+  },
+  {$out: "Team1GameStadiumfinal"}
+])
+
+Team2, Game and Stadium Document
+
+db.team.aggregate([
+  { "$lookup": 
+    {
+    "from": "GameStadium",
+    "localField": "TeamID",
+    "foreignField": "TeamID2",
+    "as": "Team2GameStadium"
+    }
+  },
+  { 
+	$project: 
+	{
+	 _id: 0,
+     Team: 1,
+	 TeamID: 1,
+	 "Team2GameStadium.GameID": 1,
+	 "Team2GameStadium.MatchDate": 1,
+	 "Team2GameStadium.TeamID1": 1,
+	 "Team2GameStadium.TeamID2": 1,
+	 "Team2GameStadium.Team1_Score": 1,
+	 "Team2GameStadium.Team2_Score": 1,
+	 "Team2GameStadium.GameStadium.SName": 1,
+	 "Team2GameStadium.GameStadium.SCity": 1,
+	}
+  },
+  {$out: "Team2GameStadiumfinal"}
+])
+
+Team1 and Team2 Document
+
+db.Team2GameStadiumfinal.aggregate([
+{ "$lookup": 
+    {
+    "from": "Team1GameStadiumfinal",
+    "localField": "Team",
+    "foreignField": "Team",
+    "as": "TeamCombinedData"
+    }
+  },
+  {
+   $replaceRoot: { newRoot: { $mergeObjects: [ { $arrayElemAt: [ "$TeamCombinedData", 0 ] }, "$$ROOT" ] } }
+  },
+ { $project: { TeamCombinedData: 0 } },
+
+{$out:"TeamData"}
+])
+
+Final Complex Object Document
+
+db.TeamData.aggregate([
+{ 
+$project: { Team: 1,
+ TeamID: 1,
+ Game_Scores: { $concatArrays: [ "$Team1GameStadium", "$Team2GameStadium" ] } } },
+ 
+{ $out: "Project2Final" }
+])
+
+db.Project2Final.update(
+   { },
+   { $set: { "Game_Scores.$[elem].TeamID1" : "Russia" } },
+   {
+     multi: true,
+     arrayFilters: [ { "elem.TeamID1": { $eq: "A1" } } ]
+   }
+)
+
+db.Project2Final.update(
+   { },
+   { $set: { "Game_Scores.$[elem].TeamID2" : "Russia" } },
+   {
+     multi: true,
+     arrayFilters: [ { "elem.TeamID2": { $eq: "A1" } } ]
+   }
+)
+
+
+db.Project2Final.find()
+db.Project2Final.drop()
+=========================================================================================================
+Sample Queries
+
+db.Project2Final.find( { $or: [ { "TeamID1": "A1" }, {"TeamID2": "A1" } ] } ).pretty()
+
+db.Project2Final.find({ Team1_Score: { $gt: 3 } }).pretty()
+
+db.Project2Final.find( { $or: [ { Team1_Score: { $gt: 3 } }, { Team2_Score: { $gt: 3 } } ] } ).pretty()
+============================================================================================================
+
+db.Project2Final.find( { Team: "Russia" } )
+
+db.Project2Final.find( { "Game_Scores.GameStadium.SCity": "Volgograd", Team: "Saudi Arabia" } )
+
+db.Project2Final.find( { "Game_Scores.MatchDate": "2018-06-25" } )
+=======================================================================================================
+db.game.aggregate ( [ 
+{
+$lookup:
+{
+from:"stadium",
+localField:"SID",
+foreignField:"SID",
+as:"GS"
+}
+},
+{
+$project: {
+        "_id": 0,
+"GameID": 1,
+"Groups": 1,
+"MatchDate":1,
+"SID" : 1,
+        "TeamID1" : 1,
+        "TeamID2" : 1,
+        "Team1_Score" : 1,
+        "Team2_Score" : 1,
+        "GS.SID" :1,
+"GS.SName" :1,
+"GS.SCity" :1
+}
+},
+
+{
+$out: "GSData"
+}
+])
+
+db.GSData.find()
+db.GSData.drop()
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+db.game.aggregate ( [ 
+{
+$lookup:
+{
+from:"goals",
+localField:"GameID",
+foreignField:"GameID",
+as:"GG"
+}
+},
+{
+$project: {
+        "_id": 0,
+"GameID": 1,
+"Groups": 1,
+"MatchDate":1,
+"SID" : 1,
+        "TeamID1" : 1,
+        "TeamID2" : 1,
+        "Team1_Score" : 1,
+        "Team2_Score" : 1,
+        "GG.GameID" :1,
+"GG.TeamID" :1,
+"GG.PlayerID" :1,
+"GG.Time" :1
+}
+},
+{
+$out: "GGData"
+}
+
+])
+
+db.GGData.find()
+db.GGData.drop()
+
+-----------------------------------------------------------------------------------------------------
+
+db.player.aggregate ( [ 
+{
+$lookup: {
+             from: "GSData",
+             let: {
+                teamID: "$TeamID",
+             },
+             pipeline: [
+                { $match: {
+                      $expr: {
+                         $or: [
+                            { $eq: [ "$TeamID1", "$$teamID" ] },
+                            { $eq: [ "$TeamID2", "$$teamID" ] }
+                         ] 
+                      }
+                   }
+                }
+             ],
+as: "PlayerGameData"
+}},
+{
+$project: {
+
+  "Birth Date": 0,
+  "Shirt Name": 0,
+  "Club": 0,
+  "Height": 0,
+  "Weight":0,
+  "PlayerGameData.Groups": 0,
+  "PlayerGameData.TeamID1": 0,
+  "PlayerGameData.TeamID2": 0,
+  "PlayerGameData.Team1_Score": 0,
+  "PlayerGameData.Team2_Score": 0,
+}},
+{
+$out: "GS_player"
+}
+])
+
+db.GS_player.find()
+db.GS_player.drop()
+
+------------------------------------------------------------------------------------------------
+db.GS_player.aggregate ( [ 
+{
+$lookup: {
+             from: "GGData",
+             let: {
+                teamID: "$TeamID"
+             },
+             pipeline: [
+                { $match: {
+                      $expr: {
+                         $or: [
+                            { $eq: [ "$TeamID1", "$$teamID" ] },
+                            { $eq: [ "$TeamID2", "$$teamID" ] }
+                         ] 
+                      }
+                   }
+                }
+             ],
+as: "GS_player_Goals"
+}},
+{
+$project: {
+  "GS_player_Goals.Groups": 0,
+  "GS_player_Goals.TeamID1": 0,
+  "GS_player_Goals.TeamID2": 0,
+  "GS_player_Goals.Team1_Score": 0,
+  "GS_player_Goals.Team2_Score": 0
+  }},
+{
+ $out: "PlayerData"
+}])
+
+db.PlayerData.find()
+db.PlayerData.drop()
+
+================================================================================================
+Sample Queries
+db.PlayerData.find( { PlayerID: 1} , { Position: "GK" } )
+db.PlayerData.find( { Team: "Argentina" }, { PlayerID: 1 }, { "PlayerGameData.GameID": "G50" }, { "GS_player_Goals.GG.TeamID": "D1" } )
+db.PlayerData.find( { "FIFA Popular Name": "GUZMAN Nahuel" } )
+
+
